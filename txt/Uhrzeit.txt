@@ -1,48 +1,48 @@
-001.svg|07:00/Uhrzeit§ 7 Uhr = 7, = 07:00
-002.svg|07:05/Uhrzeit§ 7 Uhr 5  = 5 nach 7, = 07:05
-003.svg|07:10/Uhrzeit§ 7 Uhr 10 = 10 nach 7, = 07:10  
-004.svg|07:15/Uhrzeit§ 7 Uhr 15 = Viertel nach 7 = Viertel 8, = 07:15
-005.svg|07:20/Uhrzeit§ 7 Uhr 20 = 20 nach 7 = 10 vor halb 8, = 07:20
-006.svg|07:25/Uhrzeit§ 7 Uhr 25 = 5 vor halb 8, = 07:25
-007.svg|07:30/Uhrzeit§ 7 Uhr 30 = halb 8, = 07:30
-008.svg|07:35/Uhrzeit§ 7 Uhr 35 = 5 nach halb 8, = 07:35
-009.svg|07:40/Uhrzeit§ 7 Uhr 40 = 10 nach halb 8 = 20 vor 8, = 07:40
-010.svg|07:45/Uhrzeit§ 7 Uhr 45 = Viertel vor 8 = drei Viertel 8, = 07:45
-011.svg|07:50/Uhrzeit§ 7 Uhr 50 = 10 vor 8, = 07:50
-012.svg|07:55/Uhrzeit§ 7 Uhr 55 = 5 vor 8, = 07:55
-013.svg|08:00/Uhrzeit§ 8 Uhr = 8, = 08:00
-014.svg|08:05/Uhrzeit§ 8 Uhr 5  = 5 nach 8, = 08:05
-015.svg|08:10/Uhrzeit§ 8 Uhr 10 = 10 nach 8, = 08:10
-016.svg|08:15/Uhrzeit§ 8 Uhr 15 = Viertel nach 8 = Viertel 9, = 08:15
-017.svg|08:20/Uhrzeit§ 8 Uhr 20 = 20 nach 8 = 10 vor halb 9, = 08:20
-018.svg|08:25/Uhrzeit§ 8 Uhr 25 = 5 vor halb 9, = 08:25
-019.svg|08:30/Uhrzeit§ 8 Uhr 30 = halb 9, = 08:30
-020.svg|08:35/Uhrzeit§ 8 Uhr 35 = 5 nach halb 9, = 08:35
-021.svg|08:40/Uhrzeit§ 8 Uhr 40 = 10 nach halb 9 = 20 vor 9, = 08:40
-022.svg|08:45/Uhrzeit§ 8 Uhr 45 = Viertel vor 9 = drei Viertel 9, = 08:45
-023.svg|08:50/Uhrzeit§ 8 Uhr 50 = 10 vor 9, = 08:50
-024.svg|08:55/Uhrzeit§ 8 Uhr 55 = 5 vor 9, = 08:55
-025.svg|14:00/Uhrzeit§ 14 Uhr = 2, = 14:00
-026.svg|14:05/Uhrzeit§ 14 Uhr 5  = 5 nach 2, = 14:05
-027.svg|14:10/Uhrzeit§ 14 Uhr 10 = 10 nach 2, = 14:10
-028.svg|14:15/Uhrzeit§ 14 Uhr 15 = Viertel nach 2 = Viertel 3, = 14:15
-029.svg|14:20/Uhrzeit§ 14 Uhr 20 = 20 nach 2 = 10 vor halb 3, = 14:20
-030.svg|14:25/Uhrzeit§ 14 Uhr 25 = 5 vor halb 3, = 14:25
-031.svg|14:30/Uhrzeit§ 14 Uhr 30 = halb 3, = 14:30
-032.svg|14:35/Uhrzeit§ 14 Uhr 35 = 5 nach halb 3, = 14:35
-033.svg|14:40/Uhrzeit§ 14 Uhr 40 = 10 nach halb 3 = 20 vor 3, = 14:40
-034.svg|14:45/Uhrzeit§ 14 Uhr 45 = Viertel vor 3 = drei Viertel 3, = 14:45
-035.svg|14:50/Uhrzeit§ 14 Uhr 50 = 10 vor 3, = 14:50
-036.svg|14:55/Uhrzeit§ 14 Uhr 55 = 5 vor 3, = 14:55
-037.svg|21:00/Uhrzeit§ 21 Uhr = 9, = 21:00
-038.svg|21:05/Uhrzeit§ 21 Uhr 5  = 5 nach 9, = 21:05
-039.svg|21:10/Uhrzeit§ 21 Uhr 10 = 10 nach 9, = 21:10
-040.svg|21:15/Uhrzeit§ 21 Uhr 15 = Viertel nach 9 = Viertel 10, = 21:15
-041.svg|21:20/Uhrzeit§ 21 Uhr 20 = 20 nach 9 = 10 vor halb 10, = 21:20
-042.svg|21:25/Uhrzeit§ 21 Uhr 25 = 5 vor halb 10, = 21:25
-043.svg|21:30/Uhrzeit§ 21 Uhr 30 = halb 10, = 21:30
-044.svg|21:35/Uhrzeit§ 21 Uhr 35 = 5 nach halb 10, = 21:35
-045.svg|21:40/Uhrzeit§ 21 Uhr 40 = 10 nach halb 10 = 20 vor 10, = 21:40
-046.svg|21:45/Uhrzeit§ 21 Uhr 45 = Viertel vor 10 = drei Viertel 10, = 21:45
-047.svg|21:50/Uhrzeit§ 21 Uhr 50 = 10 vor 10, = 21:50
-048.svg|21:55/Uhrzeit§ 21 Uhr 55 = 5 vor 10, = 21:55
+001.svg|07:00/Uhrzeit§ 7 Uhr = 7, = **07:00**
+002.svg|07:05/Uhrzeit§ 7 Uhr 5  = 5 nach 7, = **07:05**
+003.svg|07:10/Uhrzeit§ 7 Uhr 10 = 10 nach 7, = **07:10  **
+004.svg|07:15/Uhrzeit§ 7 Uhr 15 = Viertel nach 7 = Viertel 8, = **07:15**
+005.svg|07:20/Uhrzeit§ 7 Uhr 20 = 20 nach 7 = 10 vor halb 8, = **07:20**
+006.svg|07:25/Uhrzeit§ 7 Uhr 25 = 5 vor halb 8, = **07:25**
+007.svg|07:30/Uhrzeit§ 7 Uhr 30 = halb 8, = **07:30**
+008.svg|07:35/Uhrzeit§ 7 Uhr 35 = 5 nach halb 8, = **07:35**
+009.svg|07:40/Uhrzeit§ 7 Uhr 40 = 10 nach halb 8 = 20 vor 8, = **07:40**
+010.svg|07:45/Uhrzeit§ 7 Uhr 45 = Viertel vor 8 = drei Viertel 8, = **07:45**
+011.svg|07:50/Uhrzeit§ 7 Uhr 50 = 10 vor 8, = **07:50**
+012.svg|07:55/Uhrzeit§ 7 Uhr 55 = 5 vor 8, = **07:55**
+013.svg|08:00/Uhrzeit§ 8 Uhr = 8, = **08:00**
+014.svg|08:05/Uhrzeit§ 8 Uhr 5  = 5 nach 8, = **08:05**
+015.svg|08:10/Uhrzeit§ 8 Uhr 10 = 10 nach 8, = **08:10**
+016.svg|08:15/Uhrzeit§ 8 Uhr 15 = Viertel nach 8 = Viertel 9, = **08:15**
+017.svg|08:20/Uhrzeit§ 8 Uhr 20 = 20 nach 8 = 10 vor halb 9, = **08:20**
+018.svg|08:25/Uhrzeit§ 8 Uhr 25 = 5 vor halb 9, = **08:25**
+019.svg|08:30/Uhrzeit§ 8 Uhr 30 = halb 9, = **08:30**
+020.svg|08:35/Uhrzeit§ 8 Uhr 35 = 5 nach halb 9, = **08:35**
+021.svg|08:40/Uhrzeit§ 8 Uhr 40 = 10 nach halb 9 = 20 vor 9, = **08:40**
+022.svg|08:45/Uhrzeit§ 8 Uhr 45 = Viertel vor 9 = drei Viertel 9, = **08:45**
+023.svg|08:50/Uhrzeit§ 8 Uhr 50 = 10 vor 9, = **08:50**
+024.svg|08:55/Uhrzeit§ 8 Uhr 55 = 5 vor 9, = **08:55**
+025.svg|14:00/Uhrzeit§ 14 Uhr = 2, = **14:00**
+026.svg|14:05/Uhrzeit§ 14 Uhr 5  = 5 nach 2, = **14:05**
+027.svg|14:10/Uhrzeit§ 14 Uhr 10 = 10 nach 2, = **14:10**
+028.svg|14:15/Uhrzeit§ 14 Uhr 15 = Viertel nach 2 = Viertel 3, = **14:15**
+029.svg|14:20/Uhrzeit§ 14 Uhr 20 = 20 nach 2 = 10 vor halb 3, = **14:20**
+030.svg|14:25/Uhrzeit§ 14 Uhr 25 = 5 vor halb 3, = **14:25**
+031.svg|14:30/Uhrzeit§ 14 Uhr 30 = halb 3, = **14:30**
+032.svg|14:35/Uhrzeit§ 14 Uhr 35 = 5 nach halb 3, = **14:35**
+033.svg|14:40/Uhrzeit§ 14 Uhr 40 = 10 nach halb 3 = 20 vor 3, = **14:40**
+034.svg|14:45/Uhrzeit§ 14 Uhr 45 = Viertel vor 3 = drei Viertel 3, = **14:45**
+035.svg|14:50/Uhrzeit§ 14 Uhr 50 = 10 vor 3, = **14:50**
+036.svg|14:55/Uhrzeit§ 14 Uhr 55 = 5 vor 3, = **14:55**
+037.svg|21:00/Uhrzeit§ 21 Uhr = 9, = **21:00**
+038.svg|21:05/Uhrzeit§ 21 Uhr 5  = 5 nach 9, = **21:05**
+039.svg|21:10/Uhrzeit§ 21 Uhr 10 = 10 nach 9, = **21:10**
+040.svg|21:15/Uhrzeit§ 21 Uhr 15 = Viertel nach 9 = Viertel 10, = **21:15**
+041.svg|21:20/Uhrzeit§ 21 Uhr 20 = 20 nach 9 = 10 vor halb 10, = **21:20**
+042.svg|21:25/Uhrzeit§ 21 Uhr 25 = 5 vor halb 10, = **21:25**
+043.svg|21:30/Uhrzeit§ 21 Uhr 30 = halb 10, = **21:30**
+044.svg|21:35/Uhrzeit§ 21 Uhr 35 = 5 nach halb 10, = **21:35**
+045.svg|21:40/Uhrzeit§ 21 Uhr 40 = 10 nach halb 10 = 20 vor 10, = **21:40**
+046.svg|21:45/Uhrzeit§ 21 Uhr 45 = Viertel vor 10 = drei Viertel 10, = **21:45**
+047.svg|21:50/Uhrzeit§ 21 Uhr 50 = 10 vor 10, = **21:50**
+048.svg|21:55/Uhrzeit§ 21 Uhr 55 = 5 vor 10, = **21:55**

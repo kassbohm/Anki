@@ -131,12 +131,13 @@ blooket = True
 # level = "Datum_D"
 # blooket = True
 
+level = "Uhrzeit"
+blooket = False
 
 
 
 # level = "A1.1_Netzwerk_neu_01"
 # level = "A1.1_Netzwerk_neu_Unr._Verb_Präsens"
-# level = "A1.1_Netzwerk_neu_Uhrzeiten"
 
 # A1.2:
 # level = "Netzwerk_neu_A1_07"
@@ -517,7 +518,7 @@ for line in lines:
     media_files.append(sound_fn)
 
     if img:
-        image_fn = "Img/Uhr/" + img
+        image_fn = "img/Uhr/" + img
         media_files.append(image_fn)
     else:
         pass
