@@ -81,8 +81,8 @@ old = False
 # blooket = True
 
 
-# level = "Verb_trennbar"
-# blooket = True
+level = "Verb_trennbar"
+blooket = True
 
 
 # level = "Verb_unregelm"
@@ -99,20 +99,20 @@ old = False
 
 
 
-level = "Substantiv_01"
-blooket = True
+# level = "Substantiv_01"
+# blooket = True
 
-level = "Substantiv_02_A" 
-blooket = True
+# level = "Substantiv_02_A" 
+# blooket = True
 
-level = "Substantiv_02_B" 
-blooket = True
+# level = "Substantiv_02_B" 
+# blooket = True
 
-level = "Substantiv_03_A" 
-blooket = True
+# level = "Substantiv_03_A" 
+# blooket = True
 
-level = "Substantiv_03_B" 
-blooket = True
+# level = "Substantiv_03_B" 
+# blooket = True
 
 
 
@@ -413,7 +413,8 @@ for line in lines:
             elif level == \
                     "Verb_01" or level == \
                     "Verb_02" or level == \
-                    "A1_Dr.Kai_Verb_unregelm" or level == \
+                    "Verb_trennbar" or level == \
+                    "Verb_unregelm" or level == \
                     "Adjektiv_02":
                 tmp = text
                 tmp = tmp.split("!")
