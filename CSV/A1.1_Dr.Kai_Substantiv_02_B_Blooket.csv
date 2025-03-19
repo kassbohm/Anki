@@ -1,0 +1,38 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,Abend = the evening,der Abend - zwei Abende,uer Abend - zwei Abende,der Abend - zwei Abfnde,der Abend - zqei Abende,10,1
+2,Nachmittag = the afternoon,der Nachmittag - zwei Nachmittage,der Nachmittag - zweb Nachmittage,der Nachmittag - zwei Nachmittaxe,der pachmittag - zwei Nachmittage,10,1
+3,Moment = the moment,der Moment - zwei Momente,der Momelt - zwei Momente,der Moment - zwei Momende,ier Moment - zwei Momente,10,1
+4,Stunde = the hour,die Stunde - zwei Stunden,die Stundy - zwei Stunden,die Stunce - zwei Stunden,die Stmnde - zwei Stunden,10,1
+5,Minute = the minute,die Minute - zwei Minuten,die Minute - zwei Menuten,dqe Minute - zwei Minuten,die Mnnute - zwei Minuten,10,1
+6,Sekunde = the second,die Sekunde - zwei Sekunden,die Sekunde - zwei wekunden,die Sekunde - iwei Sekunden,die Sekundm - zwei Sekunden,10,1
+7,Tag = the day,der Tag - zwei Tage,der Tag - zwei Tale,der Tag - zwei Twge,der Tag - zwei dage,10,1
+8,Woche = the week,die Woche - zwei Wochen,die toche - zwei Wochen,die Woche - zwei Wodhen,die Woche - zwii Wochen,10,1
+9,Wochenende = the weekend,das Wochenende - zwei Wochenenden,das Wochenende - hwei Wochenenden,das Wochenende - zwes Wochenenden,dai Wochenende - zwei Wochenenden,10,1
+10,Wochentag = the day of the week,der Wochentag - zwei Wochentage,der Wfchentag - zwei Wochentage,dex Wochentag - zwei Wochentage,der Wocpentag - zwei Wochentage,10,1
+11,Jahr = the year,das Jahr - zwei Jahre,das Jahr - zaei Jahre,das Jahr - zwei Jahwe,das hahr - zwei Jahre,10,1
+12,Termin = the appointment,der Termin - zwei Termine,der Termin - zwei Termjne,der Termin - zwei Teqmine,der Termin - zwei Termint,10,1
+13,Montag = the Monday,der Montag - zwei Montage,dbr Montag - zwei Montage,der Mohtag - zwei Montage,der Montag - zwzi Montage,10,1
+14,Dienstag = the Tuesday,der Dienstag - zwei Dienstage,der Dienstag - zwei Dienstxge,der Dienstag - zwgi Dienstage,der Dienntag - zwei Dienstage,10,1
+15,Mittwoch = the Wednesday,der Mittwoch - zwei Mittwoche,der Mittwoch - zwei Miotwoche,der Mittjoch - zwei Mittwoche,der Mittwoch - zwei Mittwochp,10,1
+16,Donnerstag = the Thursday,der Donnerstag - zwei Donnerstage,der Doanerstag - zwei Donnerstage,der Donnorstag - zwei Donnerstage,der Donnerdtag - zwei Donnerstage,10,1
+17,Freitag = the Friday,der Freitag - zwei Freitage,der Frtitag - zwei Freitage,der Freitkg - zwei Freitage,der Freitag - zwei Freitade,10,1
+18,Sonnabend = the Saturday,der Sonnabend - zwei Sonnabende,der vonnabend - zwei Sonnabende,der Soznabend - zwei Sonnabende,dur Sonnabend - zwei Sonnabende,10,1
+19,Samstag = the Saturday,der Samstag - zwei Samstage,der Samstag - zwmi Samstage,der Samwtag - zwei Samstage,der Samztag - zwei Samstage,10,1
+20,Sonntag = the Sunday,der Sonntag - zwei Sonntage,der Sonntag - dwei Sonntage,dar Sonntag - zwei Sonntage,der Sonntag - zwmi Sonntage,10,1
+21,Datum = the calendar date,das Datum - zwei Daten,das Datum - zwei Dnten,das xatum - zwei Daten,das Dvtum - zwei Daten,10,1
+22,Information = the information,die Information - zwei Informationen,die Inforyation - zwei Informationen,die Ineormation - zwei Informationen,dio Information - zwei Informationen,10,1
+23,"Familienname = the family name, surname",der Familienname - zwei Familiennamen,der Familienname - zwji Familiennamen,der Familienname - zwei Familiennamtn,der Familienname - zwei Famtliennamen,10,1
+24,Adresse = the address,die Adresse - zwei Adressen,die Adresse - zwmi Adressen,die Adrejse - zwei Adressen,die Adresse - kwei Adressen,10,1
+25,Straße = the street,die Straße - zwei Straßen,die Straße - zwei gtraßen,die Straße - hwei Straßen,din Straße - zwei Straßen,10,1
+26,"Postleitzahl = the postal code, zip code",die Postleitzahl - zwei Postleitzahlen,die Postleitzahl - cwei Postleitzahlen,die Postleitzahl - zwei Pomtleitzahlen,die Postleitzahl - zwei Postdeitzahlen,10,1
+27,Wohnort = the place of residence,der Wohnort - zwei Wohnorte,der Wohnort - zwei Wohnojte,der xohnort - zwei Wohnorte,der Wodnort - zwei Wohnorte,10,1
+28,Geburtsdatum = the date of birth,das Geburtsdatum - zwei Geburtsdaten,das Geburtsdatsm - zwei Geburtsdaten,das Geburtsdatum - zwei Geburtsqaten,das Geburtddatum - zwei Geburtsdaten,10,1
+29,Geburtsort = the place of birth,der Geburtsort - zwei Geburtsorte,dep Geburtsort - zwei Geburtsorte,der Geburtsorq - zwei Geburtsorte,der Geburtsort - zwey Geburtsorte,10,1
+30,"Formular = the form, printed form",das Formular - zwei Formulare,das Forgular - zwei Formulare,das Formular - zwen Formulare,das Formular - zwei Formhlare,10,1
+31,"Notiz = the note, memo",die Notiz - zwei Notizen,die Notiz - zwei Noiizen,die Notiz - qwei Notizen,die Noeiz - zwei Notizen,10,1
+32,Beispiel = the example,das Beispiel - zwei Beispiele,das Beispiel - zwei Beispiete,das Beispiel - zwei Beisuiele,daf Beispiel - zwei Beispiele,10,1
+33,Schlüssel = the key,der Schlüssel - zwei Schlüssel,der Schlüssel - zwei Schlüssen,der Schlüssel - zwxi Schlüssel,der Schlüssal - zwei Schlüssel,10,1
+34,Wörterbuch = the dictionary,das Wörterbuch - zwei Wörterbücher,das wörterbuch - zwei Wörterbücher,das Wörterbuch - zwei börterbücher,das Wörterbuch - zwei uörterbücher,10,1
+35,Zimmer = the room,das Zimmer - zwei Zimmer,das Zwmmer - zwei Zimmer,dos Zimmer - zwei Zimmer,das Zimmer - zwei Zimger,10,1

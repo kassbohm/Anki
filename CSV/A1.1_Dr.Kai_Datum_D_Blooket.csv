@@ -1,0 +1,54 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,01.04.,der erste April ,der erste Juni ,der erste Oktober ,der erste Februar ,10,1
+2,02.04.,der zweite April ,der vierzehnte April ,der achtzehnte April ,der erste April ,10,1
+3,03.04.,der dritte April ,der dritte Februar ,der dritte März ,der dritte Juni ,10,1
+4,01.05.,der erste Mai ,der erste August ,der erste September ,der erste Juli ,10,1
+5,02.05.,der zweite Mai ,der zweite Juni ,der zweite Juli ,der zweite November ,10,1
+6,03.05.,der dritte Mai ,der dritte April ,der dritte Juni ,der dritte August ,10,1
+7,01.01.,der erste Januar ,der einunddreißigste Januar ,der zwanzigste Januar ,der sechzehnte Januar ,10,1
+8,03.12.,der dritte Dezember ,der dritte Februar ,der dritte Oktober ,der dritte Januar ,10,1
+9,05.04.,der fünfte April ,der fünfte Februar ,der fünfte Januar ,der fünfte September ,10,1
+10,06.12.,der sechste Dezember ,der fünfzehnte Dezember ,der neunzehnte Dezember ,der erste Dezember ,10,1
+11,01.12.,der erste Dezember ,der erste Februar ,der erste April ,der erste Juli ,10,1
+12,12.12.,der zwölfte Dezember ,der sechzehnte Dezember ,der siebenundzwanzigste Dezember ,der dreizehnte Dezember ,10,1
+13,27.01.,der siebenundzwanzigte Januar ,der siebenundzwanzigte Juli ,der siebenundzwanzigte November ,der siebenundzwanzigte Oktober ,10,1
+14,27.02.,der siebenundzwanzigte Februar ,der sechzehnte Februar ,der erste Februar ,der siebente Februar ,10,1
+15,26.03.,der sechsundzwanzigte März ,der neunte März ,der zwanzigste März ,der dreißigste März ,10,1
+16,21.09.,der einundzwanzigte September ,der sechzehnte September ,der achte September ,der siebente September ,10,1
+17,31.07.,der einunddreißigste Juli ,der einunddreißigste März ,der einunddreißigste Juni ,der einunddreißigste April ,10,1
+18,30.09.,der dreißigste September ,der dreißigste Mai ,der dreißigste Februar ,der dreißigste Juni ,10,1
+19,31.10.,der einunddreißigste Oktober ,der einunddreißigste November ,der einunddreißigste Juli ,der einunddreißigste März ,10,1
+20,17.10.,der siebzehnte Oktober ,der sechzehnte Oktober ,der fünfzehnte Oktober ,der elfte Oktober ,10,1
+21,09.01.,der neunte Januar ,der zehnte Januar ,der siebenzehnte Januar ,der sechste Januar ,10,1
+22,17.02.,der siebzehnte Februar ,der siebzehnte Dezember ,der siebzehnte Oktober ,der siebzehnte März ,10,1
+23,17.08.,der siebzehnte August ,der siebzehnte September ,der siebzehnte März ,der siebzehnte Juli ,10,1
+24,06.06.,der sechste Juni ,der sechste Mai ,der sechste Februar ,der sechste August ,10,1
+25,17.11.,der siebzehnte November ,der neunte November ,der sechsundzwanzigste November ,der neunundzwanzigste November ,10,1
+26,17.01.,der siebzehnte Januar ,der vierundzwanzigste Januar ,der achtzehnte Januar ,der dritte Januar ,10,1
+27,03.05.,der dritte Mai ,der elfte Mai ,der vierundzwanzigste Mai ,der achte Mai ,10,1
+28,21.05.,der einundzwanzigte Mai ,der fünfundzwanzigste Mai ,der siebente Mai ,der fünfzehnte Mai ,10,1
+29,09.05.,der neunte Mai ,der vierundzwanzigste Mai ,der dreizehnte Mai ,der elfte Mai ,10,1
+30,19.02.,der neunzehnte Februar ,der dreizehnte Februar ,der achtzehnte Februar ,der sechste Februar ,10,1
+31,13.03.,der dreizehnte März ,der zweiundzwanzigste März ,der einunddreißigste März ,der einundzwanzigste März ,10,1
+32,28.06.,der achtundzwanzigste Juni ,der dreißigste Juni ,der siebente Juni ,der erste Juni ,10,1
+33,03.06.,der dritte Juni ,der dritte Oktober ,der dritte Februar ,der dritte September ,10,1
+34,03.07.,der dritte Juli ,der dritte Oktober ,der dritte März ,der dritte September ,10,1
+35,20.07.,der zwanzigste Juli ,der fünfundzwanzigste Juli ,der sechste Juli ,der einundzwanzigste Juli ,10,1
+36,03.08.,der dritte August ,der dritte Juli ,der dritte Juni ,der dritte Mai ,10,1
+37,03.09.,der dritte September ,der elfte September ,der vierte September ,der neunte September ,10,1
+38,08.10.,der achte Oktober ,der achte Januar ,der achte Dezember ,der achte März ,10,1
+39,11.11.,der elfte November ,der fünfte November ,der siebenundzwanzigste November ,der sechzehnte November ,10,1
+40,07.03.2025,der siebente März 2025 ,der siebente August 2025,der siebente September 2025,der siebente Mai 2025,10,1
+41,01.03.2025,der erste März 2025 ,der elfte März 2025,der zwölfte März 2025,der dreizehnte März 2025,10,1
+42,02.04.2025,der zweite April 2025 ,der zweite März 2025,der zweite Oktober 2025,der zweite Juni 2025,10,1
+43,20.04.2026,der zwanzigste April 2025 ,der zwölfte April 2025,der vierzehnte April 2025,der fünfte April 2025,10,1
+44,20.04.1980,der zwanzigste April 1980 ,der zweite April 1980,der vierte April 1980,der zweiundzwanzigste April 1980,10,1
+45,20.04.1789,der zwanzigste April 1789 ,der sechsundzwanzigste April 1789,der vierte April 1789,der dritte April 1789,10,1
+46,11.04.1991,der elfte April 1991 ,der elfte Juni 1991,der elfte Dezember 1991,der elfte Juli 1991,10,1
+47,03.07.1991,der dritte Juli 1991 ,der siebente Juli 1991,der sechzehnte Juli 1991,der fünfundzwanzigste Juli 1991,10,1
+48,03.07.1995,der dritte Juli 1995 ,der dritte Dezember 1995,der dritte Oktober 1995,der dritte August 1995,10,1
+49,03.08.1999,der dritte August 1999 ,der fünfzehnte August 1999,der dreiundzwanzigste August 1999,der vierundzwanzigste August 1999,10,1
+50,01.05.2025,der erste Mai 2025 ,der vierzehnte Mai 2025,der sechzehnte Mai 2025,der vierundzwanzigste Mai 2025,10,1
+51,31.03.2025,der einunddreißigste März 2025 ,der einunddreißigste August 2025,der einunddreißigste Januar 2025,der einunddreißigste November 2025,10,1

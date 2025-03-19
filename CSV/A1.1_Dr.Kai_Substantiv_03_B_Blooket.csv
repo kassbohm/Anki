@@ -1,0 +1,31 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,Glück = the joy,das Glück !,das Glück h,dah Glück !,das Glück k,10,1
+2,Weg = the way,der Weg - zwei Wege !,der Weg - zwvi Wege !,der Wey - zwei Wege !,der Weg - zwei Weze !,10,1
+3,Mitte = the middle,die Mitte !,die Mitoe !,die Mitte x,qie Mitte !,10,1
+4,Plan = the plan,der Plan - zwei Pläne !,der Plan - zwei kläne !,der Plan - zwei Pyäne !,der Pian - zwei Pläne !,10,1
+5,Start = the start,der Start - zwei Starts !,der Stzrt - zwei Starts !,der Start - zwgi Starts !,der Start - zwei Starts i,10,1
+6,Ziel = the target,das Ziel - zwei Ziele !,das Ziel - zgei Ziele !,das riel - zwei Ziele !,das Ziel - zwei Ziele d,10,1
+7,Jahr = the year,das Jahr - zwei Jahre !,das Jahr - zwei Jahrx !,das Jahr - zwyi Jahre !,das Jahr - zwei Jaire !,10,1
+8,Jahreszeit = the season,die Jahreszeit - zwei Jahreszeiten !,die Jahreszeit - vwei Jahreszeiten !,die Jahresxeit - zwei Jahreszeiten !,die Jahreszeit - zwei Jahrpszeiten !,10,1
+9,Frühling = the spring,der Frühling !,her Frühling !,der Frühltng !,der Frühoing !,10,1
+10,Sommer = the summer,der Sommer !,der Sommmr !,der Sojmer !,der Soimer !,10,1
+11,Herbst = the autumn,der Herbst !,dbr Herbst !,ner Herbst !,der Herbsl !,10,1
+12,Winter = the winter,der Winter !,oer Winter !,der Winter e,der Wintdr !,10,1
+13,Test = the test,der Test - zwei Tests !,der Tebt - zwei Tests !,der Test - zwei Tesps !,der Test - zwei Tests r,10,1
+14,Welt = the world,die Welt - zwei Welten !,dve Welt - zwei Welten !,die Welt - zwei Welten x,die Welt - zwei celten !,10,1
+15,Lösung = the solution,die Lösung - zwei Lösungen !,die Lösuny - zwei Lösungen !,die Lösung - zwei Lösuzgen !,die Lösung - zwei sösungen !,10,1
+16,Monat = the month,der Monat - zwei Monate !,der Monat - zwei Monaae !,der Monat - zwei uonate !,der Monat - zwei Monatp !,10,1
+17,Januar = the January,der Januar !,dhr Januar !,eer Januar !,der Jaluar !,10,1
+18,Februar = the February,der Februar !,der Fybruar !,der Februur !,her Februar !,10,1
+19,März = the March,der März !,cer März !,der März m,der iärz !,10,1
+20,April = the April,der April !,ded April !,ner April !,dvr April !,10,1
+21,Mai = the May,der Mai !,dyr Mai !,der Mai w,der wai !,10,1
+22,Juni = the June,der Juni !,aer Juni !,ded Juni !,der Juni x,10,1
+23,Juli = the July,der Juli !,der Jzli !,der luli !,dcr Juli !,10,1
+24,August = the August,der August !,dex August !,uer August !,dea August !,10,1
+25,September = the September,der September !,dei September !,der Septfmber !,dqr September !,10,1
+26,Oktober = the October,der Oktober !,der Okthber !,der Oktobeq !,dwr Oktober !,10,1
+27,November = the November,der November !,ler November !,rer November !,dea November !,10,1
+28,Dezember = the December,der Dezember !,der Dezember i,der Dezpmber !,der Dezember c,10,1

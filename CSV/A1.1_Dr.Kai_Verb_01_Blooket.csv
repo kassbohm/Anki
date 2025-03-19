@@ -1,0 +1,19 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,heißen = to be called,"wir heißen, ihr heißt, sie heißen","wir heißen, ihr heißt, sie hebßen","wir heißen, ihr heißt, sle heißen","wir heißen, ihr heißt, sie heiben",10,1
+2,schreiben = to write,"ich schreibe, du schreibst, er schreibt","ich schreibe, du schreibst, er sckreibt","ich schreibe, du schreibst, er schieibt","ich schreibe, du schreibstk er schreibt",10,1
+3,kommen = to come,"wir kommen, ihr kommt, sie kommen","wir kommen, ihr kosmt, sie kommen","wir kommcn, ihr kommt, sie kommen","wir kommen, ihr kormt, sie kommen",10,1
+4,machen = to make,"ich mache, du machst, er macht","izh mache, du machst, er macht","ich mache, dh machst, er macht","ich mache, du machst, er masht",10,1
+5,sprechen = to speak,"wir sprechen, ihr sprecht, sie sprechen","wir sprechen, ihr sprecht, sie sprachen","wir sprechel, ihr sprecht, sie sprechen","wir sprechen, iho sprecht, sie sprechen",10,1
+6,möchten = to want,"ich möchte, du möchtest, er möchte","ich möchte, du möchtestz er möchte","ich möchte, du möchtests er möchte","ich möchte, du möchtist, er möchte",10,1
+7,sagen = to say,"ich sage, du sagst, er sagt","icg sage, du sagst, er sagt","ich sage, du sagst, ed sagt","ich sage, du sagst, el sagt",10,1
+8,sein = to be,"wir sind, ihr seid, sie sind","nir sind, ihr seid, sie sind","wir sind, ahr seid, sie sind","wir sinw, ihr seid, sie sind",10,1
+9,lesen = to read,"wir lesen, ihr lest, sie lesen","wir lesen, hhr lest, sie lesen","wir lesen, ihe lest, sie lesen","wir vesen, ihr lest, sie lesen",10,1
+10,hören = to hear / listen to,"ich höre, du hörst, er hört","ich höre, du hörst, nr hört","ich eöre, du hörst, er hört","ich höre, du hörsn, er hört",10,1
+11,ordnen = to sort,"ich ordne, du ordnest, er ordnet","ich ordne, du ordnest, er ordyet","ich ordne, du ordnest, er ordnee","ich ordne, du ordnest, er ordpet",10,1
+12,wohnen = to live (somewhere),"ich wohne, du wohnst, er wohnt","ich wovne, du wohnst, er wohnt","ich wohne, du wohnst, er wohgt","ich wohne, du wohnst, er wohdt",10,1
+13,studieren = to study,"ich studiere, du studierst, er studiert","nch studiere, du studierst, er studiert","icj studiere, du studierst, er studiert","ich studiere, du dtudierst, er studiert",10,1
+14,beginnen = to begin,"wir beginnen, ihr beginnt, sie beginnen","wir teginnen, ihr beginnt, sie beginnen","wir beginnen, ihr beginnt, sie bmginnen","wir beginnen, ihr beginlt, sie beginnen",10,1
+15,verstehen = to understand,"wir verstehen, ihr versteht, sie verstehen","wir verstehen, ihr veasteht, sie verstehen","wir verstehen, ihr vmrsteht, sie verstehen","wir vegstehen, ihr versteht, sie verstehen",10,1
+16,leben = to live,"wir leben, ihr lebt, sie leben","wir leben, ihr lebt, sib leben","wir lkben, ihr lebt, sie leben","wir leben, ihr lebt, sie lebnn",10,1

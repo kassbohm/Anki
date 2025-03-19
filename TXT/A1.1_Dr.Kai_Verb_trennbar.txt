@@ -1,0 +1,31 @@
+// Aus Goethe-Zertifikat Wortliste
+anfangen§ ich fange an, du fängst an, er fängt an - wir fangen an, ihr fangt an, sie fangen an !Pause! {Ich fange an zu lernen.}, = to **begin**
+ansehen§ ich sehe an, du siehst an, er sieht an - wir sehen an, ihr seht an, sie sehen an !Pause! {Ich sehe dich an. Und du siehst mich an.}, = to **look at**
+einladen§ ich lade ein, du lädst ein, er lädt ein - wir laden ein, ihr ladet ein, sie laden ein !Pause! {Ich lade dich ein!}, = to **invite**
+mitlesen§ ich lese mit, du liest mit, er liest mit - wir lesen mit, ihr lest mit, sie lesen mit !Pause! {Ich lese vor. Lest ihr mit?}, = to **read along**
+nachsprechen§ ich spreche nach, du sprichst nach, er spricht nach - wir sprechen nach, ihr sprecht nach, sie sprechen nach !Pause! {Ich spreche vor. Sprecht ihr mir nach?}, = to **repeat**
+abfahren
+abgeben
+abholen
+anbieten
+anklicken
+ankommen
+ankreuzen
+anmachen
+anmelden
+anrufen
+anziehen
+aufhören
+aufstehen
+ausfüllen
+ausmachen
+aussehen
+aussteigen
+ausziehen
+einkaufen
+einladen
+einsteigen
+mitbringen 
+mitkommen Ich gehe ins Kino. Kommst du mit?
+mitmachen Warum macht ihr nicht mit?
+mitnehmen Nehmen wir meine Schwester mit?
