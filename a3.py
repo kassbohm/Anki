@@ -80,10 +80,12 @@ old = False
 # level = "Verb_02"
 # blooket = True
 
-# level = "Verb_unregelm"
+
+# level = "Verb_trennbar"
 # blooket = True
 
-level = "Verb_trennbar"
+
+level = "Verb_unregelm"
 blooket = True
 
 # level = "Mix_01_A"
@@ -151,7 +153,7 @@ if blooket:
 randint_deck = random.randint(1000000, 999999999999)
 randint_model = random.randint(100000, 99999999999)
 
-with open("./A1.1_TXT/"+level + ".txt") as f:
+with open("./txt/"+level + ".txt") as f:
     lines = [x.rstrip() for x in f]
 
 tuples = []

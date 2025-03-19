@@ -1,9 +1,0 @@
-kochen§ ich koch(e), du koch(st), er koch[t] - wir koch{{en}}, ihr koch[t], sie koch{{en}} !Pause! {Ich koche [die Suppe]. Du kochst [das Gemüse].}, = to **boil**
-spielen§ ich spiel(e), du spiel(st), er spiel[t] - wir spiel{{en}}, ihr spiel[t], sie spiel{{en}} !Pause! {Wir spielen [Fußball]. Und ihr spielt [Tennis].}, = to **play**
-schwimmen§ ich schwimm(e), du schwimm(st), er schwimm[t] - wir schwimm{{en}}, ihr schwimm[t], sie schwimm{{en}} !Pause! {Ich schwimme im Schwimmbad.}, = to **swim** 
-fotografieren§ ich fotografier(e), du fotografier(st), er fotografier[t] - wir fotografier{{en}}, ihr fotografier[t], sie fotografier{{en}} !Pause! {Ich fotografiere [die Frau]. Und du fotografierst [das Kind].}, = to **take a photo**
-reisen§ ich reis(e), du rei(st), er reis[t] - wir reis{{en}}, ihr reis[t], sie reis{{en}} !Pause! {Wir reisen nach Asien.}, = to **travel**
-singen § ich sing(e), du sing(st), er sing[t] - wir sing{{en}}, ihr sing[t], sie sing{{en}} !Pause! {Ich singe [das Lied]. Ihr singt [die Melodie].}, = to **sing**
-tanzen§ ich tanz(e), du tan(zt), er tanz[t] - wir tanz{{en}}, ihr tanz[t], sie tanz{{en}} !Pause! {Ich tanze mit dir.}, = to **dance** 
-suchen§ ich such(e), du such(st), er such[t] - wir such{{en}}, ihr such[t], sie such{{en}} !Pause! {Ich suche [die Zahnbürste]. Und du suchst [das Buch].}, = to **look for** 
-warten§ ich wart(e), du warte(st), er warte[t] - wir wart{{en}}, ihr warte[t], sie wart{{en}} !Pause! {Wie lange wartest du? Ich warte 20 Minuten.}, = to **wait**
