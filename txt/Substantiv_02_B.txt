@@ -1,6 +1,6 @@
 // Zeit, Wochentag, Adresse
 Abend§ der Abend - zwei Abende !Pause! {Ich warte auf [den Abend].}, = the **evening**
-Nachmittag§ der Nachmittag - zwei Nachmittage !Pause! !Pause! {Ich freue mich auf [den Nachmittag].}, = the **afternoon**
+Nachmittag§ der Nachmittag - zwei Nachmittage !Pause! {Ich freue mich auf [den Nachmittag].}, = the **afternoon**
 Moment§ der Moment - zwei Momente !Pause! {Hast du [[einen Moment]] Zeit?}, = the **moment**
 Stunde§ die Stunde - zwei Stunden !Pause! {Ich habe [[eine Stunde]] Zeit.}, = the **hour**
 Minute§ die Minute - zwei Minuten !Pause! {Es dauert nur [[eine Minute]].}, = the **minute**
@@ -22,7 +22,7 @@ Sonntag§ der Sonntag - zwei Sonntage, = the **Sunday**
 Datum§ das Datum - zwei Daten !Pause! {Welches Datum ist heute?}, = the **calendar date**
 Information§ die Information - zwei Informationen !Pause! {Ich kenne [die Informationen].}, = the **information**
 Familienname§ der Familienname - zwei Familiennamen !Pause! {Ich kenne [den Famliennamen].}, = the **family name, surname**
-Adresse§ die Adresse - zwei Adressen !Pause! {Ich sehe [die Ameisen].}, = the **address**
+Adresse§ die Adresse - zwei Adressen !Pause! {Haben Ameisen [[Adressen]]?}, = the **address**
 Straße§ die Straße - zwei Straßen !Pause! {Ameisen haben auch [[Straßen]].}, = the **street**
 Postleitzahl§ die Postleitzahl - zwei Postleitzahlen !Pause! {Ich suche [die Postleitzahl].}, = the **postal code, zip code**
 Wohnort§ der Wohnort - zwei Wohnorte !Pause! {In jedem Ort gibt es [[Wohnorte]].}, = the **place of residence**

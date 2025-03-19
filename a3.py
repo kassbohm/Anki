@@ -102,17 +102,17 @@ old = False
 level = "Substantiv_01"
 blooket = True
 
-# level = "Substantiv_02_A" 
-# blooket = True
+level = "Substantiv_02_A" 
+blooket = True
 
-# level = "Substantiv_02_B" 
-# blooket = True
+level = "Substantiv_02_B" 
+blooket = True
 
-# level = "Substantiv_03_A" 
-# blooket = True
+level = "Substantiv_03_A" 
+blooket = True
 
-# level = "Substantiv_03_B" 
-# blooket = True
+level = "Substantiv_03_B" 
+blooket = True
 
 
 
@@ -399,8 +399,12 @@ for line in lines:
                     or level == "Substantiv_03_A" \
                     or level == "Substantiv_03_B":
                 tmp = text.split(" ")
-                idx = tmp.index("!")
-                tmp = tmp[:idx+1]
+                try:
+                    idx = tmp.index("!")
+                    tmp = tmp[:idx]
+                except:
+                    tmp = tmp
+                
                 tmp = " ".join(tmp)
                 tmp = tmp.strip()
                 # print(tmp)
@@ -424,6 +428,7 @@ for line in lines:
                 correct = text
 
             correct = correct.replace("kein Singular", "")
+            correct = correct.replace("kein Plural", "")
             correct = correct.replace("kein Plural", "")
             # print(correct)
             # exit()    
