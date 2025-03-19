@@ -74,6 +74,11 @@ old = False
 level = "Adjektiv_02"
 blooket = False
 
+level = "Verb_01"
+blooket = True
+
+# level = "Verb_02"
+# blooket = True
 
 # level = "Mix_01_A"
 # blooket = False
@@ -104,11 +109,7 @@ blooket = False
 # blooket = True
 
 
-# level = "Verb_01"
-# blooket = True
 
-# level = "Verb_02"
-# blooket = True
 
 
 # level = "Datum_0"
