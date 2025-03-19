@@ -7,7 +7,7 @@ geben§ ich gebe, du gibst, er gibt - wir geben, ihr gebt, sie geben !Pause! {Gi
 helfen§ ich helfe, du hilfst, er hilft - wir helfen, ihr helft, sie helfen !Pause! {Hilfst du mir? Ja, ich helfe dir.}, = to **help**
 laufen§ ich laufe, du läufst, er läuft - wir laufen, ihr lauft, sie laufen !Pause! {Wohin laufen wir?}, = to **go, run**
 tun§ ich tue, du tust, er tut - wir tun, ihr tut, sie tun !Pause! {Was wollen wir tun?}, = to **do**
-lesen§ ich lese, du liest, er liest - wir lesen, ihr lest, sie lesen !Pause! {Er liest [[eine Zeitung]]}, = to **read**
+lesen§ ich lese, du liest, er liest - wir lesen, ihr lest, sie lesen !Pause! {Er liest [[eine Zeitung]].}, = to **read**
 sprechen§ ich spreche, du sprichst, er spricht - wir sprechen, ihr sprecht, sie sprechen !Pause! {Ich spreche Deutsch.}, = to **speak**
 nehmen§ ich nehme, du nimmst, er nimmt - wir nehmen, ihr nehmt, sie nehmen !Pause! {Ich nehme [[ein Stück]].}, = to **take**
 schlafen§ ich schlafe, du schläfst, er schläft - wir schlafen, ihr schlaft, sie schlafen !Pause! {Schläfst du schon?}, = to **sleep**

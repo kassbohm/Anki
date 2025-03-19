@@ -85,8 +85,8 @@ old = False
 # blooket = True
 
 
-level = "Verb_unregelm"
-blooket = True
+# level = "Verb_unregelm"
+# blooket = True
 
 # level = "Mix_01_A"
 # blooket = False
@@ -99,7 +99,8 @@ blooket = True
 
 
 
-# level = "Substantiv_01"   #
+level = "Substantiv_01"
+blooket = True
 
 # level = "Substantiv_02_A" 
 # blooket = True
@@ -112,8 +113,6 @@ blooket = True
 
 # level = "Substantiv_03_B" 
 # blooket = True
-
-
 
 
 
@@ -147,8 +146,8 @@ blooket = True
 #
 
 if blooket:
-    blooket_file = "./CSV/" + level + "_Blooket" + ".csv"
-    system("cp ./CSV/x_start.csv " + blooket_file)
+    blooket_file = "./csv/" + level + "_Blooket" + ".csv"
+    system("cp ./csv/x_start.csv " + blooket_file)
 
 randint_deck = random.randint(1000000, 999999999999)
 randint_model = random.randint(100000, 99999999999)
@@ -387,11 +386,11 @@ for line in lines:
                               delimiter=",",
                               quotechar='"',
                               quoting=csv.QUOTE_MINIMAL)
-            if level == "Substantiv_01":
-                tmp = text.split(" ")
-                question = tmp[0] + " " + tmp[1]
-            else:
-                question = word
+            # if level == "Substantiv_01":
+            #     tmp = text.split(" ")
+            #     question = tmp[0] + " " + tmp[1]
+            # else:
+            question = word
             print(question)
 
             if level == "Substantiv_02_A" \
@@ -582,6 +581,6 @@ for q, i, a, s in tuples:
 # Save the deck to an Anki package (*.apkg) file:
 package = genanki.Package(deck)
 package.media_files = media_files
-package.write_to_file("./APKG/"+name + ".apkg")
+package.write_to_file("./apkg/"+name + ".apkg")
 
 system("\\rm ./*.mp3")

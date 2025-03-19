@@ -1,0 +1,19 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,"Monate (01, 02, 03)","Januar, Februar, März","Januar, Februar, Oktober","Januar, August, März","Januar, Mai, März",10,1
+2,"Monate (04, 05, 06)","April, Mai, Juni","Oktober, Mai, Juni","April, Januar, Juni","April, Mai, Oktober",10,1
+3,"Monate (07, 08, 09)","Juli, August, September","Juli, August, November","Juli, August, Februar","Februar, August, September",10,1
+4,"Monate (10, 11, 12)","Oktober, November, Dezember","Oktober, November, September","Januar, November, Dezember","Oktober, November, Mai",10,1
+5,"Monate (02, 03, 01)","Februar, März, Januar","Februar, September, Januar","Februar, März, Juni","April, März, Januar",10,1
+6,"Monate (05, 06, 04)","Mai, Juni, April","Mai, August, April","März, Juni, April","Mai, Juni, August",10,1
+7,"Monate (08, 09, 07)","August, September, Juli","August, November, Juli","November, September, Juli","Januar, September, Juli",10,1
+8,"Monate (11, 12, 10)","November, Dezember, Oktober","November, Februar, Oktober","November, März, Oktober","November, Januar, Oktober",10,1
+9,"Monate (02, 01, 03)","Februar, Januar, März","Februar, Januar, Dezember","Februar, November, März","April, Januar, März",10,1
+10,"Monate (05, 04, 06)","Mai, April, Juni","Mai, April, Januar","Februar, April, Juni","November, April, Juni",10,1
+11,"Monate (08, 07, 09)","August, Juli, September","Juni, Juli, September","August, Juni, September","August, Juli, März",10,1
+12,"Monate (11, 10, 12)","November, Oktober, Dezember","November, Juli, Dezember","Juni, Oktober, Dezember","November, März, Dezember",10,1
+13,"Monate (01, 03, 02)","Januar, März, Februar","Januar, April, Februar","Januar, September, Februar","Januar, März, August",10,1
+14,"Monate (04, 06, 05)","April, Juni, Mai","Januar, Juni, Mai","April, Juni, August","April, Juni, September",10,1
+15,"Monate (07, 09, 08)","Juli, September, August","Juni, September, August","Mai, September, August","Juli, September, April",10,1
+16,"Monate (10, 12, 11)","Oktober, Dezember, November","Oktober, Februar, November","Oktober, Dezember, Juni","Oktober, Dezember, Januar",10,1

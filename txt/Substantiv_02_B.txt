@@ -1,5 +1,5 @@
 // Zeit, Wochentag, Adresse
-Abend§ der Abend - zwei Abende !Pause! !Pause! {Ich warte auf [den Abend].}, = the **evening**
+Abend§ der Abend - zwei Abende !Pause! {Ich warte auf [den Abend].}, = the **evening**
 Nachmittag§ der Nachmittag - zwei Nachmittage !Pause! !Pause! {Ich freue mich auf [den Nachmittag].}, = the **afternoon**
 Moment§ der Moment - zwei Momente !Pause! {Hast du [[einen Moment]] Zeit?}, = the **moment**
 Stunde§ die Stunde - zwei Stunden !Pause! {Ich habe [[eine Stunde]] Zeit.}, = the **hour**
