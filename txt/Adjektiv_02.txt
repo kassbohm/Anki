@@ -1,0 +1,15 @@
+alt§alt - jung !Pause! {der alte Opa - das junge Baby}, = **old**
+jung§jung - alt !Pause! {das junge Baby - der alte Opa}, = **young**
+groß§groß - klein !Pause! {der große Elefant - die kleine Ameise}, = **big**
+klein§klein - groß !Pause! {die kleine Ameise - der große Elefant}, = **small**
+lustig§lustig - nicht lustig !Pause! , = **funny**
+hell§hell - dunkel !Pause! {der helle Tag - die dunkle Nacht}, = **bright**
+dunkel§dunkel - hell !Pause! {die dunkle Nacht - der helle Tag}, = **dark**
+neu§neu - alt !Pause! , = **new**
+alt§alt - neu !Pause! , = **old**
+männlich§männlich - weiblich !Pause! {der männliche Mensch = der Mann - der weibliche Mensch = die Frau}, = **male**
+weiblich§weiblich - männlich !Pause! {der weibliche Mensch = die Frau - der männliche Mensch = der Mann}, = **female**
+gut§gut - schlecht !Pause! {gute Übung = viel lernen - schlechte Übung = wenig lernen}, = **good**
+schlecht§schlecht - gut !Pause! {schlechte Übung = wenig lernen - gute Übung = viel lernen}, = **bad**
+schnell§schnell - langsam !Pause! {das schnelle Motorrad - das langsame Moped}, = **fast**
+langsam§langsam - schnell !Pause! {das langsame Moped - das schnelle Motorrad}, = **slow**
