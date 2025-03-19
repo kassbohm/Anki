@@ -71,58 +71,59 @@ fill: #404040;
 # A1.1:
 old = False
 
-# Ready:
-level = "A1.1_Dr.Kai_01_A"
+level = "Adjektiv_02"
 blooket = False
 
-level = "A1.1_Dr.Kai_01_B"
-blooket = False
 
-level = "A1.1_Dr.Kai_Zahlen_01"
-blooket = False
+# level = "Mix_01_A"
+# blooket = False
+
+# level = "Mix_01_B"
+# blooket = False
+
+# level = "Mix_01_C"
+# blooket = False
 
 # level = "A1.1_Kai_02"
 
 # level = "A1_Dr.Kai_Verb_unregelm"
 # blooket = True
 
-# level = "A1.1_Dr.Kai_Substantiv_01"   #
+# level = "Substantiv_01"   #
 
-level = "A1.1_Dr.Kai_Substantiv_02_A" 
-blooket = True
-
-# level = "A1.1_Dr.Kai_Substantiv_02_B" 
+# level = "Substantiv_02_A" 
 # blooket = True
 
-level = "A1.1_Dr.Kai_Substantiv_03_A" 
-blooket = True
+# level = "Substantiv_02_B" 
+# blooket = True
 
-# level = "A1.1_Dr.Kai_Substantiv_03_B" 
+# level = "Substantiv_03_A" 
+# blooket = True
+
+# level = "Substantiv_03_B" 
 # blooket = True
 
 
-# level = "A1.1_Dr.Kai_Verb_01"
+# level = "Verb_01"
 # blooket = True
 
-# level = "A1.1_Dr.Kai_Verb_02"
+# level = "Verb_02"
 # blooket = True
 
-# level = "A1.1_Dr.Kai_Adjektiv_02"
+
+# level = "Datum_0"
 # blooket = False
 
-level = "A1.1_Dr.Kai_Datum_0"
-blooket = False
-
-# level = "A1.1_Dr.Kai_Datum_A"
+# level = "Datum_A"
 # blooket = False
 
-# level = "A1.1_Dr.Kai_Datum_B"
+# level = "Datum_B"
 # blooket = False
 
-# level = "A1.1_Dr.Kai_Datum_C"
+# level = "Datum_C"
 # blooket = True
 
-# level = "A1.1_Dr.Kai_Datum_D"
+# level = "Datum_D"
 # blooket = True
 
 
@@ -146,7 +147,7 @@ if blooket:
 randint_deck = random.randint(1000000, 999999999999)
 randint_model = random.randint(100000, 99999999999)
 
-with open("./TXT/"+level + ".txt") as f:
+with open("./A1.1_TXT/"+level + ".txt") as f:
     lines = [x.rstrip() for x in f]
 
 tuples = []
@@ -203,7 +204,7 @@ for line in lines:
         q += word[0]
         q += "</u>"
     q += "</a>"
-    if level == "A1.1_Dr.Kai_Datum_A" or level == "A1.1_Dr.Kai_Datum_B" or level == "A1.1_Dr.Kai_Datum_C" or level == "A1.1_Dr.Kai_Datum_D":
+    if level == "Datum_A" or level == "Datum_B" or level == "Datum_C" or level == "Datum_D":
         q = '<a style="color: #50fa7b">'+word+'</a>' 
 
 
@@ -380,18 +381,18 @@ for line in lines:
                               delimiter=",",
                               quotechar='"',
                               quoting=csv.QUOTE_MINIMAL)
-            if level == "A1.1_Dr.Kai_Substantiv_01":
+            if level == "Substantiv_01":
                 tmp = text.split(" ")
                 question = tmp[0] + " " + tmp[1]
             else:
                 question = word
             print(question)
 
-            if level == "A1.1_Dr.Kai_Substantiv_02_A" \
-                    or level == "A1.1_Dr.Kai_Substantiv_02_B" \
-                    or level == "A1.1_Dr.Kai_Substantiv_01" \
-                    or level == "A1.1_Dr.Kai_Substantiv_03_A" \
-                    or level == "A1.1_Dr.Kai_Substantiv_03_B":
+            if level == "Substantiv_02_A" \
+                    or level == "Substantiv_02_B" \
+                    or level == "Substantiv_01" \
+                    or level == "Substantiv_03_A" \
+                    or level == "Substantiv_03_B":
                 tmp = text.split(" ")
                 idx = tmp.index("!")
                 tmp = tmp[:idx+1]
@@ -401,16 +402,16 @@ for line in lines:
                 # exit()
                 correct = tmp
             elif level == \
-                    "A1.1_Dr.Kai_Verb_01" or level == \
-                    "A1.1_Dr.Kai_Verb_02" or level == \
+                    "Verb_01" or level == \
+                    "Verb_02" or level == \
                     "A1_Dr.Kai_Verb_unregelm" or level == \
-                    "A1.1_Dr.Kai_Adjektiv_02":
+                    "Adjektiv_02":
                 tmp = text
                 tmp = tmp.split("!")
                 tmp = tmp[0]
                 tmp = tmp.split("-")
                 corrects = [tmp[0].strip(), tmp[1].strip()]
-                if level ==  "A1.1_Dr.Kai_Adjektiv_02":
+                if level ==  "Adjektiv_02":
                     correct = corrects[0]
                 else:    
                     correct = random.choice(corrects)
@@ -428,7 +429,7 @@ for line in lines:
                     if i != "-":
                         indices.append(n)
 
-            if level == "A1.1_Dr.Kai_Datum_C":
+            if level == "Datum_C":
                 tmp = text
                 correct=tmp
                 tmp = correct.split(",")
@@ -445,7 +446,7 @@ for line in lines:
                             wrong.append(tmp_c)
                 t0, t1, t2 = ", ".join(wrong[0]), ", ".join(wrong[1]), ", ".join(wrong[2])
                 row = [line_no, question.strip(), correct, t0, t1, t2, 10, "1"]    
-            elif level == "A1.1_Dr.Kai_Datum_D":
+            elif level == "Datum_D":
                 tmp = text
                 correct=tmp.split("=")[0]
                 tmp = correct.split(" ")
