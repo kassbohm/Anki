@@ -84,7 +84,6 @@ old = False
 level = "Verb_trennbar"
 blooket = True
 
-
 level = "Verb_unregelm"
 blooket = True
 
@@ -96,8 +95,6 @@ blooket = True
 
 # level = "Mix_01_C"
 # blooket = False
-
-
 
 # level = "Substantiv_01"
 # blooket = True
@@ -131,8 +128,8 @@ blooket = True
 # level = "Datum_D"
 # blooket = True
 
-level = "Uhrzeit"
-blooket = False
+# level = "Uhrzeit"
+# blooket = False
 
 
 
@@ -437,9 +434,9 @@ for line in lines:
 
             indices = []
             for n, i in enumerate(correct):
-                if i != " ":
-                    if i != "-":
-                        indices.append(n)
+                if i != " " and i != "-" and i !=",":
+                    indices.append(n)
+            # print(indices)
 
             if level == "Datum_C":
                 tmp = text
@@ -496,15 +493,16 @@ for line in lines:
             else:
                 X = []
                 for i in range(8):  # make more than needed.
+                    # sam = random.sample(indices, 2)
                     sam = random.sample(indices, 1)
-                    # print(sam)
-                    letts = iter(random.sample(ascii_letters, 1))
+                    letts = iter(random.sample(ascii_letters, 2))
                     lst = list(correct)
                     for ind in sam:
                         lst[ind] = next(letts).lower()
                     tmp = "".join(lst)
                     if tmp == question or tmp == correct:
                         continue
+                    # print(tmp)
                     X.append(tmp)
                     Y = set(X)
                     Y = list(Y)
