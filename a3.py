@@ -85,8 +85,8 @@ level = "Verb_trennbar"
 blooket = True
 
 
-# level = "Verb_unregelm"
-# blooket = True
+level = "Verb_unregelm"
+blooket = True
 
 # level = "Mix_01_A"
 # blooket = False
