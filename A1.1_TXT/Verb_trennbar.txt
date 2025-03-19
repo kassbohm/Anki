@@ -1,31 +1,33 @@
 // Aus Goethe-Zertifikat Wortliste
-anfangen§ ich fange an, du fängst an, er fängt an - wir fangen an, ihr fangt an, sie fangen an !Pause! {Ich fange an zu lernen.}, = to **begin**
-ansehen§ ich sehe an, du siehst an, er sieht an - wir sehen an, ihr seht an, sie sehen an !Pause! {Ich sehe dich an. Und du siehst mich an.}, = to **look at**
-einladen§ ich lade ein, du lädst ein, er lädt ein - wir laden ein, ihr ladet ein, sie laden ein !Pause! {Ich lade dich ein!}, = to **invite**
-mitlesen§ ich lese mit, du liest mit, er liest mit - wir lesen mit, ihr lest mit, sie lesen mit !Pause! {Ich lese vor. Lest ihr mit?}, = to **read along**
-nachsprechen§ ich spreche nach, du sprichst nach, er spricht nach - wir sprechen nach, ihr sprecht nach, sie sprechen nach !Pause! {Ich spreche vor. Sprecht ihr mir nach?}, = to **repeat**
-abfahren
-abgeben
-abholen
-anbieten
-anklicken
-ankommen
-ankreuzen
-anmachen
-anmelden
-anrufen
-anziehen
-aufhören
-aufstehen
-ausfüllen
-ausmachen
-aussehen
-aussteigen
-ausziehen
-einkaufen
-einladen
-einsteigen
-mitbringen 
-mitkommen Ich gehe ins Kino. Kommst du mit?
-mitmachen Warum macht ihr nicht mit?
-mitnehmen Nehmen wir meine Schwester mit?
+// A-M
+abfahren§ ich fahre ab, du fährst ab, er fährt ab - wir fahren ab,  ihr fahrt ab, sie fahren ab !Pause! {Der Zug fährt ab.}, =  to **depart** 
+abgeben§ ich gebe ab, du gibst ab, er gibt ab - wir geben ab,  ihr gebt ab, sie geben ab !Pause! {Ich gebe [die Arbeit] ab.}, =  to **hand over** 
+abholen§ ich hole ab, du holst ab, er holt ab - wir holen ab,  ihr holt ab, sie holen ab !Pause! {Ich hole [[einen Freund]] ab.}, =  to **pick up**
+anbieten§ ich biete an, du bietest an, er bietet an - wir bieten an,  ihr bietet an, sie bieten an !Pause! {Du bietest [den Kuchen] an.}, =  to **offer**
+anfangen§ ich fange an, du fängst an, er fängt an - wir fangen an, ihr fangt an, sie fangen an !Pause! {Ich fange an.}, = to **begin**
+anklicken§ ich klicke an, du klickst an, er klickt an - wir klicken an,  ihr klickt an, sie klicken an !Pause! {Er klickt [den Link] an.}, =  to **click** 
+ankommen§ ich komme an, du kommst an, er kommt an - wir kommen an,  ihr kommt an, sie kommen an !Pause! {Wir kommen an.}, =  to **arrive** 
+ankreuzen§ ich kreuze an, du kreuzt an, er kreuzt an - wir kreuzen an,  ihr kreuzt an, sie kreuzen an !Pause! {Ich kreuze [die Lösung] an.}, =  to **check, mark** 
+anmachen§ ich mache an, du machst an, er macht an - wir machen an,  ihr macht an, sie machen an !Pause! {Er macht [das Licht] an.}, =  to **turn on** 
+anmelden§ ich melde an, du meldest an, er meldet an - wir melden an,  ihr meldet an, sie melden an !Pause! {Ich melde [[einen Freund]] für [den Kurs] an.}, =  to **register, enrol** 
+anrufen§ ich rufe an, du rufst an, er ruft an - wir rufen an,  ihr ruft an, sie rufen an !Pause! {Sie ruft [[eine Freundin]] an.}, =  to **call (on the phone)** 
+ansehen§ ich sehe an, du siehst an, er sieht an - wir sehen an, ihr seht an, sie sehen an !Pause! {Ich sehe [das Foto] an.}, = to **look at**
+anziehen§ ich ziehe an, du ziehst an, er zieht an - wir ziehen an,  ihr zieht an, sie ziehen an !Pause! {Das Kind zieht [die Hose] an.}, =  to **put on** 
+aufhören§ ich höre auf, du hörst auf, er hört auf - wir hören auf,  ihr hört auf, sie hören auf !Pause! {Wir hören auf.}, =  to **stop** 
+aufstehen§ ich stehe auf, du stehst auf, er steht auf - wir stehen auf,  ihr steht auf, sie stehen auf !Pause! {Wir stehen früh auf.}, =  to **get up** 
+ausfüllen§ ich fülle aus, du füllst aus, er füllt aus - wir füllen aus,  ihr füllt aus, sie füllen aus !Pause! {Sie füllt [[ein Formular]] aus.}, =  to **fill in** 
+ausmachen§ ich mache aus, du machst aus, er macht aus - wir machen aus,  ihr macht aus, sie machen aus !Pause! {Sie macht [das Licht] aus.}, =  to **turn off** 
+aussehen§ ich sehe aus, du siehst aus, er sieht aus - wir sehen aus,  ihr seht aus, sie sehen aus !Pause! {Du siehst gut aus.}, =  to **look, appear** 
+aussteigen§ ich steige aus, du steigst aus, er steigt aus - wir steigen aus,  ihr steigt aus, sie steigen aus !Pause! {Wir steigen jetzt aus.}, =  to **exit, get out** 
+ausziehen§ ich ziehe aus, du ziehst aus, er zieht aus - wir ziehen aus,  ihr zieht aus, sie ziehen aus !Pause! {Das Kind zieht [die Jacke] aus.}, =  to **pull out** 
+einkaufen§ ich kaufe ein, du kaufst ein, er kauft ein - wir kaufen ein,  ihr kauft ein, sie kaufen ein !Pause! {Sie kauft oft ein.}, =  to **shop** 
+einladen§ ich lade ein, du lädst ein, er lädt ein - wir laden ein, ihr ladet ein, sie laden ein !Pause! {Ich lade [[einen Freund]] ein.}, = to **invite**
+einsteigen§ ich steige ein, du steigst ein, er steigt ein - wir steigen ein,  ihr steigt ein, sie steigen ein !Pause! {Steige schnell ein!}, =  to **enter, get in** 
+mitbringen§ ich bringe mit, du bringst mit, er bringt mit - wir bringen mit,  ihr bringt mit, sie bringen mit !Pause! {Ihr bringt [[Getränke]] mit.}, =  to **bring, bring along** 
+mitkommen§ ich komme mit, du kommst mit, er kommt mit - wir kommen mit,  ihr kommt mit, sie kommen mit !Pause! {Komme doch einfach mit!}, =  to **come along**
+mitlesen§ ich lese mit, du liest mit, er liest mit - wir lesen mit, ihr lest mit, sie lesen mit !Pause! {Du liest [den Satz] mit.}, = to **read along**
+mitmachen§ ich mache mit, du machst mit, er macht mit - wir machen mit,  ihr macht mit, sie machen mit !Pause! {Machen wir mit?}, =  to **join in** 
+mitnehmen§ ich nehme mit, du nimmst mit, er nimmt mit - wir nehmen mit,  ihr nehmt mit, sie nehmen mit !Pause! {Nimmst du mich mit?}, = **take along**
+nachsprechen§ ich spreche nach, du sprichst nach, er spricht nach - wir sprechen nach, ihr sprecht nach, sie sprechen nach !Pause! {Du sprichst [das Wort] nach.}, = to **repeat**
+umziehen§ ich ziehe um, du ziehst um, er zieht um - wir ziehen um, ihr zieht um, sie ziehen um !Pause! {Ich ziehe bald um.}, = to **move, relocate**
+vorstellen§ ich stelle vor, du stellst vor, er stellt vor - wie stellen vor, ihr stellt vor, sie stellen vor !Pause! {Wir wollen dich kennenlernen. Stelle dich kurz vor!}, = to **relocate, introduce oneself**
