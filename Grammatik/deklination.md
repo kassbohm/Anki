@@ -1,9 +1,15 @@
 
+<style>
+b { color: Blue }
+r { color: Red }
+g { color: Green }
+</style>
+
 ## Deklination
 
 |      |       |                  m                 |                        f             |                     n             |                      p                           |
 |-----:|-------|:----------------------------------:|:------------------------------------:|:---------------------------------:|:------------------------------------------------:|
-|   N  |  b    | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
+|   N  |  b    | <u>nicht</u> **der** <b>Apfel<\b>        |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
 |      |  u    | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
 |   A  |  b    |   <u>nicht</u> **den**       Apfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
 |      |  u    | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
@@ -13,6 +19,10 @@
 * b = bestimmt, u = unbestimmt
 
 ### Nominativ Singular = (m, f, n)
+
+
+<r>TODO:</r>
+
 
 #### bestimmt = b
 
