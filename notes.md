@@ -5,18 +5,18 @@
 
 
 
-|    | Art   |              m                     |                        f             |                      n              |                  Plural                           |
-|---:|-------|:----------------------------------:|:------------------------------------:|:-----------------------------------:|:-------------------------------------------------:|
-|Nom |  best | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |       <u>nicht</u> **das** Brot     |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)   |
-|    |  *unb*| <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  |  <u><i>k</i></u>***ein*** *Brot*    | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*    |
-|Akk |  best |   <u>nicht</u> **den**       Äpfel |             **die**      Zwiebel     |    <u>nicht</u> **das**       Brot  |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
-|    |  *unb*| <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* |  <u><i>k</i></u>***ein***  *Brot*   |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*  |
+| Fall |       |                                    |                        Singular      |                                   |                 Plural                           |
+|-----:|-------|:----------------------------------:|:------------------------------------:|:---------------------------------:|:------------------------------------------------:|
+|      |       |                  m                 |                        f             |                     n             |                   m  f  n                        |
+| Nom  |  best | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
+|      |  *unb*| <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
+| Akk  |  best |   <u>nicht</u> **den**       Äpfel |             **die**      Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
+|      |  *unb*| <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
 
-### Nom
 
-#### Singular
+### Nom Singular
 
-##### bestimmt
+#### bestimmt
 
 Ist das (**der** Apfel, **die** Zwiebel, **das** Brot)?<br>
 Is this **the** apple?
@@ -26,7 +26,7 @@ Is this **the** apple?
 - Nein. Das ist <u>nicht</u> (**der** Apfel, **die** Zwiebel, **das** Brot).<br>
     No. This is <u>not</u> **the** apple.
 
-##### unbestimmt
+#### unbestimmt
 
 Ist das (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot)?<br>
 Is this ***an*** apple?
@@ -37,9 +37,9 @@ Is this ***an*** apple?
     No. This is <u>not</u> ***an*** apple.
 
 
-#### Plural
+### Nom Plural
 
-##### bestimmt
+#### bestimmt
 
 Sind das (**die** Äpfel, **die** Zwiebeln, **die** Brote)?<br>
 Are these **the** apples?
@@ -49,9 +49,7 @@ Are these **the** apples?
 - Nein. Das sind <u>nicht</u> (**die** Äpfel, **die** Zwiebeln, **die** Brote).<br>
     No. These are <u>not</u> **the** apples.
 
-
-
-##### Unbestimmt
+#### Unbestimmt
 
 - Ja. Das sind (**die** Äpfel, **die** Zwiebeln, **die** Brote).<br>
     Yes. These are **the** apples.
