@@ -5,7 +5,7 @@
 |-----:|-------|:----------------------------------:|:------------------------------------:|:---------------------------------:|:------------------------------------------------:|
 |   N  |  b    | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
 |      |  u    | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
-|   A  |  b    |   <u>nicht</u> **den**       Äpfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
+|   A  |  b    |   <u>nicht</u> **den**       Apfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
 |      |  u    | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
 
 * m = Maskulinum, f = Femininum, n = Neutrum, p = Plural
