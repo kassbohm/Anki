@@ -12,7 +12,7 @@
 * N = Nominativ, A = Akkusativ
 * b = bestimmt, u = unbestimmt
 
-### Nominativ Singular = N (m, f, n)
+### Nominativ Singular = (m, f, n)
 
 #### bestimmt = b
 
@@ -34,7 +34,7 @@ Ist das (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot)?<br>
 - Nein. Das ist (***kein*** Apfel, ***keine*** Zwiebel, <u><i>k</i></u>***ein*** Brot). Das ist **eine** Melone!<br>
     No. This is <u>not</u> ***an*** apple. This is **a** melon!
 
-### Nom Plural = p
+### Nominativ Plural = p
 
 #### bestimmt = b
 
@@ -56,7 +56,6 @@ Sind das (Äpfel, Zwiebeln, Brote)?<br>
 - Nein. Das ist (***keine*** Äpfel, ***keine*** Zwiebeln, ***keine*** Brote). Das sind Melonen!<br>
     This is (***not*** apples, ***not*** onions, ***not*** breads). These are melons!
 
-
 ### Akkusativ Singular = A m
 
 Akkusativ = Nominativ.
@@ -72,8 +71,8 @@ Siehst du **den** Apfel?<br>
 - Ja. Ich sehe **den** Apfel.<br>
     Yes. I see **the** apple.
 
-- Nein. Ich sehe <u>nicht</u> **den** Apfel.<br>
-    No. I don't see **the** apple.
+- Nein. Ich sehe <u>nicht</u> **den** Apfel. Es ist zu dunkel.<br>
+    No. I don't see **the** apple. It is too dark.
 
 #### unbestimmt = u
 
@@ -82,6 +81,6 @@ Siehst du **einen** Apfel?<br>
 
 - Ja. Ich sehe ***einen*** Apfel.<br>
     Yes. I see **an** apple.
-- Nein. Ich sehe ***keinen*** Apfel.<br>
-    No. I don't see **any** apple.
+- Nein. Ich sehe ***keinen*** Apfel. Aber ich sehe einen Fernseher.<br>
+    No. I don't see **any** apple. But I see a TV.
 
