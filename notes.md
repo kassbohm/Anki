@@ -9,7 +9,7 @@
 |----------:|---------------|:----------------------------------:|:------------------------------------:|:------------------------------------------:|:-------------------------------------------------:|
 | Nom       |     best.     | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |         <u>nicht</u> **das** Brot          |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)   |
 |           |     *unb.*    | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  |    <u><i>k</i></u>***ein*** *Brot*         | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*    |
-| Akk       |     best.     |   <u>nicht</u> **den**       Äpfel |             **die**      Zwiebel     |      <u>nicht</u>**das**       Brot        |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
+| Akk       |     best.     |   <u>nicht</u> **den**       Äpfel |             **die**      Zwiebel     |      <u>nicht</u> **das**       Brot       |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
 |           |     *unb.*    | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* |    <u><i>k</i></u>***ein***  *Brot*        |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*  |
 
 ### Nom
