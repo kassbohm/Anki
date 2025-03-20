@@ -3,6 +3,13 @@
 ## Deklination
 
 
+Tabelle zeigt:
+
+* Genus: m, f, n
+* Numerus: Singular und Plural
+* Fall: Nominativ und Akkusativ
+* Artikel **bestimmt** und *unbestimmt*
+* **Negation**: <u>Unterstrichen</u>
 
 
 | Fall |       |                                    |                        Singular      |                                   |                 Plural                           |
@@ -10,7 +17,7 @@
 |      |       |                  m                 |                        f             |                     n             |                   m  f  n                        |
 | Nom  |  best | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
 |      |  *unb*| <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
-| Akk  |  best |   <u>nicht</u> **den**       Äpfel |             **die**      Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
+| Akk  |  best |   <u>nicht</u> **den**       Äpfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
 |      |  *unb*| <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
 
 
@@ -33,7 +40,7 @@ Is this ***an*** apple?
 
 - Ja. Das ist (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot).<br>
     Yes. This is ***an*** apple.
-- Nein. Das ist (<u><i>k</i></u>***ein*** Apfel, <u><i>k</i></u>***eine*** Zwiebel, <u><i>k</i></u>***ein*** Brot).<br>
+- Nein. Das ist (***kein*** Apfel, ***keine*** Zwiebel, <u><i>k</i></u>***ein*** Brot).<br>
     No. This is <u>not</u> ***an*** apple.
 
 
