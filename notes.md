@@ -2,77 +2,82 @@
 
 ## Deklination
 
-
-Tabelle zeigt:
-
-* Genus: m, f, n
-* Numerus: Singular und Plural
-* Fall: Nominativ und Akkusativ
-* Artikel **bestimmt** und *unbestimmt*
-* **Negation**: <u>Unterstrichen</u>
-
-
-| Fall |       |                                    |                        Singular      |                                   |                 Plural                           |
+|      |       |                  m                 |                        f             |                     n             |                      p                           |
 |-----:|-------|:----------------------------------:|:------------------------------------:|:---------------------------------:|:------------------------------------------------:|
-|      |       |                  m                 |                        f             |                     n             |                   m  f  n                        |
-| Nom  |  best | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
-|      |  *unb*| <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
-| Akk  |  best |   <u>nicht</u> **den**       Äpfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
-|      |  *unb*| <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
+|   N  |  b    | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |      <u>nicht</u> **das** Brot    |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
+|      |  u    | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  | <u><i>k</i></u>***ein*** *Brot*   | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*   |
+|   A  |  b    |   <u>nicht</u> **den**       Äpfel |    <u>nicht</u> **die**  Zwiebel     |   <u>nicht</u> **das**       Brot |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote) |
+|      |  u    | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* | <u><i>k</i></u>***ein***  *Brot*  |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)* |
 
+* m = Maskulinum, f = Femininum, n = Neutrum, p = Plural
+* N = Nominativ, A = Akkusativ
+* b = bestimmt, u = unbestimmt
 
-### Nom Singular
+### Nominativ Singular = N (m, f, n)
 
-#### bestimmt
+#### bestimmt = b
 
 Ist das (**der** Apfel, **die** Zwiebel, **das** Brot)?<br>
-Is this **the** apple?
+    Is this **the** apple?
 
 - Ja. Das ist (**der** Apfel, **die** Zwiebel, **das** Brot).<br>
     Yes. This is **the** apple.
 - Nein. Das ist <u>nicht</u> (**der** Apfel, **die** Zwiebel, **das** Brot).<br>
     No. This is <u>not</u> **the** apple.
 
-#### unbestimmt
+#### unbestimmt = u
 
 Ist das (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot)?<br>
-Is this ***an*** apple?
+    Is this ***an*** apple?
 
 - Ja. Das ist (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot).<br>
     Yes. This is ***an*** apple.
 - Nein. Das ist (***kein*** Apfel, ***keine*** Zwiebel, <u><i>k</i></u>***ein*** Brot).<br>
     No. This is <u>not</u> ***an*** apple.
 
+### Nom Plural = p
 
-### Nom Plural
-
-#### bestimmt
+#### bestimmt = b
 
 Sind das (**die** Äpfel, **die** Zwiebeln, **die** Brote)?<br>
-Are these **the** apples?
+    Are these **the** apples?
 
 - Ja. Das sind (**die** Äpfel, **die** Zwiebeln, **die** Brote).<br>
     Yes. These are **the** apples.
 - Nein. Das sind <u>nicht</u> (**die** Äpfel, **die** Zwiebeln, **die** Brote).<br>
     No. These are <u>not</u> **the** apples.
 
-#### Unbestimmt
+#### unbestimmt = u 
 
-- Ja. Das sind (**die** Äpfel, **die** Zwiebeln, **die** Brote).<br>
-    Yes. These are **the** apples.
+Sind das (Äpfel, Zwiebeln, Brote)?<br>
+    Are these apples?
 
-Ist das ein Apfel?
-Is this 
-- Ja. Das ist (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot).
-- Nein. Das ist (***kein*** Apfel, ***keine*** Zwiebel, ***kein*** Brot). - Das ist **eine** Melone!<br>
-    This is (***not an*** apple, ***not an*** onion, ***not a*** bread). - This is **a** melon!
-
+- Ja. Das sind (Äpfel, Zwiebeln, Brote).<br>
+    Yes. These are apples.
+- Nein. Das ist (***keine*** Äpfel, ***keine*** Zwiebeln, ***keine*** Brote).
+    This is (***not*** apples, ***not*** onions, ***not*** breads).
 
 
-### Akk
+### Akkusativ Singular = A m
 
-- Ich sehe (**den** Apfel, ..., ...).
-- Ich sehe (***einen*** Apfel, ..., ...).
-- Ich sehe (***keinen*** Apfel, ..., ...).<br>
-    I don't see **any** apple. - I see a melon!
+#### bestimmt = b
+
+Siehst du **den** Apfel?<br>
+    Do you see **the** apple?
+
+- Ja. Ich sehe **den** Apfel.<br>
+    Yes. I see **the** apple.
+
+- Nein. Ich sehe <u>nicht</u> **den** Apfel.
+    No. I don't see **the** apple.
+
+#### unbestimmt = u
+
+Siehst du **einen** Apfel?<br>
+    Do you see **an** apple?
+
+- Ja. Ich sehe ***einen*** Apfel.<br>
+    Yes. I see **an** apple.
+- Nein. Ich sehe ***keinen*** Apfel.<br>
+    No. I don't see **any** apple.
 
