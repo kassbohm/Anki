@@ -1,4 +1,3 @@
-# Grammatik
 
 ## Deklination
 
