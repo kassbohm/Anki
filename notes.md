@@ -60,6 +60,11 @@ Sind das (Äpfel, Zwiebeln, Brote)?<br>
 
 ### Akkusativ Singular = A m
 
+Akkusativ = Nominativ.
+
+**Ausnahmen**:<br>
+Exceptions:
+
 #### bestimmt = b
 
 Siehst du **den** Apfel?<br>
@@ -68,7 +73,7 @@ Siehst du **den** Apfel?<br>
 - Ja. Ich sehe **den** Apfel.<br>
     Yes. I see **the** apple.
 
-- Nein. Ich sehe <u>nicht</u> **den** Apfel.
+- Nein. Ich sehe <u>nicht</u> **den** Apfel.<br>
     No. I don't see **the** apple.
 
 #### unbestimmt = u
