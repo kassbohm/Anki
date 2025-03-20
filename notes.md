@@ -1,28 +1,58 @@
 # Grammatik
 
 ## Deklination
-|           |    Art.       |              m                    |                        f             |                        n                   |            Plural                               |
-|----------:|---------------|:---------------------------------:|:------------------------------------:|:------------------------------------------:|:-----------------------------------------------:|
-| Nom       |     best.     |   **der**      Apfel               |             **die**        Zwiebel       |                   **das** Brot             |       **die** (Äpfel, Zwiebeln, Brote)            |
+
+
+
+
+|           |    Art.       |              m                     |                        f             |                        n                   |                  Plural                           |
+|----------:|---------------|:----------------------------------:|:------------------------------------:|:------------------------------------------:|:-------------------------------------------------:|
+| Nom       |     best.     | <u>nicht</u> **der**  Apfel        |    <u>nicht</u> **die** Zwiebel      |         <u>nicht</u> **das** Brot          |   <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)   |
 |           |     *unb.*    | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  |    <u><i>k</i></u>***ein*** *Brot*         | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*    |
-| Akk       |     best.     |   **den**       Äpfel              |             **die**      Zwiebel   |                **das**       Brot          |      **die** (Äpfel, Zwiebeln, Brote)            |
-|           |     *unb.*    | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* |    <u><i>k</i></u>***ein***  *Brot*     |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*  |
+| Akk       |     best.     |   <u>nicht</u> **den**       Äpfel |             **die**      Zwiebel     |      <u>nicht</u>**das**       Brot        |    <u>nicht</u> **die** (Äpfel, Zwiebeln, Brote)  |
+|           |     *unb.*    | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* |    <u><i>k</i></u>***ein***  *Brot*        |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*  |
 
 ### Nom
 
-#### Singular
+#### Singular (bestimmt)
 
+Ist das (**der** Apfel, **die** Zwiebel, **das** Brot)?<br>
+Is this **the** apple?
 
-- Das ist (**der** Apfel, **die** Zwiebel, **das** Brot).
-- Das ist (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot).
-- Das ist (***kein*** Apfel, ***keine*** Zwiebel, ***kein*** Brot). - Das ist **eine** Melone!<br>
-    This is (***not an*** apple, ***not an*** onion, ***not a*** bread). - This is **a** melon!
+- Ja. Das ist (**der** Apfel, **die** Zwiebel, **das** Brot).<br>
+    Yes. This is **the** apple.
+- Nein. Das ist <u>nicht</u> (**der** Apfel, **die** Zwiebel, **das** Brot).<br>
+    No. This is <u>not</u> **the** apple.
 
-#### Plural
+#### Plural (bestimmt)
 
-- Das sind (**die** Äpfel, **die** Zwiebeln, **die** Brote).
+Sind das (**die** Äpfel, **die** Zwiebeln, **die** Brote)?<br>
+Are these **the** apples?
+
+- Ja. Das sind (**die** Äpfel, **die** Zwiebeln, **die** Brote).<br>
+    Yes. These are **the** apples.
+- Nein. Das sind <u>nicht</u> (**die** Äpfel, **die** Zwiebeln, **die** Brote).<br>
+    No. These are <u>not</u> **the** apples.
+
 - Das sind (Äpfel, Zwiebeln, Brote).
 - Das sind (***keine*** Äpfel, ***keine*** Zwiebeln, ***keine*** Brote).<br>
     These are (***not*** apples, ***not*** onions, ***not*** breads). - These are melons!
 
+
+##### Unbestimmt
+
+Ist das ein Apfel?
+Is this 
+- Ja. Das ist (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot).
+- Nein. Das ist (***kein*** Apfel, ***keine*** Zwiebel, ***kein*** Brot). - Das ist **eine** Melone!<br>
+    This is (***not an*** apple, ***not an*** onion, ***not a*** bread). - This is **a** melon!
+
+
+
+### Akk
+
+- Ich sehe (**den** Apfel, ..., ...).
+- Ich sehe (***einen*** Apfel, ..., ...).
+- Ich sehe (***keinen*** Apfel, ..., ...).<br>
+    I don't see **any** apple. - I see a melon!
 
