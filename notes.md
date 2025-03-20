@@ -1,27 +1,28 @@
 # Grammatik
 
 ## Deklination
-|           |    Art.       |              m                    |                        f            |                        n                  |         Plural                               |
-|----------:|---------------|:---------------------------------:|:-----------------------------------:|:-----------------------------------------:|:--------------------------------------------:|
-| Nom       |     best.     |   **der**      Affe               |             **die**       Kuh       |                   **das** Reh             |       **die** (Affen, Kühe, Rehe)            |
-|           |     *unb.*    | <u><i>k</i></u>***ein*** *Affe*   | <u><i>k</i></u>***eine***   *Kuh*   |    <u><i>k</i></u>***ein*** *Reh*         | <u><i>keine</i></u> *(Affen, Kühe, Rehe)*    |
-| Akk       |     best.     |   **den**       Affe              |             **die**       Kuh       |                **das**       Reh          |      **die** (Affen, Kühe, Rehe)             |
-|           |     *unb.*    | <u><i>k</i></u>***einen*** *Affe* |  <u><i>k</i></u>***eine***  *Kuh*   |    <u><i>k</i></u>***ein***     *Reh*     |   <u><i>keine</i></u> *(Affen, Kühe, Rehe)*  |
+|           |    Art.       |              m                    |                        f             |                        n                   |            Plural                               |
+|----------:|---------------|:---------------------------------:|:------------------------------------:|:------------------------------------------:|:-----------------------------------------------:|
+| Nom       |     best.     |   **der**      Apfel               |             **die**        Zwiebel       |                   **das** Brot             |       **die** (Äpfel, Zwiebeln, Brote)            |
+|           |     *unb.*    | <u><i>k</i></u>***ein*** *Apfel*   | <u><i>k</i></u>***eine*** *Zwiebel*  |    <u><i>k</i></u>***ein*** *Brot*         | <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*    |
+| Akk       |     best.     |   **den**       Äpfel              |             **die**      Zwiebel   |                **das**       Brot          |      **die** (Äpfel, Zwiebeln, Brote)            |
+|           |     *unb.*    | <u><i>k</i></u>***einen*** *Apfel* |  <u><i>k</i></u>***eine*** *Zwiebel* |    <u><i>k</i></u>***ein***  *Brot*     |   <u><i>keine</i></u> *(Äpfel, Zwiebeln, Brote)*  |
 
 ### Nom
 
 #### Singular
 
-- This is **the** monkey. This is **a** monkey. This is **not a** monkey, this is a gorilla.
-- Das ist **der** Affe. Das ist ***ein*** Affe. Das ist ***kein*** Affe, das ist ***ein*** Gorilla.
-- Das ist **die** Kuh. Das ist ***eine*** Kuh. Das ist ***keine*** Kuh.
-- Das ist **das** Reh. Das ist ***ein*** Reh. Das ist ***kein*** Kuh.
+
+- Das ist (**der** Apfel, **die** Zwiebel, **das** Brot).
+- Das ist (***ein*** Apfel, ***eine*** Zwiebel, ***ein*** Brot).
+- Das ist (***kein*** Apfel, ***keine*** Zwiebel, ***kein*** Brot). - Das ist **eine** Melone!<br>
+    This is (***not an*** apple, ***not an*** onion, ***not a*** bread). - This is **a** melon!
 
 #### Plural
 
-- These are **the** monkeys. These are monkeys. These are **not** monkeys, these are gorillas.
-- Das sind **die** Affen. Das sind Affen. Das sind ***keine*** Affen, das sind Gorillas.
-- Das sind **die** Kühe. Das sind Kühe. Das sind ***keine*** Kühe.
-- Das sind **die** Rehe. Das sind Rehe. Das sind ***keine*** Rehe.
+- Das sind (**die** Äpfel, **die** Zwiebeln, **die** Brote).
+- Das sind (Äpfel, Zwiebeln, Brote).
+- Das sind (***keine*** Äpfel, ***keine*** Zwiebeln, ***keine*** Brote).<br>
+    These are (***not*** apples, ***not*** onions, ***not*** breads). - These are melons!
 
 
