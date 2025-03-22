@@ -1,3 +1,15 @@
+// Title: 
+// Mix_01_B
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Mix_01_B
+// 
 danke§ Danke!, = **Thanks!**
 gut§ Das ist (gut)., = This is **good**.
 hier§ Ich bin (hier). Und du bist da., = I am **here**. And you are there.

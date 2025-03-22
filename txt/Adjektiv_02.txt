@@ -1,3 +1,7 @@
+// Title: Adjektiv_02
+// Tags: Netzwerk neu A1
+// Support Page: Dr. Kai, https://tm-tutor.de/
+// Description:  Netzwerk neu A1:  Adjektiv_02
 alt§alt - jung !Pause! {der alte Opa - das junge Baby}, = **old**
 jung§jung - alt !Pause! {das junge Baby - der alte Opa}, = **young**
 groß§groß - klein !Pause! {der große Elefant - die kleine Ameise}, = **big**

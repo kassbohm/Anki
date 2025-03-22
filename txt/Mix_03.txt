@@ -1,0 +1,9 @@
+rechts - links§ rechts - links !Pause! {Wir fahren Auto. Ich sitze links. Und du sitzt rechts.}, = **on the right, on the left**
+Meter§ Das sind 15 Meter. !Pause! {Ein Kilometer ist gleich 1000 Meter.}, = the **meter**
+Kilometer§ der Kilometer - 12 Kilometer !Pause! {Es sind 27 Kilometer bis Darmstadt.}, = the **kilometer**
+lang§ lang - kurz !Pause! {Die Brücke ist sehr lang. Die Hose ist zu kurz!}, = **long - short**
+breit§ breit - schmal !Pause! {Das Zimmer ist 5 Meter breit. Der Flur ist sehr schmal.}, = **wide - narrow**
+hoch§ hoch - niedrig !Pause! {Der Berg ist hoch. Der Preis ist niedrig.}, = **high - low**
+über§ über - unter !Pause! {Etage 2 ist über Etage 1. Und Etage 1 ist unter Etage 2.}, = **above - below**
+einmal§ einmal !Pause! {Ich dusche einmal pro Tag.}, = **once = one time**
+zweimal§ zweimal !Pause! {Ich muss zweimal umsteigen.}, = **twice = two times**

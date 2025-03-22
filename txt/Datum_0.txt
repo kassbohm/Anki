@@ -1,3 +1,7 @@
+// Title: Datum_0
+// Tags: Netzwerk neu A1
+// Support Page: Dr. Kai, https://tm-tutor.de/
+// Description:  Netzwerk neu A1:  Datum_0
 (1, 2, 3)/eins§ (eins, zwei, drei), = **(1, 2, 3)**
 (4, 5, 6)/vier§ (vier, fünf, sechs), = **(4, 5, 6)**
 (7, 8, 9)/sieben§ (sieben, acht, neun), = **(7, 8, 9)**

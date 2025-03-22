@@ -1,3 +1,16 @@
+// Title: 
+// Substantiv_03_B
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Substantiv_03_B
+// 
+// 
 Jahr§ das Jahr - zwei Jahre !Pause! {Wir warten auf [das Jahr] 2026}, = the **year**
 Jahreszeit§ die Jahreszeit - zwei Jahreszeiten !Pause! {Gibt es am Nordpol [[Jahreszeiten]]?}, = the **season**
 Frühling§ der Frühling !Pause! {Ich warte auf [den Frühling].}, = the **spring**

@@ -1,3 +1,8 @@
+// Title: Datum_A
+// Tags: Netzwerk neu A1
+// Support Page: Dr. Kai, https://tm-tutor.de/
+// Description:  Netzwerk neu A1:  Datum_A
+// 
 1, 2, 3§ (eins, zwei, drei), = **1, 2, 3**
 4, 5, 6§ (vier, fünf, sechs), = **4, 5, 6**
 7, 8, 9§ (sieben, acht, neun), = **7, 8, 9**

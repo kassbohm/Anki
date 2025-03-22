@@ -1,3 +1,15 @@
+// Title: 
+// Substantiv_01
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Substantiv_01
+// 
 Tisch§der Tisch - zwei Tische !Pause! {Ich sehe [[einen Tisch]].}, = the **table**
 Lösung§die Lösung - zwei Lösungen !Pause! {Kennst du [die Lösung]?}, = the **solution**
 Übung§die Übung - zwei Übungen !Pause! {Ich liebe Anki-[[Übungen]].}, = the **exercise**

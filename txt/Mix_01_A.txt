@@ -1,3 +1,15 @@
+// Title: 
+// Mix_01_A
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Mix_01_A
+// 
 Ich bin Kai./ich§   Ich bin Kai., = **I am Kai.**
 Du bist Kai./du§    Du bist Kai., = **You are Kai.**
 Er ist Kai./er§     Er ist Kai., = **He is Kai.**

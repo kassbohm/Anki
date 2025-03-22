@@ -1,3 +1,16 @@
+// Title: 
+// Verb_trennbar
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Verb_trennbar
+// 
+// 
 // Aus Goethe-Zertifikat Wortliste
 // A-M
 abfahren§ ich fahre ab, du fährst ab, er fährt ab - wir fahren ab, ihr fahrt ab, sie fahren ab !Pause! {Der Zug fährt ab.}, =  to **depart** 

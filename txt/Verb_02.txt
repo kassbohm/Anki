@@ -1,3 +1,16 @@
+// Title: 
+// Verb_02
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Verb_02
+// 
+// 
 kochen§ ich koch(e), du koch(st), er koch[t] - wir koch{{en}}, ihr koch[t], sie koch{{en}} !Pause! {Ich koche [die Suppe]. Du kochst [das Gemüse].}, = to **boil**
 spielen§ ich spiel(e), du spiel(st), er spiel[t] - wir spiel{{en}}, ihr spiel[t], sie spiel{{en}} !Pause! {Wir spielen [Fußball]. Und ihr spielt [Tennis].}, = to **play**
 schwimmen§ ich schwimm(e), du schwimm(st), er schwimm[t] - wir schwimm{{en}}, ihr schwimm[t], sie schwimm{{en}} !Pause! {Ich schwimme im Schwimmbad.}, = to **swim** 

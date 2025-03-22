@@ -1,3 +1,16 @@
+ 
+ // Title: 
+// Mix_01_C
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Mix_01_C
+// 
 ich, du, er/ich§ ich, du, er, = **I, you, he**
 eins, zwei, drei/eins§ eins, zwei, drei, = **one, two, three**
 sprechen§ Ich sprech(e). Du sprich(st). , = to **speak** I am speaking. You are speaking.

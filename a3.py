@@ -12,6 +12,8 @@ import codecs
 from googletrans import Translator
 import itertools
 
+from sys import argv
+
 # help(anki.collection)
 # exit()
 # importer = AnkiPackageImporter(col=coll, file='path/to/your/deck.apkg')
@@ -57,7 +59,7 @@ fill: #404040;
 # Dark background = "#282a36"
 # Less dark background = "#6272a4"
 
-
+old = False
 
 
 # level = "A1"
@@ -69,7 +71,7 @@ fill: #404040;
 
 # Netzwerk_neu:
 # A1.1:
-old = False
+# old = False
 
 # level = "Adjektiv_02"
 # blooket = False
@@ -79,13 +81,14 @@ old = False
 
 # level = "Verb_02"
 # blooket = True
+# level = "Verb_02"
+# blooket = True
 
+# level = "Verb_trennbar"
+# blooket = True
 
-level = "Verb_trennbar"
-blooket = True
-
-level = "Verb_unregelm"
-blooket = True
+# level = "Verb_unregelm"
+# blooket = True
 
 # level = "Mix_01_A"
 # blooket = False
@@ -95,6 +98,10 @@ blooket = True
 
 # level = "Mix_01_C"
 # blooket = False
+
+# level = "Mix_03"
+# blooket = True
+
 
 # level = "Substantiv_01"
 # blooket = True
@@ -111,8 +118,6 @@ blooket = True
 # level = "Substantiv_03_B" 
 # blooket = True
 
-
-
 # level = "Datum_0"
 # blooket = False
 
@@ -128,10 +133,11 @@ blooket = True
 # level = "Datum_D"
 # blooket = True
 
+level = "Datum_E"
+blooket = True
+
 # level = "Uhrzeit"
 # blooket = False
-
-
 
 # level = "A1.1_Netzwerk_neu_01"
 # level = "A1.1_Netzwerk_neu_Unr._Verb_Präsens"
@@ -141,17 +147,22 @@ blooket = True
 # level = "Netzwerk_neu_A1_08"
 # level = "Netzwerk_neu_A1_09"
 # level = "Netzwerk_neu_A1.2_Test"
-#
+
+
+if len(argv)==2:
+    tmp_file = argv[1]
+else:
+    tmp_file = "./txt/"+level + ".txt"
+    
+with open(tmp_file) as f:
+    lines = [x.rstrip() for x in f]
 
 if blooket:
     blooket_file = "./csv/" + level + "_Blooket" + ".csv"
     system("cp ./csv/x_start.csv " + blooket_file)
 
-randint_deck = random.randint(1000000, 999999999999)
-randint_model = random.randint(100000, 99999999999)
-
-with open("./txt/"+level + ".txt") as f:
-    lines = [x.rstrip() for x in f]
+randint_deck = random.randint(100000000, 100000000000000000)
+randint_model = random.randint(1000, 100000000)
 
 tuples = []
 media_files = []

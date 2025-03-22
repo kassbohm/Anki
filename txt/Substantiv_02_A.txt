@@ -1,3 +1,15 @@
+// Title: 
+// Substantiv_02_A
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Substantiv_02_A
+// 
 // Freizeit und Beruf
 Hobby§ das Hobby - zwei Hobbys !Pause! {Jeder Mensch hat [[Hobbys]].}, = the **hobby**
 Buch§ das Buch - zwei Bücher !Pause! {Du liest [[ein Buch]].}, = the **book**

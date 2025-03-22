@@ -1,3 +1,15 @@
+// Title: 
+// Datum_B
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1:  Datum_B
+// 
 2000§zweitausend, = **2000**
 2010§zweitausend(zehn), = **2010**
 2020§zweitausend(zwanzig), = **2020**

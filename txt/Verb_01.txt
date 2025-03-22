@@ -1,3 +1,16 @@
+// Title: 
+// Verb_01
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Verb_01
+// 
+// 
 heißen§ich heiß(e), du hei(ßt), er heiß[t] - wir heiß{{en}}, ihr heiß[t], sie heiß{{en}} !Pause! {Ich heiße nicht Gerolf. Ich heiße Gero.}, = to **be called**
 schreiben§ ich schreib(e), du schreib(st), er schreib[t] - wir schreib{{en}}, ihr schreib[t], sie schreib{{en}} !Pause! {Ich schreibe [[einen Satz]].}, =  to **write**
 kommen§ich komm(e), du komm(st), er komm[t] - wir komm{{en}}, ihr komm[t], sie komm{{en}} !Pause! {Kommst du zu mir?}, =  to **come**

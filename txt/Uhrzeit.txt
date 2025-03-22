@@ -1,3 +1,16 @@
+// Title: 
+// Uhrzeit
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Uhrzeit
+// 
+// 
 001.svg|07:00/Uhrzeit§ 7 Uhr = 7, = **07:00**
 002.svg|07:05/Uhrzeit§ 7 Uhr 5  = 5 nach 7, = **07:05**
 003.svg|07:10/Uhrzeit§ 7 Uhr 10 = 10 nach 7, = **07:10  **
