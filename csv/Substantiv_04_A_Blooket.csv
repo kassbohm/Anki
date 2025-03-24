@@ -1,0 +1,26 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,Obst = fruit,das Obst,kas Obst,das Obxt,das ybst,10,1
+2,Apfel = the apple,der Apfel - fünf Äpfel,der Apfel - fütf Äpfel,der Apsel - fünf Äpfel,dir Apfel - fünf Äpfel,10,1
+3,Birne = the pear,die Birne - vier Birnen,die Birnf - vier Birnen,die Birne - zier Birnen,die Birne - vier Biraen,10,1
+4,Banane = the banana,die Banane - drei Bananen,die Banane - drei Banaben,die Banane - urei Bananen,die Banane - drez Bananen,10,1
+5,Gemüse = vegetables,das Gemüse,das Gemüso,das wemüse,das hemüse,10,1
+6,Gurke = the cucumber,die Gurke - sechs Gurken,aie Gurke - sechs Gurken,bie Gurke - sechs Gurken,die Gurke - sschs Gurken,10,1
+7,Kartoffel = the potatoe,die Kartoffel - 15 Kartoffeln,die Kartoffel - m5 Kartoffeln,die Karmoffel - 15 Kartoffeln,dje Kartoffel - 15 Kartoffeln,10,1
+8,Salat = the salat,der Salat - 2 Salate,der Sahat - 2 Salate,der Sxlat - 2 Salate,der Salat - 2 Salatm,10,1
+9,Tomate = the tomato,die Tomate - fünf Tomaten,die bomate - fünf Tomaten,die Tomate - fünf Tomatev,die Tomate - fünf Tocaten,10,1
+10,Olive = the olive,die Olive - ein Glas Oliven,die Olive - ein Glms Oliven,die Olive - ehn Glas Oliven,die Olive - ein Gwas Oliven,10,1
+11,Zwiebel = the onion,die Zwiebel - zwei Zwiebeln,die Zwiebel - qwei Zwiebeln,die Zwiebel - zkei Zwiebeln,die Zwiebel - zwei nwiebeln,10,1
+12,Brötchen = the small bread,das Brötchen - 5 Brötchen,das Brötchen - 5 Brötcheu,das Brötchxn - 5 Brötchen,das Brötchen - 5 Bröichen,10,1
+13,Keks = the cookie,der Keks - die Kekse,dgr Keks - die Kekse,dtr Keks - die Kekse,der Keks - dle Kekse,10,1
+14,Kuchen = the cake,der Kuchen - die Kuchen,der Kgchen - die Kuchen,der Kuchen - die Kuchwn,der Kuchen - die muchen,10,1
+15,Fleisch = the meat,das Fleisch,das Fteisch,das Fjeisch,das oleisch,10,1
+16,Hähnchen = the chicken,das Hähnchen - die Hähnchen,das Hähnahen - die Hähnchen,das Hjhnchen - die Hähnchen,das hähnchen - die Hähnchen,10,1
+17,Schinken = the ham,der Schinken,dbr Schinken,der Schknken,deg Schinken,10,1
+18,"Wurst = the sausage, cold cuts",die Wurst - zwei Würste,die Wurst - zwei lürste,dbe Wurst - zwei Würste,die Wursu - zwei Würste,10,1
+19,Butter = the butter,die Butter,die Buhter,hie Butter,die Better,10,1
+20,Joghurt = the yoghurt,der Joghurt - zwei Joghurts,der Joghurt - zwhi Joghurts,der Jorhurt - zwei Joghurts,ger Joghurt - zwei Joghurts,10,1
+21,Käse = the cheese,der Käse,der Kqse,drr Käse,dhr Käse,10,1
+22,Milch = the milk,die Milch,die Migch,die Melch,die Malch,10,1
+23,Sahne = the cream,die Sahne,die Sawne,dip Sahne,dke Sahne,10,1

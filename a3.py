@@ -11,6 +11,7 @@ from os import system
 import codecs
 from googletrans import Translator
 import itertools
+from re import sub
 
 from sys import argv
 
@@ -118,6 +119,9 @@ old = False
 # level = "Substantiv_03_B" 
 # blooket = True
 
+# level = "Substantiv_04" 
+# blooket = True
+
 # level = "Datum_0"
 # blooket = False
 
@@ -133,8 +137,8 @@ old = False
 # level = "Datum_D"
 # blooket = True
 
-level = "Datum_E"
-blooket = True
+# level = "Datum_E"
+# blooket = True
 
 # level = "Uhrzeit"
 # blooket = False
@@ -149,10 +153,14 @@ blooket = True
 # level = "Netzwerk_neu_A1.2_Test"
 
 
-if len(argv)==2:
-    tmp_file = argv[1]
-else:
-    tmp_file = "./txt/"+level + ".txt"
+tmp_file = argv[1]
+blooket = True
+level = tmp_file[4:-4]
+
+# if len(argv)==2:
+#     tmp_file = argv[1]
+# else:
+#     tmp_file = "./txt/"+level + ".txt"
     
 with open(tmp_file) as f:
     lines = [x.rstrip() for x in f]
@@ -191,24 +199,27 @@ for line in lines:
         img = None
         word = img_word
 
-    # if "(" in word:
-    #     word = word.replace("(", "")
-    #     word = word.replace(")", "")
-    #     word_color = "#50fa7b"
-    # else:
-    #     # word_color = "DodgerBlue"
-    word_color = "#50fa7b" # green
+    # light blue = "#0090ff" 
+    # green = "#50fa7b"
+    # pink = "#ff79c6"
+    # purple = "#bd93f9"
+    # yellow = "#"
+    # orange = "#ff9600"
+    # turquoise = "#00e4e4" 
+
+    word_color = "#ffffff" # white
 
 
     if old:
         q = '<a style="color:DodgerBlue"; href="https://www.dwds.de/wb/'
 
     else:
-        q = '<a style="color:' + word_color + '"; href="https://www.verbformen.com/?w='
+        # q = '<a style="color:' + word_color + '"; href="https://www.verbformen.com/?w='
+        q = '<a href="https://www.verbformen.com/?w='
 
     if "/" not in word:
         q += word
-        q += '";><u>'
+        q += '"style="color: white;";><u>'
         q += word
         q += "</u>"
     else:
@@ -238,20 +249,49 @@ for line in lines:
     else:
         br = False
 
-    # a[1] = a[1].strip()
+    a[1] = a[1].strip()
+    a[1] = "<br>"+a[1]
+    
     a[1] = a[1].replace("** ", "**", 1)
+
+    a[1] = a[1].replace(
+        "{",
+        # '<br><font style="color: #bd93f9;">',
+        '<br>'
+    )
+    a[1] = a[1].replace(
+        "}",
+        "",
+    )
+
     # a[1] = a[1].replace("**", '<font style="color: #0090ff;">', 1)
-    a[1] = a[1].replace("**", '<font style="color: #f1fa8c;">', 1)
-    a[1] = a[1].replace("**", "</font> ", 1)
+    a[1] = a[1].replace("**", '<b><font style="color: #ffffff;">', 1)
+    a[1] = a[1].replace("**", "</font></b> ", 1)
+    # a[1] = a[1].replace("**", '<font style="color: #f1fa8c;">', 1)
+    # a[1] = a[1].replace("**", "</font> ", 1)
 
 
-    # green = "#50fa7b" # Akkusativ
-    # pink = "#ff79c6"
-    # purple = "#bd93f9"
-    # yellow = "#f1fa8c"
-    # dodger blue = "#1e90ff" 
+
+
+    # a[1] = a[1].replace("**", '<font-weight: bold, font style="color: #f1fa8c;">', 1)
+    # a[1] = a[1].replace("**", "</font> ", 1)
+
+
 
     ac = a.copy()[0]
+
+    tmp = ac.strip().split(" ")
+    print(tmp[1])
+    if tmp[0]=="der":
+        tmp[1]='<b><font style="color: #1e90ff;">'+tmp[1]+"</font></b>" # 
+    elif tmp[0]=="die":
+        tmp[1]='<b><font style="color: #ff79c6;">'+tmp[1]+"</font></b>"
+    elif tmp[0]=="das":
+        tmp[1]='<b><font style="color: #50fa7b;">'+tmp[1]+"</font></b>"
+
+
+    ac = " ".join(tmp)
+
     ac = ac.replace(
         " **",
         ' <font style="color: #50fa7b;">', 
@@ -270,7 +310,7 @@ for line in lines:
     )
     ac = ac.replace(
         "[[",
-        '<i style="italic; color: #ff79c6;">',
+        '<i style="italic; color: #00e4e4;">',
     )
     ac = ac.replace(
         "]]",
@@ -278,7 +318,7 @@ for line in lines:
     )
     ac = ac.replace(
         "[",
-        '<font style="color: #ff79c6;">',
+        '<font style="color: #00e4e4;">',
     )
     ac = ac.replace(
         "]",
@@ -301,8 +341,6 @@ for line in lines:
         "}",
         "</font>",
     )
-
-
     text = a[0]
     
     text = text.replace(
@@ -400,13 +438,13 @@ for line in lines:
             #     question = tmp[0] + " " + tmp[1]
             # else:
             question = word
-            print(question)
-
             if level == "Substantiv_02_A" \
                     or level == "Substantiv_02_B" \
                     or level == "Substantiv_01" \
                     or level == "Substantiv_03_A" \
-                    or level == "Substantiv_03_B":
+                    or level == "Substantiv_03_B" \
+                    or level == "Substantiv_04_A":    
+                    
                 tmp = text.split(" ")
                 try:
                     idx = tmp.index("!")
@@ -440,8 +478,7 @@ for line in lines:
             correct = correct.replace("kein Singular", "")
             correct = correct.replace("kein Plural", "")
             correct = correct.replace("kein Plural", "")
-            # print(correct)
-            # exit()    
+
 
             indices = []
             for n, i in enumerate(correct):
@@ -519,6 +556,7 @@ for line in lines:
                     Y = list(Y)
                     if len(Y)==3:
                         break
+                english = english.split("{")[0]
                 row = [line_no, question.strip() + " = " + english.strip(), correct, Y[0], Y[1], Y[2], 10, "1"]
             eggs.writerow(row)
 

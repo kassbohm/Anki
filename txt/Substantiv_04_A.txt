@@ -1,0 +1,36 @@
+Obst§ das Obst !Pause! {Isst du gerne [[Obst]]?}, = **fruit** {Do you like eating fruit?}
+Apfel§ der Apfel - fünf Äpfel !Pause! {Sie isst [[einen Apfel]].}, = the **apple**
+Birne§ die Birne - vier Birnen !Pause! {Sie isst [[eine Birne]].}, = the **pear**
+Banane§ die Banane - drei Bananen !Pause! {Das Kind isst [[eine Banane]].}, = the **banana**
+Gemüse§ das Gemüse !Pause! {Er isst jeden Tag [[Gemüse]].}, = **vegetables** {He eats vegetables every day.} 
+Gurke§ die Gurke - sechs Gurken !Pause! {Das ist [[eine grüne Gurke]].}, = the **cucumber**
+Kartoffel§ die Kartoffel - 15 Kartoffeln !Pause! {Ich kaufe [[Kartoffeln]].}, = the **potatoe**
+Salat§ der Salat - 2 Salate !Pause! {Ich bringe [[einen Salat]] mit.}, = the **salat**
+Tomate§ die Tomate - fünf Tomaten !Pause! {Der Tiger toastet [[die Tomaten]]!}, = the **tomato** {The tiger toasts the tomatoes!}
+Olive§ die Olive - ein Glas Oliven !Pause! {Ich zähle [die Oliven].}, = the **olive** {I count the olives.}
+Zwiebel§ die Zwiebel - zwei Zwiebeln !Pause! {Gib mir [[eine scharfe Zwiebel]]!}, = the **onion**{Give me a hot onion!}
+Brötchen§ das Brötchen - 5 Brötchen !Pause! {Willst du [[ein Brötchen]]?}, = the small **bread**
+Keks§ der Keks - die Kekse !Pause! {Willst du [[einen Keks]] oder [[zwei Kekse]]?}, = the **cookie**{Would you like one cookie or two cookies?}
+Kuchen§ der Kuchen - die Kuchen !Pause! {Wir backen [[einen Kuchen]].}, = the **cake** {We bake a cake.}
+Fleisch§ das Fleisch !Pause! {Wo kaufst du [das Fleisch]?}, = the **meat**
+Hähnchen§ das Hähnchen - die Hähnchen !Pause! {Wir grillen [ein Hähnchen].}, = the **chicken**
+Schinken§ der Schinken !Pause! {Schneide [den Schinken] in Scheiben.}, = the **ham** {Slice the ham!}
+Wurst§ die Wurst - zwei Würste !Pause! {Gib mir [die Wurst]!}, = the **sausage, cold cuts**
+Butter§ die Butter !Pause! {Mache [die Butter] auf [das Brot]!}, = the **butter** {Put the butter on the bread!}
+Joghurt§ der Joghurt - zwei Joghurts !Pause! {Ich esse jeden Morgen [[einen Joghurt]].}, = the **yoghurt**
+Käse§ der Käse !Pause! {Kaufe [[Kartoffeln]] und kaufe [[Käse]]!}, = the **cheese** {Buy potatoes and buy cheese!}
+Milch§ die Milch !Pause!, = the **milk**
+Sahne§ die Sahne !Pause!, = the **cream**
+// Title: 
+// Substantiv_04_A
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Substantiv_04_A
+// 
+// 

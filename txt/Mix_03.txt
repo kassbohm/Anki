@@ -1,3 +1,15 @@
+// Title: 
+// Mix_03
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Mix_03
+// 
 rechts - links§ rechts - links !Pause! {Wir fahren Auto. Ich sitze links. Und du sitzt rechts.}, = **on the right, on the left**
 Meter§ Das sind 15 Meter. !Pause! {Ein Kilometer ist gleich 1000 Meter.}, = the **meter**
 Kilometer§ der Kilometer - 12 Kilometer !Pause! {Es sind 27 Kilometer bis Darmstadt.}, = the **kilometer**
