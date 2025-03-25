@@ -1,4 +1,37 @@
-Obst§ das Obst !Pause! {Isst du gerne [[Obst]]?}, = **fruit** {Do you like eating fruit?}
+Pfeffer§ der Pfeffer !Pause! {Gibst du mir [den Pfeffer], bitte?}, = the **pepper**
+Salz§ das Salz !Pause! {Gibst du mir [das Salz], bitte?}, = the **salt**
+Zucker§ der Zucker !Pause! {Gib mir [den Zucker]!}, = the **sugar**
+Essig§ der Essig !Pause! {Gib mir [den Essig]!}, = the **vinegar**
+Öl§ das Öl !Pause! {Gib mir [das Öl]!}, = the **oil**
+Reis§ der Reis !Pause! {Ich koche [den Reis].}, = the **rice**
+Ei§ das Ei - sechs Eier !Pause! {Ich koche [[ein Ei]].}, = the **egg**
+Fisch§ der Fisch - 4 Fische !Pause! {Ich möchte [[einen Fisch]] fangen.}, = the **fish**
+Schokolade§ die Schokolade , = the **chocolate**
+Marmelade§ die Marmelade !Pause! {Mache [die Marmelade] auf [das Brot].}, = the **jam**
+Müsli§ das Müsli - zwei Müslis !Pause! {Wo ist [das Müsli]?}, = the **muesli, cereal**
+Getränk§ das Getränk - viele Getränke !Pause! {Ich kaufe [die Getränke].}, = the **drink**
+Wasser§ das Wasser, = the **water**
+Saft§ der Saft - zwei Säfte !Pause! {Gibst du mir [[[meinen Saft]]]?}, = the **juice**
+Limonade§ die Limonade - zwei Limonaden !Pause! {Gibst du mir [[[meine Limonade]]]?}, = the **lemonade, soft drink**
+Cola§ die Cola - zwei Colas !Pause! {Gibst du mir [[[meine Cola]]]?}, = the **cola**
+Kaffee§ der Kaffee - zwei Kaffees !Pause! {Ich trinke [[[meinen heißen Kaffee]]].}, = the **coffee**
+Tee§ der Tee - zwei Tees !Pause! {Ich trinke [[[meinen heißen Tee]]].}, = the **tea**
+Bäckerei§ die Bäckerei - 2 Bäckereien !Pause! {Der Bäcker verkauft [[[seine Bäckerei]]].}, = the **bakery**
+Metzgerei§ die Metzgerei - 5 Metzgereien !Pause! {Der Metzger verkauft [[[seine Metzgerei]]].}, = the **butcher shop**
+Supermarkt§ der Supermarkt - 3 Supermärkte !Pause! {Ich gehe in [den Supermarkt].}, = the **supermarket**
+Packung§ die Packung - 2 Packungen !Pause! {Ich kaufe [[eine Packung]] Eier.}, = the **pack**
+Becher§ der Becher - 5 Becher !Pause! {Wo ist [[[mein Becher ]]]?}, = the **cup, mug**
+Stück§ das Stück - 10 Stück !Pause! {Wo ist [[[mein Stück]]] Kuchen?}, = the **piece**
+Tüte§ die Tüte - 10 Tüten !Pause! {Wo ist [die große Tüte]?}, = the **bag**
+Gramm§ das Gramm - 200 Gramm !Pause! {1000 Gramm sind ein Kilogramm.}, = the **gram**
+Liter§ der Liter - 100 Liter, = the **liter**
+Appetit§ der Appetit  !Pause! {Ich wünsche [[einen guten Appetit]]!}, = the **appetite**
+Frühstück§ das Frühstück !Pause! {Ich esse [[[mein Frühstück]]].}, = the **breakfast**
+Mittagessen§ das Mittagessen !Pause! {Ich esse [[[mein Mittagessen]]].}, = the **lunch**
+Abendessen§ das Abendessen !Pause! {Ich esse [[[mein Abendessen]]].}, = the **dinner**
+Pommes frites§ die Pommes frites !Pause! {Ich esse [[[meine Pommes frites]]].}, = the **French fries**
+Kantines§ die Kantine !Pause! {Ich gehe in [die Kantine].}, = the **canteen, cafeteria**
+// 
 // Title: 
 // Substantiv_04_B
 // 

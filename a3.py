@@ -201,10 +201,7 @@ for line in lines:
         img = None
         word = img_word
 
-
-
     word_color = "#ffffff" # white
-
 
     if old:
         q = '<a style="color:DodgerBlue"; href="https://www.dwds.de/wb/'
@@ -228,12 +225,10 @@ for line in lines:
     if level == "Datum_A" or level == "Datum_B" or level == "Datum_C" or level == "Datum_D":
         q = '<a style="color: #50fa7b">'+word+'</a>' 
 
-
     # print(q)
 
     a = line[1]
     
-
     a = a.split(", =")
     english = a[1].replace("**","")
 
@@ -266,12 +261,8 @@ for line in lines:
     # a[1] = a[1].replace("**", '<font style="color: #f1fa8c;">', 1)
     # a[1] = a[1].replace("**", "</font> ", 1)
 
-
-
-
     # a[1] = a[1].replace("**", '<font-weight: bold, font style="color: #f1fa8c;">', 1)
     # a[1] = a[1].replace("**", "</font> ", 1)
-
 
     # light blue = "#0090ff" 
     # green = "#50fa7b"
@@ -313,6 +304,15 @@ for line in lines:
         ")",
         "</font>",
     )
+    ac = ac.replace(
+        "[[[",
+        '<u style="color: #ffb663;">',
+    )
+    ac = ac.replace(
+        "]]]",
+        "</u>",
+    )
+
     ac = ac.replace(
         "[[",
         '<i style="italic; color: #ffb663;">',
