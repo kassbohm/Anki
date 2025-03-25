@@ -142,8 +142,6 @@ old = False
 # level = "Datum_E"
 # blooket = True
 
-# level = "Uhrzeit"
-# blooket = False
 
 # level = "A1.1_Netzwerk_neu_01"
 # level = "A1.1_Netzwerk_neu_Unr._Verb_Präsens"
@@ -157,6 +155,10 @@ old = False
 
 tmp_file = argv[1]
 blooket = True
+if "Uhrzeit" in tmp_file:
+
+    blooket = False
+
 level = tmp_file[4:-4]
 
 # if len(argv)==2:
@@ -218,7 +220,8 @@ for line in lines:
     else:
         word = word.split("/")
         q += word[1]
-        q += '";><u>'
+        # q += '";><u>'
+        q += '"style="color: white;";><u>'
         q += word[0]
         q += "</u>"
     q += "</a>"
@@ -226,7 +229,8 @@ for line in lines:
         q = '<a style="color: #50fa7b">'+word+'</a>' 
 
     # print(q)
-
+    print(line)
+    
     a = line[1]
     
     a = a.split(", =")
