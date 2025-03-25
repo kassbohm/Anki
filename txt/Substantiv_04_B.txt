@@ -1,0 +1,14 @@
+Obst§ das Obst !Pause! {Isst du gerne [[Obst]]?}, = **fruit** {Do you like eating fruit?}
+// Title: 
+// Substantiv_04_B
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: Substantiv_04_B
+// 
+// 

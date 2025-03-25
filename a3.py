@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 # import anki
 # import anki.collection
 from anki.importing.apkg import AnkiPackageImporter
@@ -199,13 +201,7 @@ for line in lines:
         img = None
         word = img_word
 
-    # light blue = "#0090ff" 
-    # green = "#50fa7b"
-    # pink = "#ff79c6"
-    # purple = "#bd93f9"
-    # yellow = "#"
-    # orange = "#ff9600"
-    # turquoise = "#00e4e4" 
+
 
     word_color = "#ffffff" # white
 
@@ -277,6 +273,15 @@ for line in lines:
     # a[1] = a[1].replace("**", "</font> ", 1)
 
 
+    # light blue = "#0090ff" 
+    # green = "#50fa7b"
+    # dark green = "#00FA9A"
+    # 
+    # pink = "#ff79c6"
+    # purple = "#bd93f9"
+    # yellow = "#"
+    # orange = "#ff9600"
+    # turquoise = "#00e4e4" 
 
     ac = a.copy()[0]
 
@@ -287,7 +292,7 @@ for line in lines:
     elif tmp[0]=="die":
         tmp[1]='<b><font style="color: #ff79c6;">'+tmp[1]+"</font></b>"
     elif tmp[0]=="das":
-        tmp[1]='<b><font style="color: #50fa7b;">'+tmp[1]+"</font></b>"
+        tmp[1]='<b><font style="color: #1abc9c;">'+tmp[1]+"</font></b>"
 
 
     ac = " ".join(tmp)
@@ -310,7 +315,7 @@ for line in lines:
     )
     ac = ac.replace(
         "[[",
-        '<i style="italic; color: #00e4e4;">',
+        '<i style="italic; color: #ffb663;">',
     )
     ac = ac.replace(
         "]]",
@@ -318,7 +323,7 @@ for line in lines:
     )
     ac = ac.replace(
         "[",
-        '<font style="color: #00e4e4;">',
+        '<font style="color: #ffb663;">',
     )
     ac = ac.replace(
         "]",
