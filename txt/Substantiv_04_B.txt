@@ -8,7 +8,7 @@ Ei§ das Ei - sechs Eier !Pause! {Ich koche [[ein Ei]].}, = the **egg**
 Fisch§ der Fisch - 4 Fische !Pause! {Ich möchte [[einen Fisch]] fangen.}, = the **fish**
 Schokolade§ die Schokolade , = the **chocolate**
 Marmelade§ die Marmelade !Pause! {Mache [die Marmelade] auf [das Brot].}, = the **jam**
-Müsli§ das Müsli - zwei Müslis !Pause! {Wo ist [das Müsli]?}, = the **muesli, cereal**
+Müsli§ das Müsli - zwei Müslis !Pause! {Ich esse [das Müsli].}, = the **muesli, cereal**
 Getränk§ das Getränk - viele Getränke !Pause! {Ich kaufe [die Getränke].}, = the **drink**
 Wasser§ das Wasser, = the **water**
 Saft§ der Saft - zwei Säfte !Pause! {Gibst du mir [[[meinen Saft]]]?}, = the **juice**
@@ -20,9 +20,9 @@ Bäckerei§ die Bäckerei - 2 Bäckereien !Pause! {Der Bäcker verkauft [[[seine
 Metzgerei§ die Metzgerei - 5 Metzgereien !Pause! {Der Metzger verkauft [[[seine Metzgerei]]].}, = the **butcher shop**
 Supermarkt§ der Supermarkt - 3 Supermärkte !Pause! {Ich gehe in [den Supermarkt].}, = the **supermarket**
 Packung§ die Packung - 2 Packungen !Pause! {Ich kaufe [[eine Packung]] Eier.}, = the **pack**
-Becher§ der Becher - 5 Becher !Pause! {Wo ist [[[mein Becher ]]]?}, = the **cup, mug**
-Stück§ das Stück - 10 Stück !Pause! {Wo ist [[[mein Stück]]] Kuchen?}, = the **piece**
-Tüte§ die Tüte - 10 Tüten !Pause! {Wo ist [die große Tüte]?}, = the **bag**
+Becher§ der Becher - 5 Becher !Pause! {Ich suche [[[meinen Becher ]]].}, = the **cup, mug**
+Stück§ das Stück - 10 Stück !Pause! {Ich suche [[[mein Stück]]] Kuchen.}, = the **piece**
+Tüte§ die Tüte - 10 Tüten !Pause! {Ich brauche [die große Tüte].}, = the **bag**
 Gramm§ das Gramm - 200 Gramm !Pause! {1000 Gramm sind ein Kilogramm.}, = the **gram**
 Liter§ der Liter - 100 Liter, = the **liter**
 Appetit§ der Appetit  !Pause! {Ich wünsche [[einen guten Appetit]]!}, = the **appetite**
@@ -30,7 +30,7 @@ Frühstück§ das Frühstück !Pause! {Ich esse [[[mein Frühstück]]].}, = the 
 Mittagessen§ das Mittagessen !Pause! {Ich esse [[[mein Mittagessen]]].}, = the **lunch**
 Abendessen§ das Abendessen !Pause! {Ich esse [[[mein Abendessen]]].}, = the **dinner**
 Pommes frites§ die Pommes frites !Pause! {Ich esse [[[meine Pommes frites]]].}, = the **French fries**
-Kantines§ die Kantine !Pause! {Ich gehe in [die Kantine].}, = the **canteen, cafeteria**
+Kantine§ die Kantine - zwei Kantinen !Pause! {Ich gehe in [die Kantine].}, = the **canteen, cafeteria**
 // 
 // Title: 
 // Substantiv_04_B

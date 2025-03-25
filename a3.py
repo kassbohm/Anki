@@ -444,11 +444,12 @@ for line in lines:
             # else:
             question = word
             if level == "Substantiv_02_A" \
-                    or level == "Substantiv_02_B" \
-                    or level == "Substantiv_01" \
-                    or level == "Substantiv_03_A" \
-                    or level == "Substantiv_03_B" \
-                    or level == "Substantiv_04_A":    
+                    or level == "Substantiv_02_B"  \
+                    or level == "Substantiv_01"    \
+                    or level == "Substantiv_03_A"  \
+                    or level == "Substantiv_03_B"  \
+                    or level == "Substantiv_04_A"  \
+                    or level == "Substantiv_04_B":    
                     
                 tmp = text.split(" ")
                 try:
