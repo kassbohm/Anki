@@ -226,10 +226,11 @@ for line in lines:
         q += "</u>"
     q += "</a>"
     if level == "Datum_A" or level == "Datum_B" or level == "Datum_C" or level == "Datum_D":
-        q = '<a style="color: #50fa7b">'+word+'</a>' 
-
+        q = '<a style="color: #ffffff">'+word+'</a>' 
+    if level[:7]=="W-Frage":
+        q = word 
     # print(q)
-    print(line)
+    # print(line)
     
     a = line[1]
     
@@ -281,7 +282,7 @@ for line in lines:
     ac = a.copy()[0]
 
     tmp = ac.strip().split(" ")
-    print(tmp[1])
+    # print(tmp[1])
     if tmp[0]=="der":
         tmp[1]='<b><font style="color: #1e90ff;">'+tmp[1]+"</font></b>" # 
     elif tmp[0]=="die":
@@ -489,11 +490,16 @@ for line in lines:
             correct = correct.replace("kein Plural", "")
             correct = correct.replace("kein Plural", "")
 
-
+            if level[:7]=="W-Frage":
+                tmp = correct.split(".")
+                corrects = [(tmp[0]+".").strip(), tmp[1].strip()+"."]
+                correct = random.choice(corrects)
+            
             indices = []
             for n, i in enumerate(correct):
                 if i != " " and i != "-" and i !=",":
                     indices.append(n)
+
             # print(indices)
 
             if level == "Datum_C":
@@ -567,7 +573,10 @@ for line in lines:
                     if len(Y)==3:
                         break
                 english = english.split("{")[0]
-                row = [line_no, question.strip() + " = " + english.strip(), correct, Y[0], Y[1], Y[2], 10, "1"]
+                if level[:7]=="W-Frage":
+                    row = [line_no, question.strip(), correct, Y[0], Y[1], Y[2], 10, "1"]
+                else:
+                    row = [line_no, question.strip() + " = " + english.strip(), correct, Y[0], Y[1], Y[2], 10, "1"]
             eggs.writerow(row)
 
     sound_fn = text + ".mp3"

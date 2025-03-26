@@ -1,0 +1,36 @@
+Woher kommst du? - Schweiz§ (Aus der Schweiz) komme ich. {Ich komme (aus der Schweiz).}, = **From where?**
+Woher kommst du? - Australien§ (Aus Australien) komme ich. {Ich komme (aus Australien).}, = **From where?**
+Woher bist du? - Türkei§ (Aus der Türkei) bin ich. {Ich bin (aus der Türkei).}, = **From where?**
+Woher kommt er? - China§ (Aus China) kommt er. {Er kommt (aus China).}, = **From where?**
+Woher kommt ihr? - Ukraine § (Aus der Ukraine) kommen wir. {Wir kommen (aus der Ukraine).}, = **From where?**
+Woher kommt ihr? - Südkorea § (Aus Südkorea) kommen wir. {Wir kommen (aus Südkorea).}, = **From where?**
+Woher kommt ihr? - Island § (Aus Island) kommen wir. {Wir kommen (aus Island).}, = **From where?**
+Woher seid ihr? - Irland § (Aus Irland) sind wir. {Wir sind (aus Irland).}, = **From where?**
+Wo wohnst du? - Darmstadt § (In Darmstadt) wohne ich. {Ich wohne (in Darmstadt).}, = **Where?**
+Wo lebst du? - Darmstadt § (In Darmstadt) lebe ich. {Ich lebe (in Darmstadt).}, = **Where?**
+Wo bist du? - Frankfurt § (In Frankfurt) bin ich. {Ich bin (in Frankfurt).}, = **Where?**
+Wo bist du? - Berlin § (In Berlin) bin ich. {Ich bin (in Berlin).}, = **Where?**
+Wo seid ihr? - Berlin § (In Berlin) sind wir. {Wir sind (in Berlin).}, = **Where?**
+Wo lebt ihr? - Vietnam § (In Vietnam) leben wir. {Wir leben (in Vietnam).}, = **Where?**
+Wo wohnt ihr? - Schweiz § (In der Schweiz) wohnen wir. {Wir wohnen (in der Schweiz).}, = **Where?**
+Wo seid ihr? - Türkei § (In der Türkei) sind wir. {Wir sind (in der Türkei).}, = **Where?**
+Wohin gehst du? - in die Schule § (In die Schule) gehe ich. {Ich gehe (in die Schule).}, = **Where to?**
+Wohin gehst du? - in die Uni § (In die Uni) gehe ich. {Ich gehe (in die Uni).}, = **Where to?**
+Wohin fährst du? - in die Uni § (In die Uni) fahre ich. {Ich fahre (in die Uni).}, = **Where to?**
+Wohin fährst du? - in die Stadt § (In die Stadt) fahre ich. {Ich fahre (in die Stadt).}, = **Where to?**
+Wohin fahrt ihr? - in die Türkei § (In die Türkei) fahren wir. {Wir fahren (in die Türkei).}, = **Where to?**
+Wohin fahrt ihr? - in die Uni § (In die Uni) fahren wir. {Wir fahren (in die Uni).}, = **Where to?**
+Wohin fährst du? - in den Urlaub § (In den Urlaub) fahre ich. {Ich fahre (in den Urlaub).}, = **Where to?**
+//
+// Title: 
+// W_Frage_Wann
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: W_Frage_Wann
+// 

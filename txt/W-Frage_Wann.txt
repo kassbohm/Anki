@@ -1,0 +1,39 @@
+Wann treffen wir uns? - um 8:00§ (Um 8:00 Uhr) treffen wir uns. {Wir treffen uns (um 8:00 Uhr).}, = **When?**
+Wann sehen wir uns? - um 16:00 § (Um 16:00 Uhr) sehen wir uns. {Wir sehen uns (um 16:00 Uhr).}, = **When?**
+Wann ist die Party? - um 8:30 § (Um 8:30 Uhr) ist die Party. {Die Party ist (um 8:30 Uhr).}, = **When?**
+Wann lernen wir? - um 17:45 § (Um 17:45 Uhr) lernen wir. {Wir lernen (um 17:45 Uhr).}, = **When?**
+Wann studieren wir? - um 16:30 § (Um 16:30 Uhr) studieren wir. {Wir studieren (um 16:30 Uhr).}, = **When?**
+Wann spielen wir Tennis? - am Freitag § (Am Freitag) spielen wir Tennis. {Wir spielen (am Freitag) Tennis.}, = **When?**
+Wann gehen wir ins Kino? - am Samstag § (Am Samstag) gehen wir ins Kino. {Wir gehen (am Samstag) ins Kino.}, = **When?**
+Wann spielen wir Fußball? - am Samstag§ (Am Sonntag) spielen wir Fußball. {Wir spielen (am Sonntag) Fußball.}, = **When?**
+Wann fahren wir nach Stuttgart? - am Freitag§ (Am Freitag) fahren wir nach Stuttgart. {Wir fahren (am Freitag) nach Stuttgart.}, = **When?**
+Wann gibt es Abendessen? - am Abend§ (Am Abend) gibt es Abendessen. {Es gibt (am Abend) Abendessen.}, = **When?**
+Wann gibt es Frühstück? - am Morgen§ (Am Morgen) gibt es Frühstück. {Es gibt (am Morgen) Frühstück.}, = **When?**
+Wann geht Martin wandern? - am Wochenende§ (Am Wochenende) geht Martin wandern. {Martin geht (am Wochenende) wandern.}, = **When?**
+Wann gehen wir ins Schwimmbad? - am Nachmittag§ (Am Nachmittag) gehen wir ins Schwimmbad. {Wir gehen (am Nachmittag) ins Schwimmbad.}, = **When?**
+Wann gehst du einkaufen? - am Montag um 15:00§ (Am Montag um 15:00 Uhr) gehe ich einkaufen. {Ich gehe (am Montag um 15:00 Uhr) einkaufen.}, = **When?**
+Wann fährst du los? - heute um 16:00§ (Heute um 16:00 Uhr) fahre ich los. {Ich fahre (heute um 16:00 Uhr) los.}, = **When?**
+Wann gehst du in die Uni? - jeden Tag um 8:00§ (Jeden Tag um 8:00 Uhr) gehe ich in die Uni. {Ich gehe (jeden Tag um 8:00 Uhr) in die Uni.}, = **When?**
+Wann machst du die Pizza? - heute Abend um 20:00§ (Heute Abend um 20:00 Uhr) mache ich die Pizza. {Ich mache (heute Abend um 20:00 Uhr) die Pizza.}, = **When?**
+Wann machst du das Frühstück? - morgen früh um 7:00§ (Morgen früh um 7:00 Uhr) mache ich das Frühstück. {Ich mache (morgen früh um 7:00 Uhr) das Frühstück.}, = **When?**
+Wann fliegst du nach Australien? - im Winter § (Im Winter) fliege ich nach Australien. {Ich fliege (im Winter) nach Australien.}, = **When?**
+Wann hast du frei? - im Sommer § (Im Sommer) habe ich frei. {Ich habe (im Sommer) frei.}, = **When?**
+Wann machen wir Pause? - jeden Morgen um 10:00 § (Jeden Morgen um 10:00 Uhr) machen wir Pause. {Wir machen (jeden Morgen um 10:00 Uhr) eine Pause.}, = **When?**
+Wann gehst du los? - in 10 Minuten§ (In 10 Minuten) gehe ich los. {Ich gehe (in 10 Minuten) los.}, = **When?**
+Wann kommt er an? - in 25 Minuten§ (In 25 Minuten) kommt er an. {Er kommt (in 25 Minuten) an.}, = **When?**
+Wann machen wir Pause? - in 15 Minuten§ (In 15 Minuten) machen wir Pause. {Wir machen (in 15 Minuten) Pause.}, = **When?**
+Wann machst er Pause? - in 45 Minuten§ (In 45 Minuten) macht er Pause. {Er macht (in 45 Minuten) Pause.}, = **When?**
+Wann geht ihr los? - in 10 Minuten§ (In 30 Minuten) gehen wir los. {Wir gehen (in 30 Minuten) los.}, = **When?**
+//
+// Title: 
+// W_Frage_Wann
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: W_Frage_Wann
+// 

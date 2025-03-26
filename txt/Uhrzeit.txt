@@ -1,5 +1,5 @@
-001.svg| 7:00/Uhrzeit§ Normgerecht: Es ist ( 7:00 Uhr). {Umgangssprachlich: Es ist sieben.}, = **07:00** 
-002.svg|07:05/Uhrzeit§ Normgerecht: Es ist (07:05 Uhr). {Umgangssprachlich: Es ist fünf nach sieben.}, = **07:05**
+001.svg| 7:00/Uhrzeit§ Es ist ( 7:00 Uhr). {Es ist sieben.}, = **07:00** 
+002.svg|07:05/Uhrzeit§ Es ist (07:05 Uhr). {Es ist fünf nach sieben.}, = **07:05**
 003.svg|07:10/Uhrzeit§ Es ist (07:10 Uhr). {Es ist zehn nach sieben.}, = **07:10  **
 004.svg|07:15/Uhrzeit§ Es ist (07:15 Uhr). {Es ist Viertel nach sieben = Viertel acht.}, = **07:15**
 005.svg|07:20/Uhrzeit§ Es ist (07:20 Uhr). {Es ist zwanzig nach sieben = zehn vor halb acht.}, = **07:20**
