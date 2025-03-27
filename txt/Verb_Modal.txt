@@ -1,0 +1,7 @@
+wollen§ ich will, du willst, er will - wir woll{{en}}, ihr wollt, sie woll{{en}} !Pause! {Ich will (gewinnen). Du willst (gewinnen). Er will (gewinnen).}, = to **want to**
+müssen§ ich muss, du musst, er muss - wir müss{{en}}, ihr müsst, sie müss{{en}} !Pause! {Ich muss (gehen). Er muss (bleiben).}, = to **have to**
+dürfen§ ich darf, du darfst, er darf - wir dürf{{en}}, ihr dürft, sie dürf{{en}} !Pause! {Ich darf [[ein Spiel]] (spielen). Du darfst [[ein Spiel]] (spielen).}, = to **be allowed to**
+sollen§ ich soll, du sollst, er soll - wir soll{{en}}, ihr sollt, sie soll{{en}} !Pause! {Ich soll [die Frau] (anrufen). Du sollst [den Mann] (anrufen).}, = to **be supposed to**
+können§ ich kann, du kannst, er kann - wir könn{{en}}, ihr könnt, sie könn{{en}} !Pause! {Du kannst [den Satz] (aussprechen).}, = to **be able to**
+möchten§ ich möchte, du möchtest, er möchte - wir möcht{{en}}, ihr möchtet, sie möcht{{en}} !Pause! {Wir möchten [[einen Kuchen]] (essen).}, = to **want to**
+mögen§ ich mag, du magst, er mag - wir mög{{en}}, ihr mögt, sie mög{{en}} !Pause! {Er mag [ein Spiel] (spielen).}, = to **like to**

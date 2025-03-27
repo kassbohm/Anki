@@ -17,8 +17,3 @@ haben§ ich (habe), du hast, er hat - wir hab{{en}}, ihr (habt), sie hab{{en}} !
 sein§ ich bin, du bist, er ist - wir sind, ihr seid, sie sind !Pause! {Ihr seid prima.}, = to **be**
 werden§ ich (werde), du wirst, er wird - wir werd{{en}}, ihr (werdet), sie werd{{en}} !Pause! {Es wird dunkel.}, = to **become**
 wissen§ ich weiß, du weißt, er weiß - wir wiss{{en}}, ihr wisst, sie wiss{{en}} !Pause! {Ich weiß es.}, = to **know**
-können§ ich kann, du kannst, er kann - wir könn{{en}}, ihr könnt, sie könn{{en}} !Pause! {Kannst das hören?}, = to **be able to**
-müssen§ ich muss, du musst, er muss - wir müss{{en}}, ihr müsst, sie müss{{en}} !Pause! {Ich muss jetzt gehen.}, = to **have to**
-wollen§ ich will, du willst, er will - wir woll{{en}}, ihr wollt, sie woll{{en}} !Pause! {Ich will gewinnen.}, = to **want to**
-möchten§ ich (möchte), du möchtest, er möchte - wir möcht{{en}}, ihr (möchtet), sie möcht{{en}} !Pause! {Wir möchten [[einen Kuchen]] essen.}, = to **want to**
-mögen§ ich mag, du magst, er mag - wir mög{{en}}, ihr mögt, sie mög{{en}} !Pause! {Ich mag das nicht.}, = to **want to**

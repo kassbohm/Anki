@@ -2,7 +2,7 @@
 
 # import anki
 # import anki.collection
-from anki.importing.apkg import AnkiPackageImporter
+# from anki.importing.apkg import AnkiPackageImporter
 
 from gtts import gTTS
 import genanki
@@ -227,7 +227,7 @@ for line in lines:
     q += "</a>"
     if level == "Datum_A" or level == "Datum_B" or level == "Datum_C" or level == "Datum_D":
         q = '<a style="color: #ffffff">'+word+'</a>' 
-    if level[:7]=="W-Frage":
+    if level[:7]=="W-Frage" or level[:4]=="Satz" :
         q = word 
     # print(q)
     # print(line)
@@ -473,7 +473,8 @@ for line in lines:
                     "Verb_02" or level == \
                     "Verb_trennbar" or level == \
                     "Verb_unregelm" or level == \
-                    "Adjektiv_02":
+                    "Adjektiv_02" \
+                    or level[0:4]=="Verb":
                 tmp = text
                 tmp = tmp.split("!")
                 tmp = tmp[0]
@@ -490,11 +491,11 @@ for line in lines:
             correct = correct.replace("kein Plural", "")
             correct = correct.replace("kein Plural", "")
 
-            if level[:7]=="W-Frage":
-                tmp = correct.split(".")
-                corrects = [(tmp[0]+".").strip(), tmp[1].strip()+"."]
-                correct = random.choice(corrects)
-            
+            # if level[:7]=="W-Frage":
+            #     tmp = correct.split(".")
+            #     corrects = [(tmp[0]+".").strip(), tmp[1].strip()+"."]
+            #     correct = random.choice(corrects)
+
             indices = []
             for n, i in enumerate(correct):
                 if i != " " and i != "-" and i !=",":

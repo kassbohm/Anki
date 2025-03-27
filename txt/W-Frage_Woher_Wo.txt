@@ -1,0 +1,41 @@
+Woher kommst du? - Schweiz§Ich komme (aus der Schweiz)., = **From where?**
+Woher kommst du? - Australien§Ich komme (aus Australien)., = **From where?**
+Woher kommst du? - Deutschland§Ich komme (aus Deutschland)., = **From where?**
+Woher bist du? - Türkei§Ich bin (aus der Türkei)., = **From where?**
+Woher bist du? - Spanien§Ich bin (aus Spanien)., = **From where?**
+Woher bist du? - Irland§Ich bin (aus Irland)., = **From where?**
+Woher ist er? - Türkei§Er ist (aus der Türkei)., = **From where?**
+Woher ist er? - Südafrika§Er ist (aus Südafrika)., = **From where?**
+Woher ist sie? - Türkei§Sie ist (aus der Türkei)., = **From where?**
+Woher kommt er? - China§Er kommt (aus China)., = **From where?**
+Woher kommt sie? - China§Sie kommt (aus China)., = **From where?**
+Woher kommt ihr? - Ukraine§Wir kommen (aus der Ukraine)., = **From where?**
+Woher kommt ihr? - Südkorea§Wir kommen (aus Südkorea)., = **From where?**
+Woher kommt ihr? - Island§Wir kommen (aus Island)., = **From where?**
+Woher seid ihr? - Irland§Wir sind (aus Irland)., = **From where?**
+Wo wohnst du? - Darmstadt§Ich wohne (in Darmstadt)., = **Where?**
+Wo wohnt er? - Darmstadt§Er wohnt (in Darmstadt)., = **Where?**
+Wo wohnt sie? - Darmstadt§Sie wohnt (in Darmstadt)., = **Where?**
+Wo lebst du? - Darmstadt§Ich lebe (in Darmstadt)., = **Where?**
+Wo lebt ihr? - Darmstadt§Wir leben (in Darmstadt)., = **Where?**
+Wo bist du? - Frankfurt§Ich bin (in Frankfurt)., = **Where?**
+Wo bist du? - Berlin§Ich bin (in Berlin)., = **Where?**
+Wo seid ihr? - Berlin§Wir sind (in Berlin)., = **Where?**
+Wo seid ihr? - Türkei§Wir sind (in der Türkei)., = **Where?**
+Wo lebt ihr? - Vietnam§Wir leben (in Vietnam)., = **Where?**
+Wo wohnt ihr? - Schweiz§Wir wohnen (in der Schweiz)., = **Where?**
+Wo wohnen sie? - Paris§Sie wohnen (in Paris)., = **Where?**
+Wo wohnt er? - Mexiko§Er wohnt (in Mexiko)., = **Where?**
+//
+// Title: 
+// W_Frage_Wann
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: W_Frage_Wann
+// 

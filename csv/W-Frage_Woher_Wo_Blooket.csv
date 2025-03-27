@@ -1,0 +1,31 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,Woher kommst du? - Schweiz,Ich komme aus der Schweiz.,Ich komme ays der Schweiz.,Ibh komme aus der Schweiz.,Ich komme aus deq Schweiz.,10,1
+2,Woher kommst du? - Australien,Ich komme aus Australien.,Ivh komme aus Australien.,Ich iomme aus Australien.,Ich kommd aus Australien.,10,1
+3,Woher kommst du? - Deutschland,Ich komme aus Deutschland.,Ich komme aus Deutychland.,Ich komme aus Deutschlanx.,Ich komma aus Deutschland.,10,1
+4,Woher bist du? - Türkei,Ich bin aus der Türkei.,Ich bin aus der bürkei.,Ich bin aus der Türkvi.,Ich bin aus der Türken.,10,1
+5,Woher bist du? - Spanien,Ich bin aus Spanien.,Ich bin aus Spanuen.,Ich bin xus Spanien.,Ich bin aus Spaniet.,10,1
+6,Woher bist du? - Irland,Ich bin aus Irland.,Iuh bin aus Irland.,Ich bin aus Irlandt,nch bin aus Irland.,10,1
+7,Woher ist er? - Türkei,Er ist aus der Türkei.,Er ist ays der Türkei.,Er ist aus der Tüpkei.,Er pst aus der Türkei.,10,1
+8,Woher ist er? - Südafrika,Er ist aus Südafrika.,Er ist aus Südafrska.,Er ist aos Südafrika.,Er ist aua Südafrika.,10,1
+9,Woher ist sie? - Türkei,Sie ist aus der Türkei.,Sie ism aus der Türkei.,Sie ist aus der Türkui.,Sie ist ams der Türkei.,10,1
+10,Woher kommt er? - China,Er kommt aus China.,Er kommt aus shina.,Er zommt aus China.,Er vommt aus China.,10,1
+11,Woher kommt sie? - China,Sie kommt aus China.,Sie zommt aus China.,Sie kommt aus nhina.,Sie mommt aus China.,10,1
+12,Woher kommt ihr? - Ukraine,Wir kommen aus der Ukraine.,Wir kommin aus der Ukraine.,Wir kommen aun der Ukraine.,Wir komyen aus der Ukraine.,10,1
+13,Woher kommt ihr? - Südkorea,Wir kommen aus Südkorea.,Wir kommen auf Südkorea.,Wir kommen zus Südkorea.,Wir kommen aus Südkoreal,10,1
+14,Woher kommt ihr? - Island,Wir kommen aus Island.,Wir kommen aus Islend.,Wir koomen aus Island.,Wir kommen aus Islgnd.,10,1
+15,Woher seid ihr? - Irland,Wir sind aus Irland.,Wir sind auc Irland.,Wir sind aus Ieland.,Wir sind aus Irlandh,10,1
+16,Wo wohnst du? - Darmstadt,Ich wohne in Darmstadt.,dch wohne in Darmstadt.,Ich wohnf in Darmstadt.,Ich fohne in Darmstadt.,10,1
+17,Wo wohnt er? - Darmstadt,Er wohnt in Darmstadt.,Er wohnt iu Darmstadt.,Er wohft in Darmstadt.,Er wohnt in Darmstadz.,10,1
+18,Wo wohnt sie? - Darmstadt,Sie wohnt in Darmstadt.,Sie wohnt in Darmstydt.,Sie wohnt in narmstadt.,Sie woqnt in Darmstadt.,10,1
+19,Wo lebst du? - Darmstadt,Ich lebe in Darmstadt.,Ich lebe in Darmstadtx,Ich lebe in Darmstaqt.,Ich ldbe in Darmstadt.,10,1
+20,Wo lebt ihr? - Darmstadt,Wir leben in Darmstadt.,eir leben in Darmstadt.,Wir lebet in Darmstadt.,Wir leben tn Darmstadt.,10,1
+21,Wo bist du? - Frankfurt,Ich bin in Frankfurt.,Ich bin in Franbfurt.,Ich bij in Frankfurt.,Ich bin in Frankfurtp,10,1
+22,Wo bist du? - Berlin,Ich bin in Berlin.,Ich bin in Berlim.,Ich bin ip Berlin.,Ich btn in Berlin.,10,1
+23,Wo seid ihr? - Berlin,Wir sind in Berlin.,Wzr sind in Berlin.,Wir sind in Beclin.,Wir sinj in Berlin.,10,1
+24,Wo seid ihr? - Türkei,Wir sind in der Türkei.,Wis sind in der Türkei.,Wir sind in der Tügkei.,Wir sind ib der Türkei.,10,1
+25,Wo lebt ihr? - Vietnam,Wir leben in Vietnam.,zir leben in Vietnam.,Wis leben in Vietnam.,Wir leben in pietnam.,10,1
+26,Wo wohnt ihr? - Schweiz,Wir wohnen in der Schweiz.,Wir wohnen in der Schwenz.,Wio wohnen in der Schweiz.,Wir wohnei in der Schweiz.,10,1
+27,Wo wohnen sie? - Paris,Sie wohnen in Paris.,Sie fohnen in Paris.,Sie womnen in Paris.,Sie wxhnen in Paris.,10,1
+28,Wo wohnt er? - Mexiko,Er wohnt in Mexiko.,Er wohnt in Mexikob,Er wohnt in Mexikof,Er wohnt in oexiko.,10,1

@@ -1,0 +1,24 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,wollen = to want to,"wir wollen, ihr wollt, sie wollen","wir wollen, ihr wollt, sie pollen","wir wollep, ihr wollt, sie wollen","wir wollen, ihr wollt, sie wvllen",10,1
+2,müssen = to have to,"ich muss, du musst, er muss","ich muss, di musst, er muss","ich muss, dd musst, er muss","ich muss, ou musst, er muss",10,1
+3,dürfen = to be allowed to,"wir dürfen, ihr dürft, sie dürfen","wer dürfen, ihr dürft, sie dürfen","wir dürfln, ihr dürft, sie dürfen","wir dürfen, ihr dünft, sie dürfen",10,1
+4,sollen = to be supposed to,"wir sollen, ihr sollt, sie sollen","wir sollen, ihr wollt, sie sollen","wih sollen, ihr sollt, sie sollen","wir sollen, dhr sollt, sie sollen",10,1
+5,können = to be able to,"wir können, ihr könnt, sie können","wir können, ihr könnh, sie können","wir könaen, ihr könnt, sie können","mir können, ihr könnt, sie können",10,1
+6,möchten = to want to,"ich möchte, du möchtest, er möchte","ich möchte, au möchtest, er möchte","ich möcpte, du möchtest, er möchte","ich möchte, du möchtest, er möcbte",10,1
+7,mögen = to like to,"wir mögen, ihr mögt, sie mögen","wir mögen, ihr mlgt, sie mögen","wbr mögen, ihr mögt, sie mögen","wir mögen, ihr mökt, sie mögen",10,1
+8,wollen = to want to,"wir wollen, ihr wollt, sie wollen","wir wollen, ihr wollt, qie wollen","wir wollen, ihr xollt, sie wollen","wir wollen, ehr wollt, sie wollen",10,1
+9,müssen = to have to,"wir müssen, ihr müsst, sie müssen","wir müssen, ihr müsst, sie müssep","wir müssen, ihp müsst, sie müssen","wir müssen, ihr müsst, sie müssex",10,1
+10,dürfen = to be allowed to,"wir dürfen, ihr dürft, sie dürfen","wir dürnen, ihr dürft, sie dürfen","wir dürfev, ihr dürft, sie dürfen","wir dxrfen, ihr dürft, sie dürfen",10,1
+11,sollen = to be supposed to,"wir sollen, ihr sollt, sie sollen","wir sollen, ihr sollt, sie sollej","wir sotlen, ihr sollt, sie sollen","wir sollen, ihr sollt, sie xollen",10,1
+12,können = to be able to,"wir können, ihr könnt, sie können","wir können, ihr könnt, sie kömnen","wir können, ihr könnt, sie könneg","wir könnea, ihr könnt, sie können",10,1
+13,möchten = to want to,"ich möchte, du möchtest, er möchte","ich möchte, du möchtevt, er möchte","ich möchte, du möchteft, er möchte","ich möchte, du mzchtest, er möchte",10,1
+14,mögen = to like to,"ich mag, du magst, er mag","ich mag, du tagst, er mag","icf mag, du magst, er mag","ich mag, du magst, er mam",10,1
+15,wollen = to want to,"wir wollen, ihr wollt, sie wollen","sir wollen, ihr wollt, sie wollen","wir wollen, ihr woelt, sie wollen","wir wollen, ihr wollt, sie yollen",10,1
+16,müssen = to have to,"wir müssen, ihr müsst, sie müssen","wir müssen, ihr müsst, sie müsseo","wir müssen, ihz müsst, sie müssen","wir müssen, ihr mbsst, sie müssen",10,1
+17,dürfen = to be allowed to,"wir dürfen, ihr dürft, sie dürfen","wir dürfen, ihr dürft, sie dürnen","wir dürfen, ihr dümft, sie dürfen","wir dürfen, ihr dürft, sie dürfeo",10,1
+18,sollen = to be supposed to,"wir sollen, ihr sollt, sie sollen","wir sollyn, ihr sollt, sie sollen","wir spllen, ihr sollt, sie sollen","wir soljen, ihr sollt, sie sollen",10,1
+19,können = to be able to,"wir können, ihr könnt, sie können","wir können, ihr könnw, sie können","wir können, ihr könnt, sie kögnen","wir können, ihr könnt, sie kvnnen",10,1
+20,möchten = to want to,"wir möchten, ihr möchtet, sie möchten","wir möchten, ihr muchtet, sie möchten","wir möcwten, ihr möchtet, sie möchten","wir yöchten, ihr möchtet, sie möchten",10,1
+21,mögen = to like to,"wir mögen, ihr mögt, sie mögen","wir mögen, ihr mögt, sio mögen","wir mögen, ohr mögt, sie mögen","wir mögen, ihr mögt, sie cögen",10,1

@@ -1,0 +1,46 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,Wohin gehst du? - Uni (best.),Ich gehe in die Uni.,Ich gjhe in die Uni.,Ich gehe in dve Uni.,qch gehe in die Uni.,10,1
+2,Wohin gehst du? - Küche (best.),Ich gehe in die Küche.,Ich gehe id die Küche.,Ich yehe in die Küche.,Ich gehe in die Kücae.,10,1
+3,Wohin gehst du? - Zimmer (best.),Ich gehe in das Zimmer.,Ihh gehe in das Zimmer.,Ich gefe in das Zimmer.,Icn gehe in das Zimmer.,10,1
+4,Wohin gehst du? - Supermarkt (best.),Ich gehe in den Supermarkt.,Ich gehs in den Supermarkt.,Ich gehe in den Sopermarkt.,Ich gehe in den Supermarlt.,10,1
+5,Wohin geht er? - Uni (best.),Er geht in die Uni.,Er geht in die Uei.,ar geht in die Uni.,Er geht in die Uqi.,10,1
+6,Wohin gehen wir? - Uni (best.),Wir gehen in die Uni.,Wir gehen un die Uni.,Wir gehen in dit Uni.,Wkr gehen in die Uni.,10,1
+7,Wohin fährst du? - Stadt (best.),Ich fahre in die Stadt.,Ich fahrl in die Stadt.,Ich fahre in die Stadv.,Ich fahre in die Stddt.,10,1
+8,Wohin fahrt ihr? - Türkei (best.),Wir fahren in die Türkei.,rir fahren in die Türkei.,Wir fahren in die Türkeij,Wir fahren in die Türeei.,10,1
+9,Wohin fahrt ihr? - Uni (best.),Wir fahren in die Uni.,Wik fahren in die Uni.,Wir fahrev in die Uni.,Wsr fahren in die Uni.,10,1
+10,Wohin gehst du? - Raum (best.),Ich gehe in den Raum.,Ich gehe iv den Raum.,tch gehe in den Raum.,Ich gshe in den Raum.,10,1
+11,Wohin fährst du? - Urlaub (best.),Ich fahre in den Urlaub.,Ich tahre in den Urlaub.,Ish fahre in den Urlaub.,Ich faure in den Urlaub.,10,1
+12,Wohin gehst du? - Wohnung (best.),Ich gehe in die Wohnung.,Ich yehe in die Wohnung.,Iyh gehe in die Wohnung.,Ich gehe in die Wohnungt,10,1
+13,Wohin gehst du? - Unterricht (best.),Ich gehe in den Unterricht.,Ich gehe in den Unterrichta,Ich kehe in den Unterricht.,Ics gehe in den Unterricht.,10,1
+14,Wohin fährt er? - Urlaub (best.),Er fährt in den Urlaub.,Er fährt in den Urlaux.,Er fährt in den Uclaub.,pr fährt in den Urlaub.,10,1
+15,Wohin gehst du? - Küche (unbest.),Ich gehe in eine Küche.,Ich gehe in eine Kücze.,Ich gehe in eine Küchea,Ich yehe in eine Küche.,10,1
+16,Wohin gehst du? - Zimmer (unbest.),Ich gehe in ein Zimmer.,wch gehe in ein Zimmer.,Ich gehe ih ein Zimmer.,Ioh gehe in ein Zimmer.,10,1
+17,Wohin gehst du? - Bad (unbest.),Ich gehe in ein Bad.,Ich gehe is ein Bad.,Ich gehf in ein Bad.,Ich mehe in ein Bad.,10,1
+18,Wohin gehst du? - Supermarkt (unbest.),Ich gehe in einen Supermarkt.,Ich gehe in etnen Supermarkt.,Ich gehe in einen Superaarkt.,Ich gehe in einen aupermarkt.,10,1
+19,Wohin geht er? - Uni (unbest.),Er geht in eine Uni.,Er geht in eixe Uni.,Er geht in eize Uni.,Er geht kn eine Uni.,10,1
+20,Wohin fährst du? - Stadt (unbest.),Ich fahre in eine Stadt.,Ich fahre in eine Stade.,Ich fahre in exne Stadt.,Ich fqhre in eine Stadt.,10,1
+21,Wohin gehst du? - Raum (unbest.),Ich gehe in einen Raum.,Ich gwhe in einen Raum.,fch gehe in einen Raum.,Ich gehl in einen Raum.,10,1
+22,Wohin gehst du? - Wohnung (unbest.),Ich gehe in eine Wohnung.,Ich gehe in einu Wohnung.,Ich gehe in eiye Wohnung.,kch gehe in eine Wohnung.,10,1
+23,Wohin gehst du? - Küche (poss. 1st pers. sing.),Ich gehe in meine Küche.,Ich gehe in miine Küche.,Ich geha in meine Küche.,Ich gehe in meine Küahe.,10,1
+24,Wohin gehst du? - Zimmer (poss. 1st pers. sing.),Ich gehe in mein Zimmer.,Ich gehe hn mein Zimmer.,Ich gehe in meik Zimmer.,Icb gehe in mein Zimmer.,10,1
+25,Wohin gehst du? - Bad (poss. 1st pers. sing.),Ich gehe in mein Bad.,Ich gehe in mein dad.,Ich gede in mein Bad.,Ich gehe in meij Bad.,10,1
+26,Wohin geht er? - Uni (poss. 1st pers. sing.),Er geht in meine Uni.,Er geht ie meine Uni.,Er geht in meinz Uni.,Er ieht in meine Uni.,10,1
+27,Wohin fährst du? - Stadt (poss. 1st pers. sing.),Ich fahre in meine Stadt.,Ich fahre in keine Stadt.,Ich vahre in meine Stadt.,Ich fahre in mline Stadt.,10,1
+28,Wohin gehst du? - Raum (poss. 1st pers. sing.),Ich gehe in meinen Raum.,Ich gehe in meineu Raum.,Ich gehe iz meinen Raum.,Ivh gehe in meinen Raum.,10,1
+29,Wohin gehst du? - Wohnung (poss. 1st pers. sing.),Ich gehe in meine Wohnung.,Ich gbhe in meine Wohnung.,Ich gehe in mjine Wohnung.,Ich gehe in metne Wohnung.,10,1
+30,Wohin gehst du? - Küche (poss. 2nd pers. sing.),Ich gehe in deine Küche.,Ich gehe im deine Küche.,Icl gehe in deine Küche.,Ich gehe fn deine Küche.,10,1
+31,Wohin gehst du? - Zimmer (poss. 2nd pers. sing.),Ich gehe in dein Zimmer.,Ich geqe in dein Zimmer.,Ich gehe in dein Zimmir.,Ich geme in dein Zimmer.,10,1
+32,Wohin gehst du? - Bad (poss. 2nd pers. sing.),Ich gehe in dein Bad.,Ich gehe in dein Badl,Ich gyhe in dein Bad.,Ich gehe in dein pad.,10,1
+33,Wohin geht er? - Uni (poss. 2nd pers. sing.),Er geht in deine Uni.,Er gehj in deine Uni.,Er geht in deind Uni.,Er geht in dewne Uni.,10,1
+34,Wohin fährst du? - Stadt (poss. 2nd pers. sing.),Ich fahre in deine Stadt.,Ich fahre in daine Stadt.,Ich fahre in deinj Stadt.,Ich fahre in diine Stadt.,10,1
+35,Wohin gehst du? - Raum (poss. 2nd pers. sing.),Ich gehe in deinen Raum.,wch gehe in deinen Raum.,Ich gehe in deinen Rauk.,Ich gehe xn deinen Raum.,10,1
+36,Wohin gehst du? - Wohnung (poss. 2nd pers. sing.),Ich gehe in deine Wohnung.,Ich gehe in deine Wohnunj.,Ich aehe in deine Wohnung.,Ich gehe in deine Wohnxng.,10,1
+37,Wohin gehst du? - Küche (poss. 3rd pers. sing.),Ich gehe in seine Küche.,Ich gehe in seine Kücre.,Ich gehe in seine Küchef,Ich gehe in sxine Küche.,10,1
+38,Wohin gehst du? - Zimmer (poss. 3rd pers. sing.),Ich gehe in sein Zimmer.,Ich gehe in seie Zimmer.,Ich gehe io sein Zimmer.,Ich gehe in seis Zimmer.,10,1
+39,Wohin gehst du? - Bad (poss. 3rd pers. sing.),Ich gehe in sein Bad.,Ich gehe in sein Bld.,Ich gehe in sein Bab.,Ich gehe ik sein Bad.,10,1
+40,Wohin geht er? - Uni (poss. 3rd pers. sing.),Er geht in seine Uni.,Er geht iw seine Uni.,Er geht in seine Unu.,Er geht il seine Uni.,10,1
+41,Wohin fährst du? - Stadt (poss. 3rd pers. sing.),Ich fahre in seine Stadt.,Ich fahrp in seine Stadt.,Icn fahre in seine Stadt.,Ich fahre in svine Stadt.,10,1
+42,Wohin gehst du? - Raum (poss. 3rd pers. sing.),Ich gehe in seinen Raum.,Ich gehe in sginen Raum.,Ich gehe sn seinen Raum.,Ich gehe iv seinen Raum.,10,1
+43,Wohin gehst du? - Wohnung (poss. 3rd pers. sing.),Ich gehe in seine Wohnung.,Ich gele in seine Wohnung.,Ich gehe in seine Wohnmng.,Ich gehi in seine Wohnung.,10,1

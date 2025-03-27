@@ -1,0 +1,83 @@
+(können, spielen) - ich§ Ich kann (spielen)., = I **am able to** play.
+(können, spielen) - du§ Du kannst (spielen)., = You **are able to** play.
+(können, spielen) - er§ Er kann (spielen)., = He **is able to** play.
+(können, spielen) - wir§ Wir können (spielen)., = We **are able to** play.
+(können, spielen) - ihr§ Ihr könnt (spielen)., = You **are able to** play.
+(können, spielen) - sie (plur.)§ Sie können (spielen)., = They **are able to** play.
+//
+(sollen, lernen) - ich§ Ich soll (lernen)., = I **am supposed to** learn.
+(sollen, lernen) - du§ Du sollst (lernen)., = You **are supposed to** learn.
+(sollen, lernen) - er§ Er soll (lernen)., = He **is supposed to** learn.
+(sollen, lernen) - wir§ Wir sollen (lernen)., = We **are supposed to** learn.
+(sollen, lernen) - ihr§ Ihr sollt (lernen)., = You **are supposed to** learn.
+(sollen, lernen) - sie (plur.)§ Sie sollen (lernen)., = They **are supposed to** learn.
+//
+(dürfen, sehen) - ich - Film (unbest.)§ Ich darf [[einen Film]] (sehen)., = I **am allowed to** see a movie.
+(dürfen, sehen) - ich - Film (best.)§ Ich darf [den Film] (sehen)., = I **am allowed to** see the movie.
+(dürfen, sehen) - ich - Film (poss. 1st pers. sing.)§ Ich darf [[[meinen Film]]] (sehen)., = I **am allowed to** see my movie.
+(dürfen, sehen) - ich - Film (poss. 2nd pers. sing.)§ Ich darf [[[deinen Film]]] (sehen)., = I **am allowed to** see your movie.
+(dürfen, sehen) - ich - Film (poss. 3rd pers. sing. M)§ Ich darf [[[seinen Film]]] (sehen)., = I **am allowed to** see his movie.
+(dürfen, sehen) - ich - Film (poss. 3rd pers. sing. F)§ Ich darf [[[ihren Film]]] (sehen)., = I **am allowed to** see her movie.
+(dürfen, sehen) - ich - Film (poss. 3rd pers. sing. N)§ Ich darf [[[seinen Film]]] (sehen)., = I **am allowed to** see its movie.
+(dürfen, sehen) - ich - Film (poss. 1st pers. plur.)§ Ich darf [[[unseren Film]]] (sehen)., = I **am allowed to** see our movie.
+(dürfen, sehen) - ich - Film (poss. 2nd pers. plur.)§ Ich darf [[[euren Film]]] (sehen)., = I **am allowed to** see your movie.
+(dürfen, sehen) - ich - Film (poss. 3rd pers. plur.)§ Ich darf [[[ihren Film]]] (sehen)., = I **am allowed to** see your movie.
+//
+(dürfen, sehen) - du - Film (unbest.)§ Du darfst [[einen Film]] (sehen)., = You **are allowed to** see a movie.
+(dürfen, sehen) - du - Film (best.)§ Du darfst [den Film] (sehen)., = You **are allowed to** see the movie.
+(dürfen, sehen) - er - Film (unbest.)§ Er darf [[einen Film]] (sehen)., = He **is allowed to** see a movie.
+(dürfen, sehen) - er - Film (best.)§ Er darf [den Film] (sehen)., = He **is allowed to** see the movie.
+(dürfen, sehen) - wir - Film (unbest.)§ Wir dürfen [[einen Film]] (sehen)., = We **are allowed to** see a movie.
+(dürfen, sehen) - wir - Film (best.)§ Wir dürfen [den Film] (sehen)., = We **are allowed to** see the movie.
+(dürfen, sehen) - ihr - Film (unbest.)§ Ihr dürft [[einen Film]] (sehen)., = You **are allowed to** see a movie.
+(dürfen, sehen) - ihr - Film (best.)§ Ihr dürft [[den Film]] (sehen)., = You **are allowed to** see the movie.
+(dürfen, sehen) - sie (plur.) - Film (unbest.)§ Sie dürfen [[einen Film]] (sehen)., = They **are allowed to** see a movie.
+(dürfen, sehen) - sie (plur.) - Film (best.)§ Sie dürfen [den Film] (sehen)., = They **are allowed to** see the movie.
+//
+(möchten, lesen) - ich - Text (unbest.)§ Ich möchte [[einen Text]] (lesen)., = I **want to** read a text.
+(möchten, lesen) - ich - Text (best.)§ Ich möchte [den Text] (lesen)., = I **want to** read the text.
+(möchten, lesen) - du - Text (unbest.)§ Du möchtest [[einen Text]] (lesen)., = You **want to** read a text.
+(möchten, lesen) - du - Text (best.)§ Du möchtest [den Text] (lesen)., = You **want to** read the text.
+(möchten, lesen) - er - Text (unbest.)§ Er möchte [[einen Text]] (lesen)., = He **wants to** read a text.
+(möchten, lesen) - er - Text (best.)§ Er möchte [den Text] (lesen)., = He **wants to** read the text.
+(möchten, lesen) - wir - Text (unbest.)§ Wir möchten [[einen Text]] (lesen)., = We **want to** read a text.
+(möchten, lesen) - wir - Text (best.)§ Wir möchten [den Text] (lesen)., = We **want to** read the text.
+(möchten, lesen) - ihr - Text (unbest.)§ Ihr möchtet [[einen Text]] (lesen)., = You **want to** read a text.
+(möchten, lesen) - ihr - Text (best.)§ Ihr möchtet [[den Text]] (lesen)., = You **want to** read the text.
+(möchten, lesen) - sie (plur.) - Text (unbest.)§ Sie möchten [[einen Text]] (lesen)., = They **want to** read a text.
+(möchten, lesen) - sie (plur.) - Text (best.)§ Sie möchten [den Text] (lesen)., = They **want to** read the text.
+//
+(wollen, lesen) - ich - Text (unbest.)§ Ich will [[einen Text]] (lesen)., = I **want to** read a text.
+(wollen, lesen) - ich - Text (best.)§ Ich will [den Text] (lesen)., = I **want to** read the text.
+(wollen, lesen) - du - Text (unbest.)§ Du willst [[einen Text]] (lesen)., = You **want to** read a text.
+(wollen, lesen) - du - Text (best.)§ Du willst [den Text] (lesen)., = You **want to** read the text.
+(wollen, lesen) - er - Text (unbest.)§ Er will [[einen Text]] (lesen)., = He **wants to** read a text.
+(wollen, lesen) - er - Text (best.)§ Er will [den Text] (lesen)., = He **wants to** read the text.
+(wollen, lesen) - wir - Text (unbest.)§ Wir wollen [[einen Text]] (lesen)., = We **want to** read a text.
+(wollen, lesen) - wir - Text (best.)§ Wir wollen [den Text] (lesen)., = We **want to** read the text.
+(wollen, lesen) - ihr - Text (unbest.)§ Ihr wollt [[einen Text]] (lesen)., = You **want to** read a text.
+(wollen, lesen) - ihr - Text (best.)§ Ihr wollt [[den Text]] (lesen)., = You **want to** read the text.
+(wollen, lesen) - sie (plur.) - Text (unbest.)§ Sie wollen [[einen Text]] (lesen)., = They **want to** read a text.
+(wollen, lesen) - sie (plur.) - Text (best.)§ Sie wollen [den Text] (lesen)., = They **want to** read the text.
+//
+(können, sehen) - ich - Film (unbest.)§ Ich kann [[einen Film]] (sehen)., = I **am able to** see a movie.
+(können, sehen) - ich - Film (best.)§ Ich kann [den Film] (sehen)., = I **am able to** see the movie.
+(können, sehen) - du - Film (unbest.)§ Du kannst [[einen Film]] (sehen)., = You **are able to** see a movie.
+(können, sehen) - du - Film (best.)§ Du kannst [den Film] (sehen)., = You **are able to** see the movie.
+(können, sehen) - er - Film (unbest.)§ Er kann [[einen Film]] (sehen)., = He **is able to** see a movie.
+(können, sehen) - er - Film (best.)§ Er kann [den Film] (sehen)., = He **is able to** see the movie.
+(können, sehen) - wir - Film (unbest.)§ Wir können [[einen Film]] (sehen)., = We **are able to** see a movie.
+(können, sehen) - wir - Film (best.)§ Wir können [den Film] (sehen)., = We **are able to** see the movie.
+(können, sehen) - ihr - Film (unbest.)§ Ihr könnt [[einen Film]] (sehen)., = You **are able to** see a movie.
+(können, sehen) - ihr - Film (best.)§ Ihr könnt [[den Film]] (sehen)., = You **are able to** see the movie.
+(können, sehen) - sie (plur.) - Film (unbest.)§ Sie können [[einen Film]] (sehen)., = They **are able to** see a movie.
+(können, sehen) - sie (plur.) - Film (best.)§ Sie können [den Film] (sehen)., = They **are able to** see the movie.
+//
+// (möchten, spielen) - ich - unbest. Spiel§ Ich möchte [[ein Spiel]] (spielen)., = to **be want to** play a game
+// (sollen, spielen) - ich - unbest. Satz§ Ich soll [[ein Spiel]] (spielen)., = to **be want to** play a game
+// sollen§ ich soll, du sollst, er soll - wir soll{{en}}, ihr sollt, sie soll{{en}} !Pause! {Ich soll [die Frau] (anrufen).}, = to **be supposed to**
+// können§ ich kann, du kannst, er kann - wir könn{{en}}, ihr könnt, sie könn{{en}} !Pause! {Du kannst [den Satz] (aussprechen).}, = to **be able to**
+// müssen§ ich muss, du musst, er muss - wir müss{{en}}, ihr müsst, sie müss{{en}} !Pause! {Ich muss jetzt (gehen).}, = to **have to**
+// wollen§ ich will, du willst, er will - wir woll{{en}}, ihr wollt, sie woll{{en}} !Pause! {Ich will (gewinnen).}, = to **want to**
+// möchten§ ich möchte, du möchtest, er möchte - wir möcht{{en}}, ihr möchtet, sie möcht{{en}} !Pause! {Wir möchten [[einen Kuchen]] (essen).}, = to **want to**
+// mögen§ ich mag, du magst, er mag - wir mög{{en}}, ihr mögt, sie mög{{en}} !Pause! {Ich mag [das Spiel] (spielen).}, = to **like (to)**
