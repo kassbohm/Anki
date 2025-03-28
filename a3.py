@@ -697,4 +697,4 @@ package = genanki.Package(deck)
 package.media_files = media_files
 package.write_to_file("./apkg/"+name + ".apkg")
 
-# system("\\rm ./*.mp3")
+system("\\rm ./*.mp3")
