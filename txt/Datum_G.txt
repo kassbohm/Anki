@@ -1,0 +1,38 @@
+1. Tag§der (erste) Tag !Pause! {Das ist der erste Tag.}, = the **first day**
+2. Tag§der (zweite) Tag !Pause! {Ich plane [den zweiten Tag].}, = the **second day**
+3. Tag§der (dritte) Tag !Pause! {Ich warte auf [den dritten Tag.}, = the **third day**
+4. Tag§der (vierte) Tag !Pause! {Ich plane [den vierten Tag.}, = the **fourth day**
+//
+3. Woche§die (dritte) Woche !Pause! {Das ist die dritte Woche.}, = the **third week**
+2. Woche§die (zweite) Woche !Pause! {Wir warten auf [die zweite Woche].}, = the **second week**
+1. Woche§die (erste) Woche !Pause! {Ich warte auf [die erste Woche].}, = the **first week**
+//
+6. Monat§der (sechste) Monat !Pause! {Ist das der sechste Monat?}, = the **sixth month**
+3. Monat§der (dritte) Monat !Pause! {Wir warten auf [den dritten Monat].}, = the **third month**
+4. Monat§der (vierte) Monat !Pause! {Wir warten auf [den vierten Monat].}, = the **fourth month**
+//
+1. Jahr§das (erste) Jahr !Pause! {Ist das das erste Jahr?}, = the **first year**
+2. Jahr§das (zweite) Jahr !Pause! {Ist das das zweite Jahr?}, = the **second year**
+//
+1. Semester§das (erste) Semester !Pause! {Das ist das erste Semester.}, = the **first semester**
+das letzte Semester§das (letzte) Semester !Pause! {Ich plane [das letzte Semester].}, = the **last semester**
+das erste Semester§das (erste) Semester !Pause! {Ich beginne [das erste Semester].}, = the **first semester**
+3. Semester§das (dritte) Semester !Pause! {Das ist das dritte Semester.}, = the **second semester**
+6. Semester§das (sechste) Semester !Pause! {Ich beginne [das sechste Semester].}, = the **sixth semester**
+7. Semester§das (siebente) Semester !Pause! {Ich beende [das siebente Semester].}, = the **seventh semester**
+10. Semester§das (zehnte) Semester !Pause! {Ich beende [das zehnte Semester].}, = the **tenth semester**
+11. Semester§das (elfte) Semester !Pause! {Ich beende [das elfte Semester].}, = the **eleventh semester**
+//
+//
+// Title: 
+// Datum_F
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1:  Datum_F
+// 

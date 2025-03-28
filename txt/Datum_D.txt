@@ -1,15 +1,3 @@
-// Title: 
-// Datum_D
-// 
-// Tags: 
-// Netzwerk neu A1
-// 
-// Support Page: 
-// Dr. Kai, https://tm-tutor.de/
-// 
-// Description:  
-// Netzwerk neu A1:  Datum_D
-// 
 01.04.§der (erste) April = der (erste) Vierte, = **April 1st**
 02.04.§der (zweite) April = der (zweite) Vierte, = **April 2nd**
 03.04.§der (dritte) April = der (dritte) Vierte, = **April 3rd**
@@ -49,16 +37,16 @@
 03.09.§der (dritte) September = der (dritte) Neunte, = **September 3rd**
 08.10.§der (achte) Oktober = der (achte) Zehnte, = **October 8th**
 11.11.§der (elfte) November = der (elfte) Elfte, = **November 11th**
-// //
-07.03.2025§der (siebente) [März] 2025 = der (siebente) [Dritte] 2025, = **March 7th, 2025**
-01.03.2025§der (erste) [März] 2025 = der (erste) [Dritte] 2025, = **March 1st, 2025**
-02.04.2025§der (zweite) [April] 2025 = der (zweite) [Vierte] 2025, = **April 2nd, 2025**
-20.04.2026§der (zwanzigste) [April] 2025 = der (zwanzigste) [Vierte] 2025, = **April 20th, 2025**
-20.04.1980§der (zwanzigste) [April] 1980 = der (zwanzigste) [Vierte] 1980, = **April 20th, 1980**
-20.04.1789§der (zwanzigste) [April] 1789 = der (zwanzigste) [Vierte] 1789, = **April 20th, 1789**
-11.04.1991§der (elfte) [April] 1991 = der (elfte) [Vierte] 1991, = **April 11th, 1991**
-03.07.1991§der (dritte) [Juli] 1991 = der (dritte) [Siebente] 1991, = **July 3rd, 1991**
-03.07.1995§der (dritte) [Juli] 1995 = der (dritte) [Siebente] 1995, = **July 3rd, 1995**
-03.08.1999§der (dritte) [August] 1999 = der (dritte) [Achte] 1999, = **August 3rd, 1999**
-01.05.2025§der (erste) [Mai] 2025 = der (erste) [Fünfte] 2025, = **May 1st, 2025**
-31.03.2025§der (einunddreißigste) [März] 2025 = der (einunddreißigste) [Dritte] 2025, = **March 31st, 2025**
+//
+// Title: 
+// Datum_D
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1:  Datum_D
+// 

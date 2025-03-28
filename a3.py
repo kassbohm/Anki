@@ -11,17 +11,26 @@ import csv
 from string import ascii_letters
 from os import system
 import codecs
-from googletrans import Translator
+# from googletrans import Translator
 import itertools
 from re import sub
 
 from sys import argv
 
+
+from TTS.api import TTS
+tts = TTS(model_name="tts_models/de/thorsten/tacotron2-DDC", progress_bar=False, gpu=False)
+
+# tts --list_models
+
+
+models = ["coqui", "gtts"]
+
 # help(anki.collection)
 # exit()
 # importer = AnkiPackageImporter(col=coll, file='path/to/your/deck.apkg')
 
-translator = Translator()
+# translator = Translator()
 
 # tmp = translator.translate('mit etwas beginnen', dest='en')
 # print(tmp.text)
@@ -283,12 +292,13 @@ for line in lines:
 
     tmp = ac.strip().split(" ")
     # print(tmp[1])
-    if tmp[0]=="der":
-        tmp[1]='<b><font style="color: #1e90ff;">'+tmp[1]+"</font></b>" # 
-    elif tmp[0]=="die":
-        tmp[1]='<b><font style="color: #ff79c6;">'+tmp[1]+"</font></b>"
-    elif tmp[0]=="das":
-        tmp[1]='<b><font style="color: #1abc9c;">'+tmp[1]+"</font></b>"
+    if level[0:5] != "Datum":
+        if tmp[0]=="der":
+            tmp[1]='<b><font style="color: #1e90ff;">'+tmp[1]+"</font></b>" # 
+        elif tmp[0]=="die":
+            tmp[1]='<b><font style="color: #ff79c6;">'+tmp[1]+"</font></b>"
+        elif tmp[0]=="das":
+            tmp[1]='<b><font style="color: #1abc9c;">'+tmp[1]+"</font></b>"
 
 
     ac = " ".join(tmp)
@@ -429,14 +439,16 @@ for line in lines:
     print(text)
     # exit()
 
+
     # write csv for Blooket:
     if blooket:
         months = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
         days = ["erste", "zweite", "dritte", "vierte", "fünfte", "sechste", "siebente", "achte", "neunte", "zehnte", \
                "elfte", "zwölfte", "dreizehnte", "vierzehnte", "fünfzehnte", "sechzehnte", "siebenzehnte", "achtzehnte", "neunzehnte", "zwanzigste", \
                "einundzwanzigste", "zweiundzwanzigste", "dreiundzwanzigste", "vierundzwanzigste", "fünfundzwanzigste", "sechsundzwanzigste", \
-                "siebenundzwanzigste", "achtundzwanzigste", "neunundzwanzigste", "dreißigste", "einunddreißigste",  
+                "siebenundzwanzigste", "achtundzwanzigste", "neunundzwanzigste", "dreißigste", "einunddreißigste", "letzte"
                 ]
+        nouns = ["Semester", "Tag", "Monat", "Woche", "Jahr"]
 
         with open(blooket_file, mode="a") as f:
             eggs = csv.writer(f,
@@ -503,34 +515,38 @@ for line in lines:
 
             # print(indices)
 
-            if level == "Datum_C":
-                tmp = text
-                correct=tmp
-                tmp = correct.split(",")
-                tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip()]
+            # if level == "Datum_C":
+            #     tmp = text
+            #     correct=tmp
+            #     tmp = correct.split(",")
+            #     tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip()]
                 
-                wrong = []
-                while len(wrong) != 3:
-                    idx = random.choice([0, 1, 2])
-                    rndm = random.choice(months)
-                    tmp_c = tmp.copy()
-                    while rndm not in tmp_c:
-                        tmp_c[idx]=rndm
-                        if tmp_c not in wrong:
-                            wrong.append(tmp_c)
-                t0, t1, t2 = ", ".join(wrong[0]), ", ".join(wrong[1]), ", ".join(wrong[2])
-                row = [line_no, question.strip(), correct, t0, t1, t2, 10, "1"]    
-            elif level == "Datum_D":
+            #     wrong = []
+            #     while len(wrong) != 3:
+            #         idx = random.choice([0, 1, 2])
+            #         rndm = random.choice(months)
+            #         tmp_c = tmp.copy()
+            #         while rndm not in tmp_c:
+            #             tmp_c[idx]=rndm
+            #             if tmp_c not in wrong:
+            #                 wrong.append(tmp_c)
+            #     t0, t1, t2 = ", ".join(wrong[0]), ", ".join(wrong[1]), ", ".join(wrong[2])
+            #     row = [line_no, question.strip(), correct, t0, t1, t2, 10, "1"]    
+            if level[0:5] == "Datum":
                 tmp = text
                 correct=tmp.split("=")[0]
+                correct=tmp.split("!")[0]
                 tmp = correct.split(" ")
+
                 try:
                     tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip(), tmp[3].strip() ]
                 except:
-                    tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip(), tmp[3].strip() ]
+                    tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip()]
                 # change = "months"
-                # change = "days"
-                change = random.choice(["months", "days"])
+                if level == "Datum_G":
+                    change = random.choice(["nouns", "days"])
+                else:
+                    change = random.choice(["months", "days"])
                 if change == "months":
                     wrong = []
                     while len(wrong) != 3:
@@ -546,6 +562,16 @@ for line in lines:
                     while len(wrong) != 3:
                         idx = 1
                         rndm = random.choice(days)
+                        tmp_c = tmp.copy()
+                        while rndm not in tmp_c:
+                            tmp_c[idx]=rndm
+                            if tmp_c not in wrong:
+                                wrong.append(tmp_c)
+                elif change == "nouns":
+                    wrong = []
+                    while len(wrong) != 3:
+                        idx = 2
+                        rndm = random.choice(nouns)
                         tmp_c = tmp.copy()
                         while rndm not in tmp_c:
                             tmp_c[idx]=rndm
@@ -591,19 +617,33 @@ for line in lines:
         pass
         # media_files.append(None)
     # Improve sounds:
-    text = text.replace(", log,", ", lohk,")
-    text = text.replace(", grub,", ", gruhb,")
-    text = text.replace(", stach,", ", staach,")
-    text = text.replace(", sog,", ", sook,")
-    text = text.replace("das Formular", "das Formulaahr")
-    text = text.replace("Formulare", "Formulaahre")
-    text = text.replace("Montage", "Mohntage")
-    text = text.replace("Wohnort", "Wohn-Ort")
-    text = text.replace("Wohnorte", "Wohn-Orte")
 
-    tmp = gTTS(text=text, lang="de", slow=True)
+    if "?" in text:
+        model = "gtts"
+    else:
+        model = random.choice(models)
 
-    tmp.save(sound_fn)
+        # print(model)
+    
+    if model=="coqui":
+        text = text.replace("siebente", "siehmte")
+        text = text.replace("Siebente", "Siehmte")
+        tmp = tts.tts_to_file(text=text+".", file_path=sound_fn)
+    elif model == "gtts":
+        text = text.replace(", log,", ", lohk,")
+        text = text.replace(", grub,", ", gruhb,")
+        text = text.replace(", stach,", ", staach,")
+        text = text.replace(", sog,", ", sook,")
+        text = text.replace("das Formular", "das Formulaahr")
+        text = text.replace("Formulare", "Formulaahre")
+        text = text.replace("Montage", "Mohntage")
+        text = text.replace("Wohnort", "Wohn-Ort")
+        text = text.replace("Wohnorte", "Wohn-Orte")
+        tmp = gTTS(text=text, lang="de", slow=True)
+        tmp.save(sound_fn)
+    else:
+        print("Exiting.")
+        exit()
 
     # a = "<br>".join(a)
     a = ac + "<br>" + a[1]
@@ -657,4 +697,4 @@ package = genanki.Package(deck)
 package.media_files = media_files
 package.write_to_file("./apkg/"+name + ".apkg")
 
-system("\\rm ./*.mp3")
+# system("\\rm ./*.mp3")

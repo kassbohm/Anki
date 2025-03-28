@@ -1,0 +1,41 @@
+01.05.§der erste (Mai) = der erste (Fünfte) , = **May 1st**
+07.03.§der siebente (März) = der siebente (Dritte) , = **March 7th**
+01.03.§der erste (März) = der erste (Dritte) , = **March 1st**
+02.04.§der zweite (April) = der zweite (Vierte) , = **April 2nd**
+11.04.§der elfte (April) = der elfte (Vierte) , = **April 11th**
+03.07.§der dritte (Juli) = der dritte (Siebente) , = **July 3rd**
+//
+01.05.2025§der erste (Mai) 2025 = der erste (Fünfte) 2025, = **May 1st, 2025**
+07.03.2025§der siebente (März) 2025 = der siebente (Dritte) 2025, = **March 7th, 2025**
+01.03.2025§der erste (März) 2025 = der erste (Dritte) 2025, = **March 1st, 2025**
+02.04.2026§der zweite (April) 2026 = der zweite (Vierte) 2026, = **April 2nd, 2026**
+03.05.2026§der dritte (Mai) 2026 = der dritte (Fünfte) 2026, = **May 3rd, 2026**
+02.08.2025§der zweite (August) 2025 = der zweite (Achte) 2025, = **August 2nd, 2025**
+//
+03.05.§der dritte (Mai) = der dritte (Fünfte) , = **May 3rd**
+03.10.§der dritte (Oktober) = der dritte (Zehnte) , = **October 3rd**
+03.11.§der dritte (November) = der dritte (Neunte) , = **November 3rd**
+07.12.§der siebente (Dezember) = der siebente (Zwölfte) , = **Dezember 7th**
+01.10.§der erste (Oktober) = der erste (Zehnte) , = **October 1st**
+02.11.§der zweite (November) = der zweite (Elfte) , = **November 2nd**
+11.11.§der elfte (November) = der elfte (Elfte) , = **November 11th**
+02.09.§der zweite (September) = der zweite (Neunte), = **September 2nd**
+//
+01.05.2035§der erste (Mai) 2035 = der erste (Fünfte) 2035, = **May 1st, 2035**
+07.03.2036§der siebente (März) 2036 = der siebente (Dritte) 2036, = **March 7th, 2036**
+01.03.2035§der erste (März) 2035 = der erste (Dritte) 2035, = **March 1st, 2035**
+02.04.2037§der zweite (April) 2037 = der zweite (Vierte) 2037, = **April 2nd, 2037**
+03.05.2035§der dritte (Mai) 2035 = der dritte (Fünfte) 2035, = **May 3rd, 2035**
+//
+// Title: 
+// Datum_F
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1:  Datum_F
+// 
