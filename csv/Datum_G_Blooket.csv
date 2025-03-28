@@ -1,23 +1,23 @@
 "Some text but not a number",,,,,,,
 "No blanks!!!",,,,,,,
 "Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
-1,1. Tag,der erste Tag ,der siebenundzwanzigste Tag ,der einundzwanzigste Tag ,der zweite Tag ,10,1
-2,2. Tag,der zweite Tag ,der einunddreißigste Tag ,der sechsundzwanzigste Tag ,der neunzehnte Tag ,10,1
-3,3. Tag,der dritte Tag ,der dritte Jahr ,der dritte Semester ,der dritte Monat ,10,1
-4,4. Tag,der vierte Tag ,der vierte Monat ,der vierte Jahr ,der vierte Woche ,10,1
-5,3. Woche,die dritte Woche ,die zehnte Woche ,die zweite Woche ,die zwölfte Woche ,10,1
-6,2. Woche,die zweite Woche ,die zweite Semester ,die zweite Tag ,die zweite Jahr ,10,1
-7,1. Woche,die erste Woche ,die siebente Woche ,die siebenzehnte Woche ,die dreißigste Woche ,10,1
-8,6. Monat,der sechste Monat ,der sechste Woche ,der sechste Jahr ,der sechste Semester ,10,1
-9,3. Monat,der dritte Monat ,der dreizehnte Monat ,der neunundzwanzigste Monat ,der siebente Monat ,10,1
-10,4. Monat,der vierte Monat ,der sechste Monat ,der elfte Monat ,der zweite Monat ,10,1
-11,1. Jahr,das erste Jahr ,das fünfzehnte Jahr ,das zwanzigste Jahr ,das sechzehnte Jahr ,10,1
-12,2. Jahr,das zweite Jahr ,das zweite Woche ,das zweite Semester ,das zweite Monat ,10,1
-13,1. Semester,das erste Semester ,das erste Woche ,das erste Monat ,das erste Jahr ,10,1
-14,das letzte Semester,das letzte Semester ,das letzte Jahr ,das letzte Tag ,das letzte Woche ,10,1
-15,das erste Semester,das erste Semester ,das erste Monat ,das erste Woche ,das erste Tag ,10,1
-16,3. Semester,das dritte Semester ,das dreißigste Semester ,das dreiundzwanzigste Semester ,das neunte Semester ,10,1
-17,6. Semester,das sechste Semester ,das sechste Jahr ,das sechste Woche ,das sechste Monat ,10,1
-18,7. Semester,das siebente Semester ,das siebente Tag ,das siebente Jahr ,das siebente Monat ,10,1
-19,10. Semester,das zehnte Semester ,das zweiundzwanzigste Semester ,das zwölfte Semester ,das siebenzehnte Semester ,10,1
-20,11. Semester,das elfte Semester ,das elfte Jahr ,das elfte Tag ,das elfte Monat ,10,1
+1,1. Tag,der erste Tag ,der dritte Tag ,der vierte Tag ,der fünfte Tag ,10,1
+2,2. Tag,der zweite Tag ,der zweite Woche ,der zweite Semester ,der zweite Jahr ,10,1
+3,3. Tag,der dritte Tag ,der sechzehnte Tag ,der zehnte Tag ,der letzte Tag ,10,1
+4,4. Tag,der vierte Tag ,der sechzehnte Tag ,der siebenundzwanzigste Tag ,der zwanzigste Tag ,10,1
+5,3. Woche,die dritte Woche ,die achtundzwanzigste Woche ,die fünfte Woche ,die einundzwanzigste Woche ,10,1
+6,2. Woche,die zweite Woche ,die erste Woche ,die neunundzwanzigste Woche ,die achtzehnte Woche ,10,1
+7,1. Woche,die erste Woche ,die erste Monat ,die erste Semester ,die erste Tag ,10,1
+8,6. Monat,der sechste Monat ,der siebenzehnte Monat ,der vierundzwanzigste Monat ,der siebente Monat ,10,1
+9,3. Monat,der dritte Monat ,der dritte Tag ,der dritte Woche ,der dritte Jahr ,10,1
+10,4. Monat,der vierte Monat ,der elfte Monat ,der achtundzwanzigste Monat ,der achtzehnte Monat ,10,1
+11,1. Jahr,das erste Jahr ,das einundzwanzigste Jahr ,das dreißigste Jahr ,das elfte Jahr ,10,1
+12,2. Jahr,das zweite Jahr ,das zwanzigste Jahr ,das neunundzwanzigste Jahr ,das sechzehnte Jahr ,10,1
+13,1. Semester,das erste Semester ,das erste Tag ,das erste Monat ,das erste Jahr ,10,1
+14,das letzte Semester,das letzte Semester ,das fünfte Semester ,das neunundzwanzigste Semester ,das zehnte Semester ,10,1
+15,das erste Semester,das erste Semester ,das erste Jahr ,das erste Monat ,das erste Woche ,10,1
+16,3. Semester,das dritte Semester ,das dritte Jahr ,das dritte Monat ,das dritte Tag ,10,1
+17,6. Semester,das sechste Semester ,das sechste Tag ,das sechste Monat ,das sechste Jahr ,10,1
+18,7. Semester,das siebente Semester ,das siebente Tag ,das siebente Monat ,das siebente Woche ,10,1
+19,10. Semester,das zehnte Semester ,das zehnte Monat ,das zehnte Woche ,das zehnte Jahr ,10,1
+20,11. Semester,das elfte Semester ,das vierundzwanzigste Semester ,das dreizehnte Semester ,das achtzehnte Semester ,10,1

@@ -563,7 +563,8 @@ for line in lines:
                 if change == "months":
                     wrong = []
                     while len(wrong) != 3:
-                        idx = month_idx
+                        idx = 1
+                        # idx = month_idx
                         rndm = random.choice(months)
                         tmp_c = tmp.copy()
                         while rndm not in tmp_c:

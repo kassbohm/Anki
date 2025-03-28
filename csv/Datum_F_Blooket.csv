@@ -1,28 +1,28 @@
 "Some text but not a number",,,,,,,
 "No blanks!!!",,,,,,,
 "Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
-1,01.05.,der erste Mai ,der zehnte Mai ,der dreiundzwanzigste Mai ,der neunzehnte Mai ,10,1
-2,07.03.,der siebente März ,der siebente September ,der siebente Dezember ,der siebente August ,10,1
-3,01.03.,der erste März ,der erste Juni ,der erste Oktober ,der erste Januar ,10,1
-4,02.04.,der zweite April ,der siebente April ,der achtzehnte April ,der zwölfte April ,10,1
-5,11.04.,der elfte April ,der vierzehnte April ,der achtundzwanzigste April ,der dreiundzwanzigste April ,10,1
-6,03.07.,der dritte Juli ,der siebenzehnte Juli ,der einunddreißigste Juli ,der dreißigste Juli ,10,1
-7,01.05.2025,der erste Mai 2025 ,der fünfte Mai 2025,der neunundzwanzigste Mai 2025,der dritte Mai 2025,10,1
-8,07.03.2025,der siebente März 2025 ,der siebente November 2025,der siebente September 2025,der siebente Juli 2025,10,1
-9,01.03.2025,der erste März 2025 ,der erste Juni 2025,der erste Juli 2025,der erste Februar 2025,10,1
-10,02.04.2026,der zweite April 2026 ,der zweite März 2026,der zweite August 2026,der zweite Juni 2026,10,1
-11,03.05.2026,der dritte Mai 2026 ,der zehnte Mai 2026,der dreißigste Mai 2026,der zweite Mai 2026,10,1
-12,02.08.2025,der zweite August 2025 ,der neunundzwanzigste August 2025,der dreizehnte August 2025,der einundzwanzigste August 2025,10,1
-13,03.05.,der dritte Mai ,der fünfundzwanzigste Mai ,der fünfte Mai ,der elfte Mai ,10,1
-14,03.10.,der dritte Oktober ,der dritte Februar ,der dritte September ,der dritte Mai ,10,1
-15,03.11.,der dritte November ,der dritte Januar ,der dritte September ,der dritte Dezember ,10,1
-16,07.12.,der siebente Dezember ,der siebente Februar ,der siebente November ,der siebente April ,10,1
-17,01.10.,der erste Oktober ,der erste September ,der erste April ,der erste Dezember ,10,1
-18,02.11.,der zweite November ,der vierundzwanzigste November ,der vierzehnte November ,der fünfte November ,10,1
-19,11.11.,der elfte November ,der elfte August ,der elfte Januar ,der elfte Oktober ,10,1
-20,02.09.,der zweite September ,der zweite August ,der zweite Dezember ,der zweite März ,10,1
-21,01.05.2035,der erste Mai 2035 ,der erste Juni 2035,der erste Dezember 2035,der erste März 2035,10,1
-22,07.03.2036,der siebente März 2036 ,der siebente Juli 2036,der siebente November 2036,der siebente August 2036,10,1
-23,01.03.2035,der erste März 2035 ,der erste August 2035,der erste Juli 2035,der erste November 2035,10,1
-24,02.04.2037,der zweite April 2037 ,der sechsundzwanzigste April 2037,der fünfundzwanzigste April 2037,der siebenundzwanzigste April 2037,10,1
-25,03.05.2035,der dritte Mai 2035 ,der dritte Dezember 2035,der dritte Februar 2035,der dritte Januar 2035,10,1
+1,01.05.,der erste Mai = der erste Fünfte,der Dezember Mai =,der August Mai =,der Oktober Mai =,10,1
+2,07.03.,der siebente März = der siebente Dritte,der Dezember März =,der August März =,der September März =,10,1
+3,01.03.,der erste März = der erste Dritte,der vierundzwanzigste März =,der achtzehnte März =,der vierzehnte März =,10,1
+4,02.04.,der zweite April = der zweite Vierte,der Februar April =,der Juli April =,der Juni April =,10,1
+5,11.04.,der elfte April = der elfte Vierte,der September April =,der Januar April =,der Juli April =,10,1
+6,03.07.,der dritte Juli = der dritte Siebente,der neunte Juli =,der dreizehnte Juli =,der elfte Juli =,10,1
+7,01.05.2025,der erste Mai 2025 = der erste Fünfte 2025,der Februar Mai 2025,der September Mai 2025,der März Mai 2025,10,1
+8,07.03.2025,der siebente März 2025 = der siebente Dritte 2025,der sechzehnte März 2025,der einunddreißigste März 2025,der dreißigste März 2025,10,1
+9,01.03.2025,der erste März 2025 = der erste Dritte 2025,der achtzehnte März 2025,der dreizehnte März 2025,der elfte März 2025,10,1
+10,02.04.2026,der zweite April 2026 = der zweite Vierte 2026,der November April 2026,der Mai April 2026,der September April 2026,10,1
+11,03.05.2026,der dritte Mai 2026 = der dritte Fünfte 2026,der Januar Mai 2026,der September Mai 2026,der Oktober Mai 2026,10,1
+12,02.08.2025,der zweite August 2025 = der zweite Achte 2025,der einunddreißigste August 2025,der letzte August 2025,der fünfzehnte August 2025,10,1
+13,03.05.,der dritte Mai = der dritte Fünfte,der September Mai =,der Januar Mai =,der Dezember Mai =,10,1
+14,03.10.,der dritte Oktober = der dritte Zehnte,der achte Oktober =,der siebente Oktober =,der einundzwanzigste Oktober =,10,1
+15,03.11.,der dritte November = der dritte Neunte,der erste November =,der achtundzwanzigste November =,der elfte November =,10,1
+16,07.12.,der siebente Dezember = der siebente Zwölfte,der sechsundzwanzigste Dezember =,der zweite Dezember =,der neunte Dezember =,10,1
+17,01.10.,der erste Oktober = der erste Zehnte,der Juli Oktober =,der März Oktober =,der April Oktober =,10,1
+18,02.11.,der zweite November = der zweite Elfte,der Dezember November =,der Juli November =,der August November =,10,1
+19,11.11.,der elfte November = der elfte Elfte,der einunddreißigste November =,der neunundzwanzigste November =,der sechste November =,10,1
+20,02.09.,der zweite September = der zweite Neunte,der achtundzwanzigste September =,der zwölfte September =,der vierzehnte September =,10,1
+21,01.05.2035,der erste Mai 2035 = der erste Fünfte 2035,der letzte Mai 2035,der vierte Mai 2035,der vierzehnte Mai 2035,10,1
+22,07.03.2036,der siebente März 2036 = der siebente Dritte 2036,der Juli März 2036,der Juni März 2036,der Mai März 2036,10,1
+23,01.03.2035,der erste März 2035 = der erste Dritte 2035,der November März 2035,der Februar März 2035,der Oktober März 2035,10,1
+24,02.04.2037,der zweite April 2037 = der zweite Vierte 2037,der Oktober April 2037,der Januar April 2037,der März April 2037,10,1
+25,03.05.2035,der dritte Mai 2035 = der dritte Fünfte 2035,der Januar Mai 2035,der August Mai 2035,der Juni Mai 2035,10,1
