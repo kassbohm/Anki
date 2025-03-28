@@ -303,6 +303,16 @@ for line in lines:
 
     ac = " ".join(tmp)
 
+
+    ac = ac.replace(
+        "(((",
+        '<font style="color: #bd93f9;">',
+    )
+    ac = ac.replace(
+        ")))",
+        "</font>",
+    )
+
     ac = ac.replace(
         " **",
         ' <font style="color: #50fa7b;">', 
@@ -545,12 +555,15 @@ for line in lines:
                 # change = "months"
                 if level == "Datum_G":
                     change = random.choice(["nouns", "days"])
+                elif level == "Datum_E":
+                    change = random.choice(["months"])
+                    month_idx = 0
                 else:
                     change = random.choice(["months", "days"])
                 if change == "months":
                     wrong = []
                     while len(wrong) != 3:
-                        idx = 2
+                        idx = month_idx
                         rndm = random.choice(months)
                         tmp_c = tmp.copy()
                         while rndm not in tmp_c:
@@ -618,7 +631,7 @@ for line in lines:
         # media_files.append(None)
     # Improve sounds:
 
-    if "?" in text:
+    if "?" in text or "19" in text or "Uhr" in text: 
         model = "gtts"
     else:
         model = random.choice(models)
@@ -640,6 +653,7 @@ for line in lines:
         text = text.replace("Wohnort", "Wohn-Ort")
         text = text.replace("Wohnorte", "Wohn-Orte")
         tmp = gTTS(text=text, lang="de", slow=True)
+        tmp = gTTS(text=text, lang="de", slow=False)
         tmp.save(sound_fn)
     else:
         print("Exiting.")
