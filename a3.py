@@ -513,6 +513,16 @@ for line in lines:
                 "]]]",
                 "</u>",
             )
+            question = question.replace(
+                "(((",
+                ""
+                # '<u style="color: #50fa7b;">',
+                )
+            question = question.replace(
+                ")))",
+                ""
+                # "</u>",
+                )    
 
             # question = question.replace(
             #     "⠀",
