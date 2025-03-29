@@ -16,13 +16,17 @@ import itertools
 from re import sub
 
 from sys import argv
-
-
 from TTS.api import TTS
-tts = TTS(model_name="tts_models/de/thorsten/tacotron2-DDC", progress_bar=False, gpu=False)
+
+tmp_file = argv[1]
+mode = argv[2]
+
+if mode != "test":
+    tts = TTS(model_name="tts_models/de/thorsten/tacotron2-DDC",
+              progress_bar=False,
+              gpu=False)
 
 # tts --list_models
-
 
 models = ["coqui", "gtts"]
 
@@ -73,7 +77,6 @@ fill: #404040;
 
 old = False
 
-
 # level = "A1"
 # level = "A2"
 # level = "B1"
@@ -114,23 +117,22 @@ old = False
 # level = "Mix_03"
 # blooket = True
 
-
 # level = "Substantiv_01"
 # blooket = True
 
-# level = "Substantiv_02_A" 
+# level = "Substantiv_02_A"
 # blooket = True
 
-# level = "Substantiv_02_B" 
+# level = "Substantiv_02_B"
 # blooket = True
 
-# level = "Substantiv_03_A" 
+# level = "Substantiv_03_A"
 # blooket = True
 
-# level = "Substantiv_03_B" 
+# level = "Substantiv_03_B"
 # blooket = True
 
-# level = "Substantiv_04" 
+# level = "Substantiv_04"
 # blooket = True
 
 # level = "Datum_0"
@@ -151,7 +153,6 @@ old = False
 # level = "Datum_E"
 # blooket = True
 
-
 # level = "A1.1_Netzwerk_neu_01"
 # level = "A1.1_Netzwerk_neu_Unr._Verb_Präsens"
 
@@ -161,8 +162,6 @@ old = False
 # level = "Netzwerk_neu_A1_09"
 # level = "Netzwerk_neu_A1.2_Test"
 
-
-tmp_file = argv[1]
 blooket = True
 if "Uhrzeit" in tmp_file:
 
@@ -174,7 +173,7 @@ level = tmp_file[4:-4]
 #     tmp_file = argv[1]
 # else:
 #     tmp_file = "./txt/"+level + ".txt"
-    
+
 with open(tmp_file) as f:
     lines = [x.rstrip() for x in f]
 
@@ -212,7 +211,7 @@ for line in lines:
         img = None
         word = img_word
 
-    word_color = "#ffffff" # white
+    word_color = "#ffffff"  # white
 
     if old:
         q = '<a style="color:DodgerBlue"; href="https://www.dwds.de/wb/'
@@ -235,17 +234,44 @@ for line in lines:
         q += "</u>"
     q += "</a>"
     if level == "Datum_A" or level == "Datum_B" or level == "Datum_C" or level == "Datum_D":
-        q = '<a style="color: #ffffff">'+word+'</a>' 
-    if level[:7]=="W-Frage" or level[:4]=="Satz" :
-        q = word 
-    # print(q)
-    # print(line)
-    
-    a = line[1]
-    
-    a = a.split(", =")
-    english = a[1].replace("**","")
+        q = '<a style="color: #ffffff">' + word + '</a>'
+    if level[:7] == "W-Frage" or level[:4] == "Satz":
+        q = word
+        q = q.replace(
+            "(((",
+            '<u style="color: #50fa7b;">',
+            )
+        q = q.replace(
+            ")))",
+            "</u>",
+            )
+        q = q.replace(
+            "(",
+            '<font style="color: #50fa7b;">',
+        )
+        q = q.replace(
+            ")",
+            "</font>",
+        )
+        q = q.replace(
+            "[[[",
+            '<u style="color: #ffb663;">',
+        )
+        q = q.replace(
+            "]]]",
+            "</u>",
+        )
 
+
+    print("q:")
+    print(q)
+
+    # print(line)
+
+    a = line[1]
+
+    a = a.split(", =")
+    english = a[1].replace("**", "")
 
     tmp = a[1].split("**")
     if len(tmp[2]) != 0:
@@ -255,15 +281,14 @@ for line in lines:
         br = False
 
     a[1] = a[1].strip()
-    a[1] = "<br>"+a[1]
-    
+    a[1] = "<br>" + a[1]
+
     a[1] = a[1].replace("** ", "**", 1)
 
     a[1] = a[1].replace(
         "{",
         # '<br><font style="color: #bd93f9;">',
-        '<br>'
-    )
+        '<br>')
     a[1] = a[1].replace(
         "}",
         "",
@@ -278,44 +303,53 @@ for line in lines:
     # a[1] = a[1].replace("**", '<font-weight: bold, font style="color: #f1fa8c;">', 1)
     # a[1] = a[1].replace("**", "</font> ", 1)
 
-    # light blue = "#0090ff" 
+    # light blue = "#0090ff"
     # green = "#50fa7b"
     # dark green = "#00FA9A"
-    # 
+    #
     # pink = "#ff79c6"
     # purple = "#bd93f9"
     # yellow = "#"
     # orange = "#ff9600"
-    # turquoise = "#00e4e4" 
+    # turquoise = "#00e4e4"
 
     ac = a.copy()[0]
 
     tmp = ac.strip().split(" ")
     # print(tmp[1])
     if level[0:5] != "Datum":
-        if tmp[0]=="der":
-            tmp[1]='<b><font style="color: #1e90ff;">'+tmp[1]+"</font></b>" # 
-        elif tmp[0]=="die":
-            tmp[1]='<b><font style="color: #ff79c6;">'+tmp[1]+"</font></b>"
-        elif tmp[0]=="das":
-            tmp[1]='<b><font style="color: #1abc9c;">'+tmp[1]+"</font></b>"
-
+        if tmp[0] == "der":
+            tmp[1] = '<b><font style="color: #1e90ff;">' + tmp[
+                1] + "</font></b>"  #
+        elif tmp[0] == "die":
+            tmp[1] = '<b><font style="color: #ff79c6;">' + tmp[
+                1] + "</font></b>"
+        elif tmp[0] == "das":
+            tmp[1] = '<b><font style="color: #1abc9c;">' + tmp[
+                1] + "</font></b>"
 
     ac = " ".join(tmp)
 
+    # ac = ac.replace(
+    #     "(((",
+    #     '<font style="color: #bd93f9;">',
+    # )
+    # ac = ac.replace(
+    #     ")))",
+    #     "</font>",
+    # )
 
     ac = ac.replace(
         "(((",
-        '<font style="color: #bd93f9;">',
-    )
+        '<u style="color: #50fa7b;">',
+        )
     ac = ac.replace(
         ")))",
-        "</font>",
-    )
-
+        "</u>",
+        )
     ac = ac.replace(
         " **",
-        ' <font style="color: #50fa7b;">', 
+        ' <font style="color: #50fa7b;">',
     )
     ac = ac.replace(
         "**",
@@ -372,16 +406,15 @@ for line in lines:
         "</font>",
     )
     text = a[0]
-    
+
     text = text.replace(
         "!Pause!",
         "!",
     )
     ac = ac.replace(
-    "!Pause!",
-    "", 
+        "!Pause!",
+        "",
     )
-    
 
     text = text.replace(
         " **",
@@ -449,10 +482,12 @@ for line in lines:
     print(text)
     # exit()
 
-
     # write csv for Blooket:
     if blooket:
-        months = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
+        months = [
+            "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli",
+            "August", "September", "Oktober", "November", "Dezember"
+        ]
         days = ["erste", "zweite", "dritte", "vierte", "fünfte", "sechste", "siebente", "achte", "neunte", "zehnte", \
                "elfte", "zwölfte", "dreizehnte", "vierzehnte", "fünfzehnte", "sechzehnte", "siebenzehnte", "achtzehnte", "neunzehnte", "zwanzigste", \
                "einundzwanzigste", "zweiundzwanzigste", "dreiundzwanzigste", "vierundzwanzigste", "fünfundzwanzigste", "sechsundzwanzigste", \
@@ -470,21 +505,34 @@ for line in lines:
             #     question = tmp[0] + " " + tmp[1]
             # else:
             question = word
+            question = question.replace(
+                "[[[",
+                '<u style="color: #ffb663;">',
+            )
+            question = question.replace(
+                "]]]",
+                "</u>",
+            )
+
+            # question = question.replace(
+            #     "⠀",
+            #     "",
+            #     )
             if level == "Substantiv_02_A" \
                     or level == "Substantiv_02_B"  \
                     or level == "Substantiv_01"    \
                     or level == "Substantiv_03_A"  \
                     or level == "Substantiv_03_B"  \
                     or level == "Substantiv_04_A"  \
-                    or level == "Substantiv_04_B":    
-                    
+                    or level == "Substantiv_04_B":
+
                 tmp = text.split(" ")
                 try:
                     idx = tmp.index("!")
                     tmp = tmp[:idx]
                 except:
                     tmp = tmp
-                
+
                 tmp = " ".join(tmp)
                 tmp = tmp.strip()
                 # print(tmp)
@@ -502,9 +550,9 @@ for line in lines:
                 tmp = tmp[0]
                 tmp = tmp.split("-")
                 corrects = [tmp[0].strip(), tmp[1].strip()]
-                if level ==  "Adjektiv_02":
+                if level == "Adjektiv_02":
                     correct = corrects[0]
-                else:    
+                else:
                     correct = random.choice(corrects)
             else:
                 correct = text
@@ -520,7 +568,7 @@ for line in lines:
 
             indices = []
             for n, i in enumerate(correct):
-                if i != " " and i != "-" and i !=",":
+                if i != " " and i != "-" and i != ",":
                     indices.append(n)
 
             # print(indices)
@@ -530,7 +578,7 @@ for line in lines:
             #     correct=tmp
             #     tmp = correct.split(",")
             #     tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip()]
-                
+
             #     wrong = []
             #     while len(wrong) != 3:
             #         idx = random.choice([0, 1, 2])
@@ -541,15 +589,18 @@ for line in lines:
             #             if tmp_c not in wrong:
             #                 wrong.append(tmp_c)
             #     t0, t1, t2 = ", ".join(wrong[0]), ", ".join(wrong[1]), ", ".join(wrong[2])
-            #     row = [line_no, question.strip(), correct, t0, t1, t2, 10, "1"]    
+            #     row = [line_no, question.strip(), correct, t0, t1, t2, 10, "1"]
             if level[0:5] == "Datum":
                 tmp = text
-                correct=tmp.split("=")[0]
-                correct=tmp.split("!")[0]
+                correct = tmp.split("=")[0]
+                correct = tmp.split("!")[0]
                 tmp = correct.split(" ")
 
                 try:
-                    tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip(), tmp[3].strip() ]
+                    tmp = [
+                        tmp[0].strip(), tmp[1].strip(), tmp[2].strip(),
+                        tmp[3].strip()
+                    ]
                 except:
                     tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip()]
                 # change = "months"
@@ -568,7 +619,7 @@ for line in lines:
                         rndm = random.choice(months)
                         tmp_c = tmp.copy()
                         while rndm not in tmp_c:
-                            tmp_c[idx]=rndm
+                            tmp_c[idx] = rndm
                             if tmp_c not in wrong:
                                 wrong.append(tmp_c)
                 elif change == "days":
@@ -578,7 +629,7 @@ for line in lines:
                         rndm = random.choice(days)
                         tmp_c = tmp.copy()
                         while rndm not in tmp_c:
-                            tmp_c[idx]=rndm
+                            tmp_c[idx] = rndm
                             if tmp_c not in wrong:
                                 wrong.append(tmp_c)
                 elif change == "nouns":
@@ -588,13 +639,18 @@ for line in lines:
                         rndm = random.choice(nouns)
                         tmp_c = tmp.copy()
                         while rndm not in tmp_c:
-                            tmp_c[idx]=rndm
+                            tmp_c[idx] = rndm
                             if tmp_c not in wrong:
                                 wrong.append(tmp_c)
                 else:
                     exit()
-                Y = [" ".join(wrong[0]), " ".join(wrong[1]), " ".join(wrong[2])]
-                row = [line_no, question.strip(), correct, Y[0],Y[1],Y[2], 10, "1"]    
+                Y = [
+                    " ".join(wrong[0]), " ".join(wrong[1]), " ".join(wrong[2])
+                ]
+                row = [
+                    line_no,
+                    question.strip(), correct, Y[0], Y[1], Y[2], 10, "1"
+                ]
             else:
                 X = []
                 for i in range(8):  # make more than needed.
@@ -611,13 +667,20 @@ for line in lines:
                     X.append(tmp)
                     Y = set(X)
                     Y = list(Y)
-                    if len(Y)==3:
+                    if len(Y) == 3:
                         break
                 english = english.split("{")[0]
-                if level[:7]=="W-Frage":
-                    row = [line_no, question.strip(), correct, Y[0], Y[1], Y[2], 10, "1"]
+                if level[:7] == "W-Frage":
+                    row = [
+                        line_no,
+                        question.strip(), correct, Y[0], Y[1], Y[2], 10, "1"
+                    ]
                 else:
-                    row = [line_no, question.strip() + " = " + english.strip(), correct, Y[0], Y[1], Y[2], 10, "1"]
+                    row = [
+                        line_no,
+                        question.strip() + " = " + english.strip(), correct,
+                        Y[0], Y[1], Y[2], 10, "1"
+                    ]
             eggs.writerow(row)
 
     sound_fn = text + ".mp3"
@@ -632,17 +695,19 @@ for line in lines:
         # media_files.append(None)
     # Improve sounds:
 
-    if "?" in text or "19" in text or "Uhr" in text: 
+    if "?" in text or "19" in text or "Uhr" in text or mode == "test":
         model = "gtts"
     else:
         model = random.choice(models)
 
         # print(model)
-    
-    if model=="coqui":
+
+    if model == "coqui":
         text = text.replace("siebente", "siehmte")
         text = text.replace("Siebente", "Siehmte")
-        tmp = tts.tts_to_file(text=text+".", file_path=sound_fn)
+        text = text.replace("Ben", "Benn")
+        text = text.replace("Toaster", "Tohster")
+        tmp = tts.tts_to_file(text=text + ".", file_path=sound_fn)
     elif model == "gtts":
         text = text.replace(", log,", ", lohk,")
         text = text.replace(", grub,", ", gruhb,")
@@ -669,7 +734,6 @@ for line in lines:
     else:
         i = ""
     tuples.append((q, i, a, "[sound:" + sound_fn + "]"))
-
 
 model = genanki.Model(
     randint_model,
@@ -710,6 +774,6 @@ for q, i, a, s in tuples:
 # Save the deck to an Anki package (*.apkg) file:
 package = genanki.Package(deck)
 package.media_files = media_files
-package.write_to_file("./apkg/"+name + ".apkg")
+package.write_to_file("./apkg/" + name + ".apkg")
 
 system("\\rm ./*.mp3")

@@ -14,15 +14,6 @@
 //
 (dürfen, sehen) - ich - Film (unbest.)§ Ich darf [[einen Film]] (sehen)., = I **am allowed to** see a movie.
 (dürfen, sehen) - ich - Film (best.)§ Ich darf [den Film] (sehen)., = I **am allowed to** see the movie.
-(dürfen, sehen) - ich - Film (poss. 1st pers. sing.)§ Ich darf [[[meinen Film]]] (sehen)., = I **am allowed to** see my movie.
-(dürfen, sehen) - ich - Film (poss. 2nd pers. sing.)§ Ich darf [[[deinen Film]]] (sehen)., = I **am allowed to** see your movie.
-(dürfen, sehen) - ich - Film (poss. 3rd pers. sing. M)§ Ich darf [[[seinen Film]]] (sehen)., = I **am allowed to** see his movie.
-(dürfen, sehen) - ich - Film (poss. 3rd pers. sing. F)§ Ich darf [[[ihren Film]]] (sehen)., = I **am allowed to** see her movie.
-(dürfen, sehen) - ich - Film (poss. 3rd pers. sing. N)§ Ich darf [[[seinen Film]]] (sehen)., = I **am allowed to** see its movie.
-(dürfen, sehen) - ich - Film (poss. 1st pers. plur.)§ Ich darf [[[unseren Film]]] (sehen)., = I **am allowed to** see our movie.
-(dürfen, sehen) - ich - Film (poss. 2nd pers. plur.)§ Ich darf [[[euren Film]]] (sehen)., = I **am allowed to** see your movie.
-(dürfen, sehen) - ich - Film (poss. 3rd pers. plur.)§ Ich darf [[[ihren Film]]] (sehen)., = I **am allowed to** see your movie.
-//
 (dürfen, sehen) - du - Film (unbest.)§ Du darfst [[einen Film]] (sehen)., = You **are allowed to** see a movie.
 (dürfen, sehen) - du - Film (best.)§ Du darfst [den Film] (sehen)., = You **are allowed to** see the movie.
 (dürfen, sehen) - er - Film (unbest.)§ Er darf [[einen Film]] (sehen)., = He **is allowed to** see a movie.
