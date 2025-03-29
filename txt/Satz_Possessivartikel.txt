@@ -13,11 +13,6 @@ Wir haben eine Prüfung. <br> Ich mache [[[ ⠀⠀⠀ Prüfung]]].§ Ich mache [
 Ihr habt ein Auto. <br> Ich brauche [[[ ⠀⠀⠀ Auto]]].§ Ich brauche [[[euer Auto]]]., = I need **your car**.
 Ihr habt einen Toaster. <br> Ich brauche [[[ ⠀⠀⠀ Toaster]]].§ Ich brauche [[[euren Toaster]]]., = I need **your toaster**.
 Du hast ein Messer. <br> Ich brauche [[[ ⠀⠀⠀ Messer]]].§ Ich brauche [[[dein Messer]]]., = I need **your knife**.
-Mein Freund hat ein Fahrrad. <br> Ich benutze  [[[ ⠀⠀⠀ Fahrrad]]].§ Ich benutze [[[sein Fahrrad]]]., = I use **his bicycle**.
-Meine Freundin hat ein Fahrrad. <br> Ich benutze  [[[ ⠀⠀⠀ Fahrrad]]].§ Ich benutze [[[ihr Fahrrad]]]., = I use **her bicycle**.
-Mein Bruder hat ein Motorrad. <br> Ich fahre  [[[ ⠀⠀⠀ Motorrad]]].§ Ich fahre [[[sein Motorrad]]]., = I ride **his motorcycle**.
-Meine Schwester hat ein Auto. <br> Ich fahre  [[[ ⠀⠀⠀ Auto]]].§ Ich fahre [[[ihr Auto]]]., = I drive **her car**.
-Meine Eltern haben ein Auto. <br> Ich fahre  [[[ ⠀⠀⠀ Auto]]].§ Ich fahre [[[ihr Auto]]]., = I drive **their car**.
 //
 Du hast einen Freund.      <br>  ((( ⠀⠀⠀Freund)))       ist intelligent.§ (((Dein Freund))) ist intelligent., = **Your friend** is smart.
 Er hat einen Freund.       <br>  ((( ⠀⠀⠀Freund)))       ist bekannt.§ (((Sein Freund))) ist bekannt., = **His friend** is famous.
@@ -33,6 +28,21 @@ Ich habe zwei Schwestern.  <br>  ((( ⠀⠀⠀Schwestern)))   heißen Anna und N
 Ich habe zwei Geschwister. <br>  ((( ⠀⠀⠀Geschwister)))  heißen Ben und Nina.§ (((Meine Geschwister))) heißen Ben und Nina., = **My siblings** are called Ben and Nina.
 Er hat zwei Geschwister.   <br>  ((( ⠀⠀⠀Geschwister)))  heißen Nina und Ben.§ (((Seine Geschwister))) heißen Nina und Ben., = **His siblings** are called Nina and Ben.
 Sie hat zwei Geschwister.  <br>  ((( ⠀⠀⠀Geschwister)))  heißen Rolf und Rosi.§ (((Ihre Geschwister))) heißen Rolf und Rosi., = **Her siblings** are called Rolf and Rosi.
+Wir haben zwei Töchter.    <br>  ((( ⠀⠀⠀Töchter)))      heißen Lena und Zora.§ (((Unsere Töchter))) heißen Lena und Zora., = **Our daughters** are called Lena and Zora.
+Wir haben zwei Söhne.      <br>  ((( ⠀⠀⠀Söhne)))        heißen Tom und Jannik.§ (((Unsere Söhne))) heißen Tom und Jannik., = **Our sons** are called Tom and Jannik.
+Ihr habt zwei Töchter.     <br>  ((( ⠀⠀⠀Töchter)))      heißen Lena und Zora.§ (((Eure Töchter))) heißen Lena und Zora., = **Your daughters** are called Lena and Zora.
+//
+Der Student hat zwei Geschwister.     <br>  ((( ⠀⠀⠀Geschwister))) heißen Jan und Tina.§ (((Seine Geschwister))) heißen Jan und Tina., = **His siblings** are called Jan and Tina.
+Die Studentin hat zwei Geschwister.   <br>  ((( ⠀⠀⠀Geschwister))) heißen Peter und Tina.§ (((Ihre Geschwister))) heißen Peter und Tina., = **His siblings** are called Peter and Tina.
+//
+//
+//
+// Mein Freund hat ein Fahrrad. <br> Ich benutze  [[[ ⠀⠀⠀ Fahrrad]]].§ Ich benutze [[[sein Fahrrad]]]., = I use **his bicycle**.
+// Meine Freundin hat ein Fahrrad. <br> Ich benutze  [[[ ⠀⠀⠀ Fahrrad]]].§ Ich benutze [[[ihr Fahrrad]]]., = I use **her bicycle**.
+// Mein Bruder hat ein Motorrad. <br> Ich fahre  [[[ ⠀⠀⠀ Motorrad]]].§ Ich fahre [[[sein Motorrad]]]., = I ride **his motorcycle**.
+// Meine Schwester hat ein Auto. <br> Ich fahre  [[[ ⠀⠀⠀ Auto]]].§ Ich fahre [[[ihr Auto]]]., = I drive **her car**.
+// Meine Eltern haben ein Auto. <br> Ich fahre  [[[ ⠀⠀⠀ Auto]]].§ Ich fahre [[[ihr Auto]]]., = I drive **their car**.
+//
 //
 // Er hat einen Vater. Ich sehe ___ Vater.§ Ich sehe (seinen) Hund, = I see **his** father.
 // (dürfen, sehen) - ich - Film (poss. 1st pers. sing.)§ Ich darf [[[meinen Film]]] (sehen)., = I **am allowed to** see my movie.
