@@ -262,16 +262,14 @@ for line in lines:
             "</u>",
         )
 
-
-    print("q:")
-    print(q)
-
     # print(line)
 
     a = line[1]
 
     a = a.split(", =")
     english = a[1].replace("**", "")
+
+
 
     tmp = a[1].split("**")
     if len(tmp[2]) != 0:
@@ -294,6 +292,7 @@ for line in lines:
         "",
     )
 
+
     # a[1] = a[1].replace("**", '<font style="color: #0090ff;">', 1)
     a[1] = a[1].replace("**", '<b><font style="color: #ffffff;">', 1)
     a[1] = a[1].replace("**", "</font></b> ", 1)
@@ -313,6 +312,8 @@ for line in lines:
     # orange = "#ff9600"
     # turquoise = "#00e4e4"
 
+
+    
     ac = a.copy()[0]
 
     tmp = ac.strip().split(" ")
@@ -329,6 +330,7 @@ for line in lines:
                 1] + "</font></b>"
 
     ac = " ".join(tmp)
+
 
     # ac = ac.replace(
     #     "(((",
@@ -484,6 +486,14 @@ for line in lines:
 
     # write csv for Blooket:
     if blooket:
+        Poss_articles = [
+            "Mein", "Dein", "Sein", "Ihr", "Unser", "Euer", "Ihr", 
+            "Meine", "Deine", "Seine", "Ihre", "Unsere", "Eure", "Ihre", 
+        ]
+        poss_articles = []
+        for tmp in Poss_articles:
+            poss_articles.append(tmp.lower())
+
         months = [
             "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli",
             "August", "September", "Oktober", "November", "Dezember"
@@ -507,27 +517,29 @@ for line in lines:
             question = word
             question = question.replace(
                 "[[[",
-                '<u style="color: #ffb663;">',
+                ""
             )
             question = question.replace(
                 "]]]",
-                "</u>",
+                ""
             )
             question = question.replace(
                 "(((",
                 ""
-                # '<u style="color: #50fa7b;">',
                 )
             question = question.replace(
                 ")))",
                 ""
-                # "</u>",
                 )    
+            question = question.replace(
+                "⠀⠀⠀",
+                "___ "
+                )
+            question = question.replace(
+                "<br>",
+                ""
+                )
 
-            # question = question.replace(
-            #     "⠀",
-            #     "",
-            #     )
             if level == "Substantiv_02_A" \
                     or level == "Substantiv_02_B"  \
                     or level == "Substantiv_01"    \
@@ -600,7 +612,41 @@ for line in lines:
             #                 wrong.append(tmp_c)
             #     t0, t1, t2 = ", ".join(wrong[0]), ", ".join(wrong[1]), ", ".join(wrong[2])
             #     row = [line_no, question.strip(), correct, t0, t1, t2, 10, "1"]
-            if level[0:5] == "Datum":
+            if level[0:9] == "Satz_Poss":
+                if level[-1]=="A":
+                    idx = 0
+                    change_list = Poss_articles
+                elif level[-1]=="B":
+                    idx = 2
+                    change_list = poss_articles
+                else:
+                    print("Exiting")
+                    exit()
+                correct = text.split("=")[0]
+                correct = text.split("!")[0]
+                words = correct.split(" ")
+                n_words = len(words)
+
+                tmp = words
+
+                wrong = []
+                while len(wrong) != n_words+1:
+                    rndm = random.choice(change_list)
+                    tmp_c = tmp.copy()
+                    while rndm not in tmp_c:
+                        tmp_c[idx] = rndm
+                        if tmp_c not in wrong:
+                            wrong.append(tmp_c)
+                Y0 = " ".join(wrong[0])
+                Y1 = " ".join(wrong[1])
+                Y2 = " ".join(wrong[2])
+                Y3 = " ".join(wrong[3])
+                row = [
+                    line_no,
+                    question.strip(), correct, Y0, Y1, Y2, 10, "1"
+                ]
+
+            elif level[0:5] == "Datum":
                 tmp = text
                 correct = tmp.split("=")[0]
                 correct = tmp.split("!")[0]
@@ -608,8 +654,7 @@ for line in lines:
 
                 try:
                     tmp = [
-                        tmp[0].strip(), tmp[1].strip(), tmp[2].strip(),
-                        tmp[3].strip()
+                        tmp[0].strip(), tmp[1].strip(), tmp[2].strip(), tmp[3].strip()
                     ]
                 except:
                     tmp = [tmp[0].strip(), tmp[1].strip(), tmp[2].strip()]
@@ -653,6 +698,7 @@ for line in lines:
                             if tmp_c not in wrong:
                                 wrong.append(tmp_c)
                 else:
+                    print("Exiting")
                     exit()
                 Y = [
                     " ".join(wrong[0]), " ".join(wrong[1]), " ".join(wrong[2])
@@ -734,6 +780,9 @@ for line in lines:
     else:
         print("Exiting.")
         exit()
+
+
+
 
     # a = "<br>".join(a)
     a = ac + "<br>" + a[1]

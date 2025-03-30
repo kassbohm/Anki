@@ -1,0 +1,20 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,Ich habe einen Freund.  Ich liebe  ___  Freund.,Ich liebe meinen Freund.,Ich liebe meine Freund.,Ich liebe dein Freund.,Ich liebe unsere Freund.,10,1
+2,Ich habe eine Freundin.  Ich brauche  ___  Freundin.,Ich brauche meine Freundin.,Ich brauche unsere Freundin.,Ich brauche unser Freundin.,Ich brauche ihr Freundin.,10,1
+3,Du hast einen Bruder.  Ich kenne  ___  Bruder.,Ich kenne deinen Bruder.,Ich kenne unsere Bruder.,Ich kenne seine Bruder.,Ich kenne ihre Bruder.,10,1
+4,Er hat einen Freund.  Ich kenne  ___  Freund.,Ich kenne seinen Freund.,Ich kenne sein Freund.,Ich kenne ihre Freund.,Ich kenne dein Freund.,10,1
+5,Sie hat einen Freund.  Ich sehe  ___  Freund.,Ich sehe ihren Freund.,Ich sehe ihre Freund.,Ich sehe eure Freund.,Ich sehe sein Freund.,10,1
+6,Er hat Schokolade.  Ich esse  ___  Schokolade.,Ich esse seine Schokolade.,Ich esse ihr Schokolade.,Ich esse eure Schokolade.,Ich esse dein Schokolade.,10,1
+7,Sie hat Schokolade.  Ich esse  ___  Schokolade.,Ich esse ihre Schokolade.,Ich esse mein Schokolade.,Ich esse sein Schokolade.,Ich esse unser Schokolade.,10,1
+8,Er hat eine Website.  Ich benutze  ___  Website.,Ich benutze seine Website.,Ich benutze ihre Website.,Ich benutze sein Website.,Ich benutze meine Website.,10,1
+9,Ich habe einen Vater.  Ich besuche  ___  Vater.,Ich besuche meinen Vater.,Ich besuche ihr Vater.,Ich besuche meine Vater.,Ich besuche ihre Vater.,10,1
+10,Du hast eine Website.  Ich benutze  ___  Website.,Ich benutze deine Website.,Ich benutze unser Website.,Ich benutze ihr Website.,Ich benutze ihre Website.,10,1
+11,Sie hat ein Mobiltelefon.  Ich benutze  ___  Mobiltelefon.,Ich benutze ihr Mobiltelefon.,Ich benutze dein Mobiltelefon.,Ich benutze euer Mobiltelefon.,Ich benutze seine Mobiltelefon.,10,1
+12,Wir haben einen Kuchen.  Ich esse  ___  Kuchen.,Ich esse unseren Kuchen.,Ich esse unsere Kuchen.,Ich esse deine Kuchen.,Ich esse ihre Kuchen.,10,1
+13,Wir haben Kekse.  Ich esse  ___  Kekse.,Ich esse unsere Kekse.,Ich esse unser Kekse.,Ich esse mein Kekse.,Ich esse ihre Kekse.,10,1
+14,Ihr habt ein Auto.  Ich brauche  ___  Auto.,Ich brauche euer Auto.,Ich brauche ihre Auto.,Ich brauche unsere Auto.,Ich brauche deine Auto.,10,1
+15,Ihr habt einen Toaster.  Ich brauche  ___  Toaster.,Ich brauche euren Toaster.,Ich brauche seine Toaster.,Ich brauche eure Toaster.,Ich brauche meine Toaster.,10,1
+16,Du hast ein Messer.  Ich brauche  ___  Messer.,Ich brauche dein Messer.,Ich brauche ihre Messer.,Ich brauche ihr Messer.,Ich brauche euer Messer.,10,1
+17,Du hast einen Schlüssel.  Ich brauche  ___  Schlüssel.,Ich brauche deinen Schlüssel.,Ich brauche mein Schlüssel.,Ich brauche euer Schlüssel.,Ich brauche ihre Schlüssel.,10,1
