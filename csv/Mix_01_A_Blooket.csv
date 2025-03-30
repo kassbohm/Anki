@@ -1,0 +1,47 @@
+"Some text but not a number",,,,,,,
+"No blanks!!!",,,,,,,
+"Question #","Question Text","Answer 1","Answer 2","Answer 3","Answer 4","Time Limit /sec","Correct Answer(s)"
+1,Ich bin Kai. = I am Kai.,Ich bin Kai.,Ich bin Kaiv,xch bin Kai.,Ich oin Kai.,10,1
+2,Du bist Kai. = You are Kai.,Du bist Kai.,Du bist Kmi.,Du bisa Kai.,Du bisi Kai.,10,1
+3,Er ist Kai. = He is Kai.,Er ist Kai.,Er fst Kai.,Er iit Kai.,Er ist cai.,10,1
+4,Sie ist Anja. = She is Anja.,Sie ist Anja.,Sie ist Amja.,Sie ist Anjb.,Sue ist Anja.,10,1
+5,Ich heiße Kai. = My name is Kai.,Ich heiße Kai.,Ich heiße pai.,Ich heiße Kli.,Ich heiße Kab.,10,1
+6,Du heißt Kai. = Your name is Kai.,Du heißt Kai.,Ds heißt Kai.,Dr heißt Kai.,Du hhißt Kai.,10,1
+7,Er heißt Kai. = His name is Kai.,Er heißt Kai.,Er heißt Kei.,or heißt Kai.,vr heißt Kai.,10,1
+8,Sie heißt Anja. = Her name is Anja.,Sie heißt Anja.,Sie heißt Arja.,kie heißt Anja.,Sie heint Anja.,10,1
+9,Mein Name ist Kai. = My name is Kai.,Mein Name ist Kai.,Mein Naue ist Kai.,Mzin Name ist Kai.,Mein Name ist Kzi.,10,1
+10,Dein Name ist Anja. = Your name is Anja.,Dein Name ist Anja.,Dein Name ist Anjj.,Dein Name ist Anjat,Dein Name ixt Anja.,10,1
+11,Sein Name ist Kai. = His name is Kai.,Sein Name ist Kai.,Seil Name ist Kai.,Seun Name ist Kai.,Sein Name iss Kai.,10,1
+12,Ihr Name ist Anja. = Her name is Anja.,Ihr Name ist Anja.,Ihr Name ist Akja.,Ihr Name ist inja.,zhr Name ist Anja.,10,1
+13,und = I am Kai and you are Anja.,"Ich bin Kai, und du bist Anja.","Inh bin Kai, und du bist Anja.","Ich bin Kai, und du bint Anja.","Ich bin Kai, uwd du bist Anja.",10,1
+14,Wie alt bist du? = How old are you?,Wie alt bist du?,Wie alt bist dr?,Wie alm bist du?,Wie alt eist du?,10,1
+15,Wie alt ist er? = How old is he?,Wie alt ist er?,Wie alt iwt er?,Wie alt ist en?,Wic alt ist er?,10,1
+16,Wie alt ist sie? = How old is she?,Wie alt ist sie?,Wie alt ist sig?,Wig alt ist sie?,Wie alt ist siei,10,1
+17,Ich bin siebzehn. = I am 17.,Ich bin siebzehn.,Ich bin siebzehf.,Ich bin soebzehn.,Ich bin riebzehn.,10,1
+18,Du bist achtzehn. = You are 18.,Du bist achtzehn.,Du bist achtzean.,Du bist amhtzehn.,Du bilt achtzehn.,10,1
+19,Er ist sechzehn. = He is 16.,Er ist sechzehn.,Er ist secozehn.,Er ist scchzehn.,Er ist sechzeen.,10,1
+20,Sie ist vierzehn. = She is 14.,Sie ist vierzehn.,Sme ist vierzehn.,Sie ist vierzexn.,hie ist vierzehn.,10,1
+21,Ich bin zwanzig Jahre alt. = I am 20 years old.,Ich bin zwanzig Jahre alt.,Ich bin zwanzig Jqhre alt.,Ich bin wwanzig Jahre alt.,Ich bin zwanzig Jayre alt.,10,1
+22,Du bist achtzehn Jahre alt. = You are 18 years old.,Du bist achtzehn Jahre alt.,Du bist achtzehn Jahre alf.,Du bist achtzehn Jahre alb.,Du bist achtzesn Jahre alt.,10,1
+23,Er ist zehn Jahre alt. = He is 10 years old.,Er ist zehn Jahre alt.,Er ist zehi Jahre alt.,Er ist zehn Jvhre alt.,Er ist zehn kahre alt.,10,1
+24,Sie ist dreißig Jahre alt. = She is 30 years old.,Sie ist dreißig Jahre alt.,Sie ist druißig Jahre alt.,Sie ist dreißig Jahde alt.,eie ist dreißig Jahre alt.,10,1
+25,sein = to be,Ich bin. Du bist. Er ist.,Ich bin. Du bist. Er cst.,Ich bin. Du biet. Er ist.,cch bin. Du bist. Er ist.,10,1
+26,wohnen = to live (somehwere),Ich wohne. Du wohnst. Er wohnt.,Ich wohne. Du wohnst. Er zohnt.,Ich aohne. Du wohnst. Er wohnt.,Ich wfhne. Du wohnst. Er wohnt.,10,1
+27,heißen = to be called,Ich heiße Kai. Du heißt Anja. Er heißt Peter.,Ich heiße xai. Du heißt Anja. Er heißt Peter.,Ich henße Kai. Du heißt Anja. Er heißt Peter.,Ich heiße Kai. Du heißt Anja. Er heißt Petmr.,10,1
+28,kommen = to come,Ich komme. Du kommst. Er kommt.,Ich komme. Du kommst. Er komlt.,Icw komme. Du kommst. Er kommt.,Ich komme. wu kommst. Er kommt.,10,1
+29,"machen = to make, to do",Ich mache. Du machst. Er macht.,Ich mawhe. Du machst. Er macht.,Icx mache. Du machst. Er macht.,Ich macha. Du machst. Er macht.,10,1
+30,Woher kommst du? = Where are you from?,Woher kommst du?,Wouer kommst du?,Woher kommst db?,Woher kommst due,10,1
+31,Woher kommt er? = Where is he from?,Woher kommt er?,Woher kommt erm,ooher kommt er?,Wooer kommt er?,10,1
+32,Woher kommt sie? = Where is she from?,Woher kommt sie?,Woher komet sie?,Woher kommt lie?,uoher kommt sie?,10,1
+33,Woher kommt Peter? = Where is Peter from?,Woher kommt Peter?,Woher kommm Peter?,Woher kommt xeter?,boher kommt Peter?,10,1
+34,Woher kommt Anja? = Where is Anja from?,Woher kommt Anja?,Woher kommt Anpa?,Woher kfmmt Anja?,Woher kommt Anva?,10,1
+35,Wo wohnst du? = Where do you live?,Wo wohnst du?,Wo wohnct du?,to wohnst du?,Wo wohnst dui,10,1
+36,Wo wohnt er? = Where does he live?,Wo wohnt er?,Wq wohnt er?,Wo yohnt er?,Wo wohnt et?,10,1
+37,Wo wohnt sie? = Where does she live?,Wo wohnt sie?,Wo woznt sie?,Wq wohnt sie?,Wo zohnt sie?,10,1
+38,Wo wohnt Peter? = Where does Peter live?,Wo wohnt Peter?,Wo wohnt xeter?,Wf wohnt Peter?,Wo wohnt Peoer?,10,1
+39,was = what,Was machst du? Was ist das?,Was machst du? Was ast das?,Was mackst du? Was ist das?,Was machst ku? Was ist das?,10,1
+40,richtig = correct,"Ist es richtig? Ja, es ist richtig.","Ist es richtig? Ja, es cst richtig.","Ist es richtig? Ja, es ist cichtig.","Ist es richtig? Ja, es gst richtig.",10,1
+41,"falsch = wrong, incorrect",Ist es richtig oder falsch? Es ist falsch.,Ist es richtig oder falschh Es ist falsch.,Ist es richfig oder falsch? Es ist falsch.,Ist es richtig oder falsch? Es ist falsgh.,10,1
+42,oder = or,Wohnst du in Hamburg? Oder wohnst du in Berlin?,dohnst du in Hamburg? Oder wohnst du in Berlin?,Wohnst du in Hamburg? Oder woynst du in Berlin?,Wohnst du in Hamburg? Oder wohnst du in Berlix?,10,1
+43,Jahr = the year,das Jahr - zwei Jahre,das Jahr - zwei Jahrl,das Jahr - zwhi Jahre,dac Jahr - zwei Jahre,10,1
+44,Deutschland = Germany,Deutschland ist schön.,Deutschland ist schöq.,Deutachland ist schön.,Deutschldnd ist schön.,10,1

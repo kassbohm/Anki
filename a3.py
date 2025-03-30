@@ -757,7 +757,7 @@ for line in lines:
         # media_files.append(None)
     # Improve sounds:
 
-    bad_words = ["Uhr", "sprichst", "Japan", "19", "?", "Kolumbien", "Bulgarien"]
+    bad_words = ["Uhr", "sprichst", "Japan", "19", "?", "Kolumbien", "Bulgarien", "August", "siebente", "Siebente"]
     if any(word in text for word in bad_words) or mode =="test":
         model = "gtts"
     else:
@@ -766,8 +766,6 @@ for line in lines:
         # print(model)
 
     if model == "coqui":
-        text = text.replace("siebente", "siehmte")
-        text = text.replace("Siebente", "Siehmte")
         text = text.replace("Ben", "Benn")
         text = text.replace("Toaster", "Tohster")
         tmp = tts.tts_to_file(text=text + ".", file_path=sound_fn)
