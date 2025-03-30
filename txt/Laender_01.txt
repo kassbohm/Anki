@@ -1,0 +1,12 @@
+Bulgarien§ Ich komme aus (Bulgarien). - Ich spreche (Bulgarisch)., = **Bulgaria**
+USA§ Ich komme aus (den USA). - Ich spreche (Englisch)., = **USA**
+Vereinigte Staaten von Amerika§ Ich komme aus (den Vereinigten Staaten von Amerika). - Ich spreche (Englisch)., = **United States of America**
+Ungarn§ Du kommst aus (Ungarn). - Du sprichst (Ungarisch)., = **Hungaria**
+Italien§ Du kommst aus (Italien). - Du sprichst (Italienisch)., = **Italy**
+Spanien§ Du kommst aus (Spanien). - Du sprichst (Spanisch)., = **Spain**
+Japan§ Er kommt aus (Japan). - Er spricht (Japanisch)., = **Japan**
+Russland§ Er kommt aus (Russland). - Er spricht (Russisch)., = **Russia**
+Türkei§ Wir kommen aus (der Türkei). - Wir sprechen (Türkisch)., = **Turkey**
+Schweiz§ Wir kommen aus (der Schweiz). - Wir sprechen (Deutsch)., = **Switzerland**
+Ukraine§ Wir kommen aus (der Ukraine). - Wir sprechen (Ukrainisch)., = **Ukraine**
+Spanien§ Wir kommen aus (Spanien). - Wir sprechen (Spanisch)., = **Spain**

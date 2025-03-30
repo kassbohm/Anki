@@ -235,7 +235,7 @@ for line in lines:
     q += "</a>"
     if level == "Datum_A" or level == "Datum_B" or level == "Datum_C" or level == "Datum_D":
         q = '<a style="color: #ffffff">' + word + '</a>'
-    if level[:7] == "W-Frage" or level[:4] == "Satz":
+    if level[:7] == "W-Frage" or level[:4] == "Satz" or level[:7] == "Laender":
         q = word
         q = q.replace(
             "(((",
@@ -261,6 +261,8 @@ for line in lines:
             "]]]",
             "</u>",
         )
+
+
 
     # print(line)
 
@@ -293,6 +295,7 @@ for line in lines:
     )
 
 
+
     # a[1] = a[1].replace("**", '<font style="color: #0090ff;">', 1)
     a[1] = a[1].replace("**", '<b><font style="color: #ffffff;">', 1)
     a[1] = a[1].replace("**", "</font></b> ", 1)
@@ -313,7 +316,7 @@ for line in lines:
     # turquoise = "#00e4e4"
 
 
-    
+
     ac = a.copy()[0]
 
     tmp = ac.strip().split(" ")
@@ -331,7 +334,10 @@ for line in lines:
 
     ac = " ".join(tmp)
 
-
+    ac = ac.replace(
+        "-",
+        "<br>",
+    )
     # ac = ac.replace(
     #     "(((",
     #     '<font style="color: #bd93f9;">',
@@ -487,8 +493,8 @@ for line in lines:
     # write csv for Blooket:
     if blooket:
         Poss_articles = [
-            "Mein", "Dein", "Sein", "Ihr", "Unser", "Euer", "Ihr", 
-            "Meine", "Deine", "Seine", "Ihre", "Unsere", "Eure", "Ihre", 
+            "Mein", "Dein", "Sein", "Ihr", "Unser", "Euer", "Ihr",
+            "Meine", "Deine", "Seine", "Ihre", "Unsere", "Eure", "Ihre",
         ]
         poss_articles = []
         for tmp in Poss_articles:
@@ -530,7 +536,7 @@ for line in lines:
             question = question.replace(
                 ")))",
                 ""
-                )    
+                )
             question = question.replace(
                 "⠀⠀⠀",
                 "___ "
@@ -565,8 +571,8 @@ for line in lines:
                     "Verb_02" or level == \
                     "Verb_trennbar" or level == \
                     "Verb_unregelm" or level == \
-                    "Adjektiv_02" \
-                    or level[0:4]=="Verb":
+                    "Adjektiv_02" or level[0:4]== \
+                    "Verb" or level[0:7] == "Laender":
                 tmp = text
                 tmp = tmp.split("!")
                 tmp = tmp[0]
@@ -751,7 +757,8 @@ for line in lines:
         # media_files.append(None)
     # Improve sounds:
 
-    if "?" in text or "19" in text or "Uhr" in text or mode == "test":
+    bad_words = ["Uhr", "sprichst", "Japan", "19", "?"]
+    if any(word in text for word in bad_words) or mode =="test":
         model = "gtts"
     else:
         model = random.choice(models)
