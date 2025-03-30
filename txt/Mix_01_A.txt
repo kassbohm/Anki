@@ -10,36 +10,36 @@
 // Description:  
 // Netzwerk neu A1: Mix_01_A
 // 
-Ich bin Kai./ich§   Ich bin Kai., = **I am Kai.**
-Du bist Kai./du§    Du bist Kai., = **You are Kai.**
-Er ist Kai./er§     Er ist Kai., = **He is Kai.**
-Sie ist Anja./sie§  Sie ist Anja., = **She is Anja.**
+Ich bin Kai.§   Ich bin Kai., = **I am Kai.**
+Du bist Kai.§    Du bist Kai., = **You are Kai.**
+Er ist Kai.§     Er ist Kai., = **He is Kai.**
+Sie ist Anja.§  Sie ist Anja., = **She is Anja.**
 //
-Ich heiße Kai./ich§     Ich heiße Kai., = **My name is Kai.**
-Du heißt Kai./du§       Du heißt Kai., = **Your name is Kai.**
-Er heißt Kai./er§       Er heißt Kai., = **His name is Kai.**
-Sie heißt Anja./sie§    Sie heißt Anja., = **Her name is Anja.**
+Ich heiße Kai.§     Ich heiße Kai., = **My name is Kai.**
+Du heißt Kai.§       Du heißt Kai., = **Your name is Kai.**
+Er heißt Kai.§       Er heißt Kai., = **His name is Kai.**
+Sie heißt Anja.§    Sie heißt Anja., = **Her name is Anja.**
 //
-Mein Name ist Kai./Name§    Mein Name ist Kai., = **My name is Kai.**
-Dein Name ist Anja./Name§   Dein Name ist Anja., = **Your name is Anja.**
-Sein Name ist Kai./Name§    Sein Name ist Kai., = **His name is Kai.**
-Ihr Name ist Anja./Name§    Ihr Name ist Anja., = **Her name is Anja.**
+Mein Name ist Kai.§    Mein Name ist Kai., = **My name is Kai.**
+Dein Name ist Anja.§   Dein Name ist Anja., = **Your name is Anja.**
+Sein Name ist Kai.§    Sein Name ist Kai., = **His name is Kai.**
+Ihr Name ist Anja.§    Ihr Name ist Anja., = **Her name is Anja.**
 // 
 und§ Ich bin Kai, (und) du bist Anja., = **I am Kai and you are Anja.**
 // 
-Wie alt bist du?/alt§   Wie alt bist du?, = **How old are you?**
-Wie alt ist er?/alt§    Wie alt ist er?, = **How old is he?**
-Wie alt ist sie?/alt§   Wie alt ist sie?, = **How old is she?**
+Wie alt bist du?§   Wie alt bist du?, = **How old are you?**
+Wie alt ist er?§    Wie alt ist er?, = **How old is he?**
+Wie alt ist sie?§   Wie alt ist sie?, = **How old is she?**
 //
-Ich bin siebzehn./siebzehn§     Ich bin siebzehn., = **I am 17.**
-Du bist achtzehn./achtzehn§     Du bist achtzehn., = **You are 18.**
-Er ist sechzehn./sechzehn§      Er ist sechzehn., = **He is 16.**
-Sie ist vierzehn./vierzehn§     Sie ist vierzehn., = **She is 14.**
+Ich bin siebzehn.§     Ich bin siebzehn., = **I am 17.**
+Du bist achtzehn.§     Du bist achtzehn., = **You are 18.**
+Er ist sechzehn.§      Er ist sechzehn., = **He is 16.**
+Sie ist vierzehn.§     Sie ist vierzehn., = **She is 14.**
 // 
-Ich bin zwanzig Jahre alt./zwanzig§     Ich bin zwanzig Jahre alt., = **I am 20 years old.**
-Du bist achtzehn Jahre alt./achtzehn§   Du bist achtzehn Jahre alt., = **You are 18 years old.**
-Er ist zehn Jahre alt./zehn§            Er ist zehn Jahre alt., = **He is 10 years old.**
-Sie ist dreißig Jahre alt./dreißig§     Sie ist dreißig Jahre alt., = **She is 30 years old.**
+Ich bin zwanzig Jahre alt.§     Ich bin zwanzig Jahre alt., = **I am 20 years old.**
+Du bist achtzehn Jahre alt.§   Du bist achtzehn Jahre alt., = **You are 18 years old.**
+Er ist zehn Jahre alt.§            Er ist zehn Jahre alt., = **He is 10 years old.**
+Sie ist dreißig Jahre alt.§     Sie ist dreißig Jahre alt., = **She is 30 years old.**
 // 
 sein§       Ich (bin). Du (bist). Er (ist)., = **to be**
 wohnen§     Ich (wohne). Du (wohnst). Er (wohnt)., = **to live (somehwere)**
@@ -47,16 +47,16 @@ heißen§     Ich (heiße) Kai. Du (heißt) Anja. Er (heißt) Peter., = **to be 
 kommen§     Ich (komme). Du (kommst). Er (kommt)., = **to come**
 machen§     Ich (mache). Du (machst). Er (macht)., = **to make, to do**
 // 
-Woher kommst du?/kommen§        Woher kommst du?, = **Where are you from?**
-Woher kommt er?/kommen§         Woher kommt er?, = **Where is he from?**
-Woher kommt sie?/kommen§        Woher kommt sie?, = **Where is she from?**
-Woher kommt Peter?/kommen§      Woher kommt Peter?, = **Where is Peter from?**
-Woher kommt Anja?/kommen§       Woher kommt Anja?, = **Where is Anja from?**
+Woher kommst du?§        Woher kommst du?, = **Where are you from?**
+Woher kommt er?§         Woher kommt er?, = **Where is he from?**
+Woher kommt sie?§        Woher kommt sie?, = **Where is she from?**
+Woher kommt Peter?§      Woher kommt Peter?, = **Where is Peter from?**
+Woher kommt Anja?§       Woher kommt Anja?, = **Where is Anja from?**
 //      
-Wo wohnst du?/wohnen§       Wo wohnst du?, = **Where do you live?**
-Wo wohnt er?/wohnen§        Wo wohnt er?, = **Where does he live?**
-Wo wohnt sie?/wohnen§       Wo wohnt sie?, = **Where does she live?**
-Wo wohnt Peter?/wohnen§     Wo wohnt Peter?, = **Where does Peter live?**
+Wo wohnst du?§       Wo wohnst du?, = **Where do you live?**
+Wo wohnt er?§        Wo wohnt er?, = **Where does he live?**
+Wo wohnt sie?§       Wo wohnt sie?, = **Where does she live?**
+Wo wohnt Peter?§     Wo wohnt Peter?, = **Where does Peter live?**
 // 
 was§ (Was) machst du? (Was) ist das?, = **what**
 richtig§ Ist es (richtig)? Ja, es ist (richtig)., = **correct**

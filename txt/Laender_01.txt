@@ -10,3 +10,6 @@ Türkei§ Wir kommen aus (der Türkei). - Wir sprechen (Türkisch)., = **Turkey*
 Schweiz§ Wir kommen aus (der Schweiz). - Wir sprechen (Deutsch)., = **Switzerland**
 Ukraine§ Wir kommen aus (der Ukraine). - Wir sprechen (Ukrainisch)., = **Ukraine**
 Spanien§ Wir kommen aus (Spanien). - Wir sprechen (Spanisch)., = **Spain**
+Österreich§ Wir wohnen in (Österreich). - Wir sprechen (Deutsch)., = **Austria**
+Ägypten§ Ich bin aus (Ägypten). - Ich spreche (Arabisch)., = **Egypt**
+Kolumbien§ Ich bin aus (Kolumbien). - Ich spreche (Spanisch)., = **Colombia**

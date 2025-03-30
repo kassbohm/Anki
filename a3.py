@@ -233,7 +233,7 @@ for line in lines:
         q += word[0]
         q += "</u>"
     q += "</a>"
-    if level == "Datum_A" or level == "Datum_B" or level == "Datum_C" or level == "Datum_D":
+    if level[0:5] == "Datum" or level[0:3] == "Mix":
         q = '<a style="color: #ffffff">' + word + '</a>'
     if level[:7] == "W-Frage" or level[:4] == "Satz" or level[:7] == "Laender":
         q = word
@@ -757,7 +757,7 @@ for line in lines:
         # media_files.append(None)
     # Improve sounds:
 
-    bad_words = ["Uhr", "sprichst", "Japan", "19", "?"]
+    bad_words = ["Uhr", "sprichst", "Japan", "19", "?", "Kolumbien", "Bulgarien"]
     if any(word in text for word in bad_words) or mode =="test":
         model = "gtts"
     else:
