@@ -1,4 +1,4 @@
-001.svg| 7:00/Uhrzeit§ Es ist ( 7:00 Uhr). {Es ist sieben.}, = **07:00** 
+001.svg| 7:00/Uhrzeit§ Es ist ( 7    Uhr). {Es ist sieben.}, = **07:00** 
 002.svg|07:05/Uhrzeit§ Es ist (07:05 Uhr). {Es ist fünf nach sieben.}, = **07:05**
 003.svg|07:10/Uhrzeit§ Es ist (07:10 Uhr). {Es ist zehn nach sieben.}, = **07:10  **
 004.svg|07:15/Uhrzeit§ Es ist (07:15 Uhr). {Es ist Viertel nach sieben = Viertel acht.}, = **07:15**
@@ -10,7 +10,7 @@
 010.svg|07:45/Uhrzeit§ Es ist (07:45 Uhr). {Es ist Viertel vor acht = drei Viertel acht.}, = **07:45**
 011.svg|07:50/Uhrzeit§ Es ist (07:50 Uhr). {Es ist zehn vor acht.}, = **07:50**
 012.svg|07:55/Uhrzeit§ Es ist (07:55 Uhr). {Es ist fünf vor acht.}, = **07:55**
-013.svg| 8:00/Uhrzeit§ Es ist ( 8:00 Uhr). {Es ist acht.}, = **08:00**
+013.svg| 8:00/Uhrzeit§ Es ist ( 8    Uhr). {Es ist acht.}, = **08:00**
 014.svg|08:05/Uhrzeit§ Es ist (08:05 Uhr). {Es ist fünf nach acht.}, = **08:05**
 015.svg|08:10/Uhrzeit§ Es ist (08:10 Uhr). {Es ist zehn nach acht.}, = **08:10**
 016.svg|08:15/Uhrzeit§ Es ist (08:15 Uhr). {Es ist Viertel nach acht = Viertel neun.}, = **08:15**
@@ -22,7 +22,7 @@
 022.svg|08:45/Uhrzeit§ Es ist (08:45 Uhr). {Es ist Viertel vor neun = drei Viertel neun.}, = **08:45**
 023.svg|08:50/Uhrzeit§ Es ist (08:50 Uhr). {Es ist zehn vor neun.}, = **08:50**
 024.svg|08:55/Uhrzeit§ Es ist (08:55 Uhr). {Es ist fünf vor neun.}, = **08:55**
-025.svg|14:00/Uhrzeit§ Es ist (14:00 Uhr). {Es ist zwei.}, = **14:00**
+025.svg|14:00/Uhrzeit§ Es ist (14    Uhr). {Es ist zwei.}, = **14:00**
 026.svg|14:05/Uhrzeit§ Es ist (14:05 Uhr). {Es ist fünf nach zwei.}, = **14:05**
 027.svg|14:10/Uhrzeit§ Es ist (14:10 Uhr). {Es ist zehn nach zwei.}, = **14:10**
 028.svg|14:15/Uhrzeit§ Es ist (14:15 Uhr). {Es ist Viertel nach zwei = Viertel drei.}, = **14:15**
@@ -34,7 +34,7 @@
 034.svg|14:45/Uhrzeit§ Es ist (14:45 Uhr). {Es ist Viertel vor drei = drei Viertel drei.}, = **14:45**
 035.svg|14:50/Uhrzeit§ Es ist (14:50 Uhr). {Es ist zehn vor drei.}, = **14:50**
 036.svg|14:55/Uhrzeit§ Es ist (14:55 Uhr). {Es ist fünf vor drei.}, = **14:55**
-037.svg|21:00/Uhrzeit§ Es ist (21:00 Uhr). {Es ist neun.}, = **21:00**
+037.svg|21:00/Uhrzeit§ Es ist (21    Uhr). {Es ist neun.}, = **21:00**
 038.svg|21:05/Uhrzeit§ Es ist (21:05 Uhr). {Es ist fünf nach neun.}, = **21:05**
 039.svg|21:10/Uhrzeit§ Es ist (21:10 Uhr). {Es ist zehn nach neun.}, = **21:10**
 040.svg|21:15/Uhrzeit§ Es ist (21:15 Uhr). {Es ist Viertel nach neun = Viertel zehn.}, = **21:15**
