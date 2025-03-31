@@ -1,0 +1,59 @@
+Wohin gehst du? - Uni (best.) §Ich gehe (in) [die Uni]., = **Where to?**
+Wohin gehst du? - Küche (best.) §Ich gehe (in) [die Küche]., = **Where to?**
+Wohin gehst du? - Zimmer (best.) §Ich gehe (in) [das Zimmer]., = **Where to?**
+Wohin gehst du? - Supermarkt (best.) §Ich gehe (in) [den Supermarkt]., = **Where to?**
+Wohin geht er? - Uni (best.) §Er geht (in) [die Uni]., = **Where to?**
+Wohin gehen wir? - Uni (best.) §Wir gehen (in) [die Uni]., = **Where to?**
+Wohin fährst du? - Stadt (best.) §Ich fahre (in) [die Stadt]., = **Where to?**
+Wohin fahrt ihr? - Türkei (best.) §Wir fahren (in) [die Türkei]., = **Where to?**
+Wohin fahrt ihr? - Uni (best.) §Wir fahren (in) [die Uni]., = **Where to?**
+Wohin gehst du? - Raum (best.) §Ich gehe (in) [den Raum]., = **Where to?**
+Wohin fährst du? - Urlaub (best.) §Ich fahre (in) [den Urlaub]., = **Where to?**
+Wohin gehst du? - Wohnung (best.) §Ich gehe (in) [die Wohnung]., = **Where to?**
+Wohin gehst du? - Unterricht (best.) §Ich gehe (in) [den Unterricht]., = **Where to?**
+Wohin fährt er? - Urlaub (best.) § Er fährt (in) [den Urlaub]., = **Where to?**
+//
+Wohin gehst du? - Küche (unbest.) §Ich gehe (in) [[eine Küche]]., = **Where to?**
+Wohin gehst du? - Zimmer (unbest.) §Ich gehe (in) [[ein Zimmer]]., = **Where to?**
+Wohin gehst du? - Bad (unbest.) §Ich gehe (in) [[ein Bad]]., = **Where to?**
+Wohin gehst du? - Supermarkt (unbest.) §Ich gehe (in) [[einen Supermarkt]]., = **Where to?**
+Wohin geht er? - Uni (unbest.) §Er geht (in) [[eine Uni]]., = **Where to?**
+Wohin fährst du? - Stadt (unbest.) §Ich fahre (in) [[eine Stadt]]., = **Where to?**
+Wohin gehst du? - Raum (unbest.) §Ich gehe (in) [[einen Raum]]., = **Where to?**
+Wohin gehst du? - Wohnung (unbest.) §Ich gehe (in) [[eine Wohnung]]., = **Where to?**
+//
+Wohin gehst du? - Küche (poss. 1st pers. sing.) §Ich gehe (in) [[[meine Küche]]]., = **Where to?**
+Wohin gehst du? - Zimmer (poss. 1st pers. sing.) §Ich gehe (in) [[[mein Zimmer]]]., = **Where to?**
+Wohin gehst du? - Bad (poss. 1st pers. sing.) §Ich gehe (in) [[[mein Bad]]]., = **Where to?**
+Wohin geht er? - Uni (poss. 1st pers. sing.) §Er geht (in) [[[meine Uni]]]., = **Where to?**
+Wohin fährst du? - Stadt (poss. 1st pers. sing.) §Ich fahre (in) [[[meine Stadt]]]., = **Where to?**
+Wohin gehst du? - Raum (poss. 1st pers. sing.) §Ich gehe (in) [[[meinen Raum]]]., = **Where to?**
+Wohin gehst du? - Wohnung (poss. 1st pers. sing.) §Ich gehe (in) [[[meine Wohnung]]]., = **Where to?**
+//
+Wohin gehst du? - Küche (poss. 2nd pers. sing.) §Ich gehe (in) [[[deine Küche]]]., = **Where to?**
+Wohin gehst du? - Zimmer (poss. 2nd pers. sing.) §Ich gehe (in) [[[dein Zimmer]]]., = **Where to?**
+Wohin gehst du? - Bad (poss. 2nd pers. sing.) §Ich gehe (in) [[[dein Bad]]]., = **Where to?**
+Wohin geht er? - Uni (poss. 2nd pers. sing.) §Er geht (in) [[[deine Uni]]]., = **Where to?**
+Wohin fährst du? - Stadt (poss. 2nd pers. sing.) §Ich fahre (in) [[[deine Stadt]]]., = **Where to?**
+Wohin gehst du? - Raum (poss. 2nd pers. sing.) §Ich gehe (in) [[[deinen Raum]]]., = **Where to?**
+Wohin gehst du? - Wohnung (poss. 2nd pers. sing.) §Ich gehe (in) [[[deine Wohnung]]]., = **Where to?**
+//
+Wohin gehst du? - Küche (poss. 3rd pers. sing.) §Ich gehe (in) [[[seine Küche]]]., = **Where to?**
+Wohin gehst du? - Zimmer (poss. 3rd pers. sing.) §Ich gehe (in) [[[sein Zimmer]]]., = **Where to?**
+Wohin gehst du? - Bad (poss. 3rd pers. sing.) §Ich gehe (in) [[[sein Bad]]]., = **Where to?**
+Wohin geht er? - Uni (poss. 3rd pers. sing.) §Er geht (in) [[[seine Uni]]]., = **Where to?**
+Wohin fährst du? - Stadt (poss. 3rd pers. sing.) §Ich fahre (in) [[[seine Stadt]]]., = **Where to?**
+Wohin gehst du? - Raum (poss. 3rd pers. sing.) §Ich gehe (in) [[[seinen Raum]]]., = **Where to?**
+Wohin gehst du? - Wohnung (poss. 3rd pers. sing.) §Ich gehe (in) [[[seine Wohnung]]]., = **Where to?**
+// Title: 
+// W_Frage_Wann
+// 
+// Tags: 
+// Netzwerk neu A1
+// 
+// Support Page: 
+// Dr. Kai, https://tm-tutor.de/
+// 
+// Description:  
+// Netzwerk neu A1: W_Frage_Wann
+// 
